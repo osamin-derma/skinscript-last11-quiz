@@ -83,7 +83,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
 
         {/* Logo & Title */}
         <div className="text-center mb-6">
-          <img src="/icon.png" alt="SkinScript" className="w-24 h-24 mx-auto mb-3 rounded-full shadow-lg" style={{ objectFit: 'cover' }} />
+          <img src={`${import.meta.env.BASE_URL}icon.png`} alt="SkinScript" className="w-24 h-24 mx-auto mb-3 rounded-full shadow-lg" style={{ objectFit: 'cover' }} />
           <h1 className="text-3xl font-extrabold tracking-tight mb-0.5">
             <span style={{ color: brand }}>SKIN</span><span style={{ color: brandLight }}>SCRIP</span><span style={{ color: gold, fontStyle: 'italic' }}>t</span>
           </h1>
