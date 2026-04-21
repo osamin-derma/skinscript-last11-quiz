@@ -487,7 +487,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
                 <div className="text-xs text-gray-500">Questions Seen</div>
               </div>
               <div className="p-4 rounded-xl bg-gray-100 dark:bg-gray-700 text-center">
-                <div className="text-3xl font-bold text-gray-600">{Math.round((globalUsed.length / totalQuestions) * 100)}%</div>
+                <div className="text-3xl font-bold text-gray-600">{totalQuestions > 0 ? Math.round((globalUsed.length / totalQuestions) * 100) : 0}%</div>
                 <div className="text-xs text-gray-500">Completion</div>
               </div>
             </div>
@@ -499,7 +499,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
                 <span>{globalUsed.length}/{totalQuestions}</span>
               </div>
               <div className="w-full h-3 bg-gray-200 dark:bg-gray-600 rounded-full overflow-hidden">
-                <div className="h-full rounded-full transition-all" style={{ width: `${(globalUsed.length / totalQuestions) * 100}%`, backgroundColor: blue }} />
+                <div className="h-full rounded-full transition-all" style={{ width: `${totalQuestions > 0 ? (globalUsed.length / totalQuestions) * 100 : 0}%`, backgroundColor: brand }} />
               </div>
             </div>
 
