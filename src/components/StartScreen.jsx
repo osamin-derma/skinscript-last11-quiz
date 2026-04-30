@@ -89,9 +89,9 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
           </h1>
           <p className="text-xs font-medium tracking-widest uppercase text-gray-400">Dermatology & Education</p>
           <div className="mt-3 inline-flex items-center gap-2 px-3 py-1 rounded-full" style={{ backgroundColor: '#e8f0f0' }}>
-            <span className="text-[10px] font-bold tracking-wide uppercase" style={{ color: brand }}>Last 11 Board Exams</span>
+            <span className="text-[10px] font-bold tracking-wide uppercase" style={{ color: brand }}>Dermatology Quiz</span>
             <span className="text-[10px] text-gray-500">•</span>
-            <span className="text-[10px] text-gray-500">Sep 2019 – Oct 2025</span>
+            <span className="text-[10px] text-gray-500">Last 11 Exams + Makki Questions</span>
           </div>
         </div>
 
@@ -133,29 +133,103 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
         )}
 
         {/* ═══════════════════════════════════════════════ */}
-        {/* QUESTION BANK — Last 11 Exams (single source)   */}
+        {/* QUESTION BANK SELECTOR — All / Last 11 / Makki  */}
         {/* ═══════════════════════════════════════════════ */}
         {banks && (
           <div className="mb-5">
             <div className="flex items-center gap-2 mb-3">
               <div className="w-1 h-5 rounded-full" style={{ backgroundColor: brand }} />
-              <label className="text-sm font-bold uppercase tracking-wide" style={{ color: brand }}>Question Bank</label>
+              <label className="text-sm font-bold uppercase tracking-wide" style={{ color: brand }}>Select Question Bank</label>
             </div>
 
-            {/* Last 11 Exams — single prominent card */}
-            <div
-              className="w-full p-5 rounded-xl border-2 border-teal-700 shadow-md flex items-center gap-4"
-              style={{ backgroundColor: '#e8f0f0' }}
+            {/* All Questions — full-width card */}
+            <button
+              onClick={() => setActiveBank('all')}
+              className={`w-full mb-2 p-4 rounded-xl border-2 text-left transition-all flex items-center gap-4 ${
+                activeBank === 'all'
+                  ? 'shadow-md'
+                  : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 hover:shadow-sm'
+              }`}
+              style={activeBank === 'all'
+                ? { backgroundColor: '#e8f0f0', borderColor: brand }
+                : {}}
             >
-              <div className="w-14 h-14 rounded-full flex items-center justify-center text-2xl" style={{ backgroundColor: brand, color: 'white' }}>
-                📋
+              <div className="w-12 h-12 rounded-full flex items-center justify-center text-xl"
+                   style={{ backgroundColor: activeBank === 'all' ? brand : '#e5e7eb',
+                            color: activeBank === 'all' ? 'white' : '#6b7280' }}>
+                📚
               </div>
               <div className="flex-1">
-                <div className="font-bold text-base" style={{ color: brand }}>Last 11 Board Exams</div>
-                <div className="text-xs text-gray-600 dark:text-gray-400 mt-0.5">September 2019 – October 2025</div>
-                <div className="text-[10px] text-gray-500 mt-1">Verified against Bolognia 5th Edition (2024)</div>
+                <div className="font-bold text-base" style={{ color: activeBank === 'all' ? brand : undefined }}>All Questions</div>
+                <div className="text-xs text-gray-500">Combined: Last 11 Exams + Makki Questions</div>
               </div>
-              <div className="text-3xl font-extrabold" style={{ color: brand }}>{banks.last11.count}</div>
+              <div className="text-2xl font-extrabold"
+                   style={{ color: activeBank === 'all' ? brand : '#9ca3af' }}>
+                {banks.all.count}
+              </div>
+            </button>
+
+            {/* Last 11 Exams + Makki — side by side */}
+            <div className="grid grid-cols-2 gap-2">
+              {/* Last 11 */}
+              <button
+                onClick={() => setActiveBank('last11')}
+                className={`p-4 rounded-xl border-2 text-left transition-all ${
+                  activeBank === 'last11'
+                    ? 'shadow-md'
+                    : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 hover:shadow-sm'
+                }`}
+                style={activeBank === 'last11'
+                  ? { backgroundColor: '#e8f0f0', borderColor: brand }
+                  : {}}
+              >
+                <div className="flex items-center gap-2 mb-2">
+                  <div className="w-8 h-8 rounded-lg flex items-center justify-center text-sm"
+                       style={{ backgroundColor: activeBank === 'last11' ? brand : '#e5e7eb',
+                                color: activeBank === 'last11' ? 'white' : '#6b7280' }}>
+                    📋
+                  </div>
+                  <div className="text-2xl font-extrabold"
+                       style={{ color: activeBank === 'last11' ? brand : '#9ca3af' }}>
+                    {banks.last11.count}
+                  </div>
+                </div>
+                <div className="font-semibold text-sm"
+                     style={{ color: activeBank === 'last11' ? brand : undefined }}>
+                  Last 11 Board Exams
+                </div>
+                <div className="text-[10px] text-gray-400 mt-0.5">Sep 2019 – Oct 2025</div>
+              </button>
+
+              {/* Makki */}
+              <button
+                onClick={() => setActiveBank('makki')}
+                className={`p-4 rounded-xl border-2 text-left transition-all ${
+                  activeBank === 'makki'
+                    ? 'shadow-md'
+                    : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 hover:shadow-sm'
+                }`}
+                style={activeBank === 'makki'
+                  ? { backgroundColor: '#fdf6e3', borderColor: gold }
+                  : {}}
+              >
+                <div className="flex items-center gap-2 mb-2">
+                  <div className="w-8 h-8 rounded-lg flex items-center justify-center text-sm"
+                       style={{ backgroundColor: activeBank === 'makki' ? gold : '#e5e7eb',
+                                color: activeBank === 'makki' ? 'white' : '#6b7280' }}>
+                    🩺
+                  </div>
+                  <div className="text-2xl font-extrabold"
+                       style={{ color: activeBank === 'makki' ? gold : '#9ca3af' }}>
+                    {banks.makki.count}
+                  </div>
+                </div>
+                <div className="font-semibold text-sm"
+                     style={{ color: activeBank === 'makki' ? gold : undefined }}>
+                  Makki Questions
+                </div>
+                <div className="text-[10px] text-gray-400 mt-0.5">Dermatology MCQs</div>
+              </button>
             </div>
           </div>
         )}

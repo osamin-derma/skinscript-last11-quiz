@@ -1,10 +1,33 @@
 import { useEffect, useReducer, useState } from 'react'
 import last11Questions from './data/last11_questions.json'
+import makkiQuestionsRaw from './data/makki_questions.json'
 
-// Single question bank — Last 11 Board Exams only
+// Tag each question with its source so they can be combined
+const last11Tagged = last11Questions.map(q => ({ ...q, source: q.source || 'Last 11 Board Exams' }))
+const makkiTagged = makkiQuestionsRaw.map(q => ({ ...q, source: 'Makki Questions' }))
+
+// Combined "All" bank: prefix Makki IDs with offset to avoid collisions
+const combinedAll = [
+  ...last11Tagged,
+  ...makkiTagged.map(q => ({ ...q, id: q.id + 100000 })),
+]
+
 const allBanks = {
-  last11: { label: 'Last 11 Board Exams', questions: last11Questions, count: last11Questions.length },
-  all: { label: 'All Questions', questions: last11Questions, count: last11Questions.length },
+  last11: {
+    label: 'Last 11 Board Exams',
+    questions: last11Tagged,
+    count: last11Tagged.length,
+  },
+  makki: {
+    label: 'Makki Questions',
+    questions: makkiTagged,
+    count: makkiTagged.length,
+  },
+  all: {
+    label: 'All Questions',
+    questions: combinedAll,
+    count: combinedAll.length,
+  },
 }
 
 function getBankQuestions(bankKey) {
@@ -51,7 +74,7 @@ const initialState = {
   darkMode: false,
   selectedTopics: [],
   quizSource: 'all', // 'all' | 'flagged' | 'wrong' | 'unused' | 'topics'
-  activeBank: 'last11', // Only last11 available
+  activeBank: 'all', // 'all' | 'last11' | 'makki'
   history: [],
   globalFlagged: [],
   globalWrong: [],
@@ -217,7 +240,7 @@ function reducer(state, action) {
       return {
         ...initialState,
         darkMode: state.darkMode, // keep dark mode preference
-        activeBank: 'last11',
+        activeBank: 'all',
       }
     }
     default:
@@ -276,9 +299,12 @@ export default function App() {
           onStart={(opts) => dispatch({ type: 'START_QUIZ', ...opts })}
           dispatch={dispatch}
           banks={{
-            all: { label: 'Last 11 Exams', count: allBanks.last11.count },
-            last11: { label: 'Last 11 Exams', count: allBanks.last11.count },
+            all: { label: 'All Questions', count: allBanks.all.count },
+            last11: { label: 'Last 11 Board Exams', count: allBanks.last11.count },
+            makki: { label: 'Makki Questions', count: allBanks.makki.count },
           }}
+          activeBank={state.activeBank}
+          setActiveBank={(bank) => dispatch({ type: 'SET_BANK', bank })}
         />
       )}
       {state.screen === 'quiz' && (
