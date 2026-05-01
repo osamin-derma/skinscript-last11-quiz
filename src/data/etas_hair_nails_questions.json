@@ -1,0 +1,2498 @@
+[
+  {
+    "id": 1,
+    "original_num": 1,
+    "question": "1. The distal nail matrix is visible at the following portion of the nail unit:",
+    "choices": {
+      "A": "Onychodermal band",
+      "B": "Hyponychium",
+      "C": "Lunula",
+      "D": "Cuticle",
+      "E": "Lateral nailfold"
+    },
+    "correct_answer": "C",
+    "correct_text": "Lunula",
+    "explanation": "The distal nail matrix is located at the lunula, which is visible as the half-moon\nstructure at the base of the nail. The proximal matrix is located under the proximal nailfold. Damage\nto the proximal nail matrix produces defects at the dorsal nailplate, and damage to the distal nail\nmatrix produces produces defects at the ventral nail plate.\nOnychodermal band: A fine, pallid, translucent band at the junction of the distal nail bed and\nhyponychium.\nHyponychium: The hyponychium is the area of epithelium, particularly the thickened portion,\nunderlying the free edge of the nail plate on the nail.\nCuticle: The cuticle is an area of keratin joining the skin of the posterior nail fold to the nail plate.\nLoss of cuticle results in paronychia.\nLateral nailfold: The nail plate emerges from the proximal nail fold and is bordered on either side\nby the lateral nail folds (paronychium). ... The skin proximal to the nail that covers the nail fold is\nthe eponychium. The tissue distal to the eponychium in contact with the nail represents the cuticle.\nThe lunula, or lunulae ('little moon', is the crescent-shaped whitish area of the bed of a fingernail or\ntoenail. The lunula is the visible part of the root of the nail.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 2,
+    "original_num": 2,
+    "question": "2. A 28-year-old male presents with three coin-shaped areas of scalp alopecia without scaling or erythema. Which of the following is most likely to be associated with alopecia areata?",
+    "choices": {
+      "A": "Hypothyroidism",
+      "B": "Seborrheic dermatitis",
+      "C": "Tinea capitis",
+      "D": "Congestive heart failure",
+      "E": "Chronic kidney disease"
+    },
+    "correct_answer": "A",
+    "correct_text": "Hypothyroidism",
+    "explanation": "Alopecia areata is associated with autoimmune diseases, especially thyroid disease,\nhypo- or hyperthyroidism. It presents with well-defined patches of alopecia without scale or\nerythema. Seborrheic dermatitis may result in temporary hair thinning, but does not result in coinshaped patches of alopecia. Tinea capitis presents with itchy scale on the scalp and possibly\ntemporary poorly defined alopecia. Congestive heart failure and chronic kidney disease are not\nassociated with alopecia areata. Hypothyroidism and thyroid autoimmunity are commonly\nassociated with alopecia aerata (AA). AA cases should be screened for thyroid dysfunction and\nthyroid autoimmunity even in the absence of clinical manifestations suggestive of these diseases.\nAutoimmunity is proposed to play a role in AA. The autoimmune process appears to be T-cell\nmediated although antibodies to anagen phase hair follicle structures are seen in about 90% of\npatients. This autoimmune etiology has been proposed also on the basis of its association with\nvarious autoimmune diseases, including thyroid disorders, vitiligo, pernicious anemia, diabetes\nmellitus, lupus erythematosus, myasthenia gravis, lichen planus, atopic dermatitis, autoimmune\npolyendocrine syndrome type I and celiac disease. Thyroid disorders and vitiligo have the strongest\nassociation with AA. Thyroid disorders that may be associated with AA include hypothyroidism,\nHashimoto's thyroiditis, Graves’ disease and simple goiter. Among these, hypothyroidism was the\nmost frequent association.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 3,
+    "original_num": 3,
+    "question": "3. Blue lunulae may result from which of the following?",
+    "choices": {
+      "A": "Chronic bronchiectasis",
+      "B": "Hydroxyurea",
+      "C": "Nail-patella syndrome",
+      "D": "Renal failure",
+      "E": "Alopecia areata"
+    },
+    "correct_answer": "B",
+    "correct_text": "Hydroxyurea",
+    "explanation": "Alteration in the color of lunula can be an indication of either a cutaneous or systemic\ndisorder or a systemic drug side effect. Hydroxyurea, an antitumor systemic agent (a ribonucleoside\ndiphosphate reductase inhibitor) used in the treatment of refractory psoriasis as well as in the\nvariety of neoplastic disorders is known to cause brownish pigmentation of the nails but\nhydroxyurea induced blue lunula is very rare. It was reported in a 45-year-old man with chronic\nrecalcitrant plaque psoriasis on oral hydroxyurea 500 mg twice daily. Lunular pigmentation in\nfinger and toenails developed two weeks later. During follow up, pigmentation remained localized\nto the proximal portion of nails. Yellow nails may result from chronic bronchiectasis. Nail-patella\nsyndrome is associated with triangular lunulae. Renal failure may produce absent lunulae, and\nalopecia areata may result in red lunulae.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 4,
+    "original_num": 4,
+    "question": "4. Which of the following is not a feature of Bazex-Dupre-Christol syndrome?",
+    "choices": {
+      "A": "peripheral vasodilation with cyanosis",
+      "B": "multiple basal cell carcinomas",
+      "C": "hypohidrosis",
+      "D": "milia",
+      "E": "epidermoid cysts"
+    },
+    "correct_answer": "A",
+    "correct_text": "peripheral vasodilation with cyanosis",
+    "explanation": "Peripheral vasodilation with cyanosis is not found in Bazex-Dupre-Christol syndrome;\nit is a feature of Rombo syndrome. Bazex-Dupre-Christol syndrome includes multiple BCC,\nfollicular atrophoderma, hypohidrosis, milia, epidermoid cysts, and hypotrichosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 5,
+    "original_num": 5,
+    "question": "5. A 60-year-old woman presents in your dermatology clinic with proximal nail fold erythema and edema, fingertip tenderness and swelling, and eyelid dermatitis. She thinks she may have an allergic contact dermatitis to products in her nail polish. Patch testing with the North American-80 comprehensive series will most likely be positive to which of the following allergens in this patient’s case?",
+    "choices": {
+      "A": "Tosylamide formaldehyde",
+      "B": "Potassium hydroxide",
+      "C": "Polyester resin",
+      "D": "Kaolin",
+      "E": "Butyl acetate"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tosylamide formaldehyde",
+    "explanation": "Allergic contact dermatitis is seen in persons sensitive to tosylamide formaldehyde,\nwho may develop proximal nail fold erythema and edema, fingertip tenderness and swelling, and/or\neyelid dermatitis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 6,
+    "original_num": 6,
+    "question": "6. Splinter hemorrhage of the nail can be seen with which parasitic infections?",
+    "choices": {
+      "A": "Scabies",
+      "B": "Trichinosis",
+      "C": "Sparganosis",
+      "D": "Dracunculiasis",
+      "E": "Gnathostomiasis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Trichinosis",
+    "explanation": "Trichinosis can cause splinter hemorrhage of the nails. The other listed infections are\nnot associated with splinter hemorrhage of the nails.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 7,
+    "original_num": 7,
+    "question": "7. Tricholemmoma is which type of hair follicle tumor?",
+    "choices": {
+      "A": "Tumor of the hair germ cells",
+      "B": "Tumors of matrical differentiation",
+      "C": "Tumors of the external root sheath",
+      "D": "Tumor of isthmus differentiation",
+      "E": "Tumor of the internal root sheath"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tumors of the external root sheath",
+    "explanation": "Tricholemmoma is a tumor of the external root sheath. Tumors of the hair germ cells\ninclude trichoblastoma and trichoepithelioma. Tumors of matrical differentiation include\npilomatricoma. Tumors of the external root sheath include pilar cyst, proliferating tricholemmal\ncyst, tricholemmoma, tricholemmal carcinoma. Tumor of the isthmus differentiation include tumor\nof the follicular infundibulum.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 8,
+    "original_num": 8,
+    "question": "8. A 60-year-old patient develops a green-black to green-blue discoloration of one of her toenails. You suspect she may have green nail syndrome. Which of the following is not a predisposing factor to the development of green nail syndrome?",
+    "choices": {
+      "A": "excessive use of detergents.",
+      "B": "excessive use of soaps",
+      "C": "nail trauma",
+      "D": "melanocytic nevus",
+      "E": "frequent and prolonged exposure to water"
+    },
+    "correct_answer": "D",
+    "correct_text": "melanocytic nevus",
+    "explanation": "In green nail syndrome (chloronychia), the nail develops green–black to green–blue\ndiscoloration due to pyocyanin, a blue–green pigment produced by P. aeruginosa. Predisposing\nfactors include frequent or prolonged exposure to water, excessive use of detergents and soaps, nail\ntrauma and other causes of onycholysis. The diagnosis of green nail syndrome is usually clinical; if\nnecessary, it can be confirmed by Gram stain and culture of exudate and nail fragments. The\ndifferential diagnosis includes a subungual hematoma, melanocytic nevus, melanoma, and\nAspergillus infection.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 9,
+    "original_num": 9,
+    "question": "9. Which of the following nutritional deficiencies is associated with perifollicular hemorrhage?",
+    "choices": {
+      "A": "Vitamin C",
+      "B": "Niacin",
+      "C": "Vitamin B12",
+      "D": "Folate",
+      "E": "Zinc"
+    },
+    "correct_answer": "A",
+    "correct_text": "Vitamin C",
+    "explanation": "Vitamin C deficiency, or scurvy, may lead to perifollicular hemorrhage.\nNiacin deficiency may result in a photo-distributed eruption, diarrhea, and psychiatric symptoms\n(diarrhea, dermatitis, and dementia). Vitamin B12 may lead to glossitis with a shiny, painful tongue.\nZinc deficiency may result in a periorificial dermatitis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 10,
+    "original_num": 10,
+    "question": "10. A 73-year-old man presents with a “red streak” involving the nail plate of the first digit. You make the diagnosis of longitudinal erythronychia. What is the most common underlying cause:",
+    "choices": {
+      "A": "Melanoma",
+      "B": "Myxoid cyst",
+      "C": "Subungual keratoacanthoma",
+      "D": "Carbon Monoxide toxicity",
+      "E": "Onychopapilloma"
+    },
+    "correct_answer": "E",
+    "correct_text": "Onychopapilloma",
+    "explanation": "Onychopapilloma represents a benign tumor of the nail unit and is the most common\netiology of longitudinal erythronychia. Myxcoid cysts are mucin-filled pseudocysts that may be\nconnected to the joint space and often present as longitudinal grooving of the nail plate. Carbon\nmonoxide toxicity may present with a red lunula.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 11,
+    "original_num": 11,
+    "question": "11. A patient with yellow nail syndrome should be evaluated for systemic disease involving which organ system?",
+    "choices": {
+      "A": "Hepatic",
+      "B": "Renal",
+      "C": "Pulmonary",
+      "D": "Cardiovascular",
+      "E": "Hematologic"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pulmonary",
+    "explanation": "Yellow nail syndrome is characterized by slowly growing, yellow nails that are\nexcessively curved. The lunulae and cuticles are absent. It has been associated with a array of\npulmonary diseases including tuberculosis, asthma, pleural effusion, bronchiectasis, sinusitis,\nbronchitis, and COPD. Yellow nail syndrome is not associated with abnormalities in the other listed\norgan systems.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 12,
+    "original_num": 12,
+    "question": "12. A patient is diagnosed with Netherton's syndrome and has invagination of the distal hair shaft into the cup formed by the proximal hair shaft also known as:",
+    "choices": {
+      "A": "Trichorrhexis invaginata",
+      "B": "Trichorrhexis nodosum",
+      "C": "Trichoschisis",
+      "D": "Trichothiodystrophy",
+      "E": "Pili torti"
+    },
+    "correct_answer": "A",
+    "correct_text": "Trichorrhexis invaginata",
+    "explanation": "Patients with Netherton's syndrome have trichorrhexis invaginata. This syndrome also\nincludes ichthyosis linearis circumflexa, atopy, trichorrhexis nodosa. They have a mutation in the\nSPINK5 gene with mutation in the serine protease inhibitor.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 13,
+    "original_num": 13,
+    "question": "13. The hair finding characterized by an invagination of the distal hair shaft into the cup formed by the proximal hair shaft is:",
+    "choices": {
+      "A": "Trichoschisis",
+      "B": "Pili torti",
+      "C": "Pili triangulati",
+      "D": "Trichorrhexis nodosa",
+      "E": "Trichorrhexis invaginata"
+    },
+    "correct_answer": "E",
+    "correct_text": "Trichorrhexis invaginata",
+    "explanation": "The above description is that of trichorrhexis invaginata, which is characteristic of\nNetherton syndrome. Other findings include: ichthyosis linearis circumflexa and atopy. It is caused\nby the mutation of the serine protease inhibitor, SPINK5. Trichoschisis hairs are broken\ntransversely, pili torti hairs have a twisted appearance, pili triangulati have a triangular appearance\non cross section, and trichorrhexis nodosa demonstrates a broken broomstick appearance.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 14,
+    "original_num": 14,
+    "question": "14. This hair disorder and mutations in ATP7A (MNK) gene are found in what genodermatosis?",
+    "choices": {
+      "A": "Bjornstad syndrome",
+      "B": "Menke's kinky hair syndrome",
+      "C": "Crandall's syndrome",
+      "D": "Bazex's follicular atrophoderma",
+      "E": "Trichothiodystrophy"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menke's kinky hair syndrome",
+    "explanation": "Menke's kinky hair syndrome is characterized by pili torti and mutations in APT7A\n(MNK) gene. Bjornstad syndrome, Crandall’s syndrome and Bazex’s follicular atrophoderma are\nassociated with pili torti but are not associated with this mutation. Follicular atrophoderma can be\nassociated with Bazex–Dupré–Christol and Conradi–Hünermann–Happle syndromes.\nIn Bjornstad sydrome, the hearing loss usually becomes evident very early in life, often in the first\nyear. Pili torti, a condition in which the hair shaft is flattened and twisted, makes the hair very brittle\nand patients develop hair loss in the first two years of life. Björnstadsyndrome is caused by\nmutations in the BCS1L gene. Crandall syndrome is a very rare congenital disorder characterized by\nprogressive sensorineural hearing loss, hair loss associated with pili torti, and hypogonadism\ndemonstrated through low levels of luteinising hormone and growth hormone.\nTrichothiodystrophy (TTD) is an autosomal recessive inherited disorder characterised by brittle hair\nand intellectual impairment.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 15,
+    "original_num": 15,
+    "question": "15. A six year old girl presents after being sent home from school for \"lice\". On examination, there are structures on the hair which are freely slide along the hair shaft. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Pediculosis",
+      "B": "Hair casts",
+      "C": "Trichoptilosis",
+      "D": "Monilethrix",
+      "E": "Pili annulati"
+    },
+    "correct_answer": "B",
+    "correct_text": "Hair casts",
+    "explanation": "Hair casts present most commonly in young girls between the age of 2 and 8 years old.\nThese casts are freely sliding along the hair shaft and are not adherent. Hair casts must be\ndistinguished from the nits of pediculosis capitis, which are adherent to the hair and do not slide.\nTrichoptilosis are \"split ends\" that form from chemical or physical damage to the hair. Monilethrix\ndescribes a beaded appearance of ahir due to periodic thinning of the hair shaft. Pili annulati refers\nto alternating light and dark bands seen in the hair shaft with reflected light.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 16,
+    "original_num": 16,
+    "question": "16. What is the gene defect that causes red hair?",
+    "choices": {
+      "A": "Tyrosinase",
+      "B": "P protein",
+      "C": "Melanocortin 1 receptor",
+      "D": "Tyrosine aminotransferase",
+      "E": "Tyrosinase-related protein 1"
+    },
+    "correct_answer": "C",
+    "correct_text": "Melanocortin 1 receptor",
+    "explanation": "Defects in melanocortin 1 receptor lead to the phenotypic appearance of red hair.\nIndividuals with red hair have increased ratio of pheomelanin to eumelanin and are at increased risk\nfor melanoma. The other genes are not associated with red hair.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 17,
+    "original_num": 17,
+    "question": "17. A 70-year-old female develops green-black to green-blue discoloration of her great toenail. She works as a janitor at a seaquarium and thinks she may have developed the discoloration due to frequent and prolonged exposure to water. Which of the following is not a treatment option for green nail syndrome (chloronychia)?",
+    "choices": {
+      "A": "Ciprofloxacin 500 mg PO BID x 2 weeks",
+      "B": "Topical application of 2% sodium hypochlorite",
+      "C": "Avoidance of bleach",
+      "D": "Tobramycin solution for 1-4 months",
+      "E": "Removal of the affected nail"
+    },
+    "correct_answer": "C",
+    "correct_text": "Avoidance of bleach",
+    "explanation": "Avoidance of bleach is not recommended as a treatment option for green nail\nsyndrome. In green nail syndrome (chloronychia), the nail develops green–black to green–blue\ndiscoloration due to pyocyanin, a blue–green pigment produced by P. aeruginosa. Predisposing\nfactors include frequent or prolonged exposure to water, excessive use of detergents and soaps, nail\ntrauma and other causes of onycholysis. The diagnosis of green nail syndrome is usually clinical; if\nnecessary, it can be confirmed by Gram stain and culture of exudate and nail fragments. The\ndifferential diagnosis includes a subungual hematoma, melanocytic nevus, melanoma, and\nAspergillus infection. Treatment\ninvolves avoidance of predisposing factors, clipping the nail, and topical application of 2% sodium\nhypochlorite (household bleach diluted 1:4), a quinolone, or aminoglycoside (e.g. tobramycin)\nsolution for 1–4 months. In refractory cases, removal of the affected nail may be required.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 18,
+    "original_num": 18,
+    "question": "18. This medication is a source of anagen effluvium and can cause abrupt shedding of hair:",
+    "choices": {
+      "A": "Colchicine",
+      "B": "Hydrochlorothiazide",
+      "C": "Beta blockers",
+      "D": "Calcium channel blockers",
+      "E": "Procainamide"
+    },
+    "correct_answer": "A",
+    "correct_text": "Colchicine",
+    "explanation": "Colchicine, mercury intoxication, thallium poisoning and severe protein deficiency\ncan cause anagen effluvium. Hairs are usually broken and not shed.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 19,
+    "original_num": 19,
+    "question": "19. A 64-year-old man admitted for an exacerbation of his severe congestive heart failure exhibits blanchable white horizontal lines beneath the nail plates of all digits. What is the most likely disorder:",
+    "choices": {
+      "A": "Beau’s lines",
+      "B": "Mee’s lines",
+      "C": "Muehrcke’s lines",
+      "D": "Onychophagia",
+      "E": "Dolichonychia"
+    },
+    "correct_answer": "C",
+    "correct_text": "Muehrcke’s lines",
+    "explanation": "Muehrcke’s lines disappear with squeezing of the nail and are due to disorders of low\nalbumin. Beau’s lines are transverse indented nail plate furrows caused by temporary growth arrest\nof the nail matrix, often due to chemotherapy or other stressful events and illnesses. Mee’s lines are\ntransverse white lines affecting all nails and growing out with the nail; there is no associated\nindentation. Mee’s lines may be caused by arsenic poisoning, rheumatic fever, or other systemic\ndiseases. Oncyhophagia refers to nail biting. Dolichonychia exhibits long, slender nails, and is\nassociated with Ehlers-Danlos and Marfans.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 20,
+    "original_num": 20,
+    "question": "20. Patients presenting with horizontal parallel ridges on the nail, often accompanied by an absent cuticle have:",
+    "choices": {
+      "A": "Habit tic deformity",
+      "B": "Elkonyxis",
+      "C": "Dolichonychia",
+      "D": "Heller's median canaliform dystrophy",
+      "E": "Hapalonychia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Habit tic deformity",
+    "explanation": "Patients with horizontal parallel ridges, often accompanied by an absent cuticle, is\ncalled habit tic deformity. It is caused by trauma to the cuticle. Patients can have anxiety and\nobsessive compulsive disorder associated with this finding. Elkonyxis are large 2-3 mm pits on the\nnail. Dolichonychia are long nails associated with Marfan's or Ehlers-Danlos syndrome.\nHeller's median canaliform dystrophy are longitudinal fissures with oblique lines caused by trauma\nto the proximal nail (not the cuticle as in habit tic deformity). Hapalonychia are soft nails caused by\na nail matrix defect",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 21,
+    "original_num": 21,
+    "question": "21. What condition most likely describes a hair defect with ruffled cuticle in 4-year old female with blonde hair?",
+    "choices": {
+      "A": "Pili torti",
+      "B": "Pili annulati",
+      "C": "Wooly hair",
+      "D": "Loose anagen hair syndrome",
+      "E": "Monilethrix"
+    },
+    "correct_answer": "D",
+    "correct_text": "Loose anagen hair syndrome",
+    "explanation": "Loose anagen hair syndrom occurs primarily in young, females with blond hair. The\ndefect results in early keratinization of the inner root sheath which leads to poor anchoring.\nExamination of hair shaft reveals ruffled proximal cuticle. The other choices do not occur in young\nfemales with blonde hair.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 22,
+    "original_num": 22,
+    "question": "22. How long do hairs stay in telogen before they are released?",
+    "choices": {
+      "A": "3-4 weeks",
+      "B": "3-4 months",
+      "C": "3-4 years",
+      "D": "3-4 days",
+      "E": "3-4 hours"
+    },
+    "correct_answer": "B",
+    "correct_text": "3-4 months",
+    "explanation": "Hairs remain in telogen phase for 3-4 months before they are released.\nThe length of anagen phase varies for hairs of different parts of the body and determines the\nultimate length of the hair. Scalp hair may remain in anagen for 3-5 years. The duration of catagen\nphase is typically 3-4 weeks.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 23,
+    "original_num": 23,
+    "question": "23. Blue lunulae are characteristic of which disease?",
+    "choices": {
+      "A": "Yellow nail syndrome",
+      "B": "Wilson's disease",
+      "C": "Rubenstein-Taybi syndrome",
+      "D": "Hypertrophic pulmonary osteoarthropathy",
+      "E": "Clubbing"
+    },
+    "correct_answer": "B",
+    "correct_text": "Wilson's disease",
+    "explanation": "Wilson's disease is associated with characteristic blue lunulae. The other listed\nconditions do not typically exhibit blue lunulae.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 24,
+    "original_num": 24,
+    "question": "24. A 52 year old male with diabetes mellitus presents with a greater than 3 month history of recurrent warmth, erythema, and slight pain surrounding the first toenail of the right foot. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute Paronychia",
+      "B": "Orf",
+      "C": "Contact Dermatitis",
+      "D": "Chronic Paronychia",
+      "E": "Herpetic Whitlow"
+    },
+    "correct_answer": "D",
+    "correct_text": "Chronic Paronychia",
+    "explanation": "Paronychia is an inflammatory reaction involving the folds of skin surrounding the\nnail. It can be characterized as acute or chronic. Acute paronychia is usually due to direct or indirect\ntrauma followed by separation of the eponychium from the nail plate, the causative bacteria usually\nStaph aureus and Strep pyogenes. The treatment includes culturing the skin, systemic antibiotics,\nand draining of abscess if necessary. Chronic paranochya is most likely a contact reaction to\nirritants or allergens. It is characterized by inflammation of the proximal nail fold with erythema,\nedema and absence of the cuticle. The most frequently recovered organism is Candida. It was\noriginally thought to be result of Candida infection and treatment was based upon antifungal\ntherapy with minimal-moderate response. Newer studies suggest that it is actually dermatitis of the\nnail fold colonized by Candida. Treatment now is based on topical anti-inflammatory steroids.\nContact dermatitis, orf, and herpetic whitlow are not examples of paronychia disease.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 25,
+    "original_num": 25,
+    "question": "25. Twenty-nail dystrophy, nail plate splitting and pterygium formation are nail changes seen in:",
+    "choices": {
+      "A": "Lichen Planus",
+      "B": "Darier's disease",
+      "C": "Psoriasis",
+      "D": "Scleroderma",
+      "E": "Dermatomyositis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Lichen Planus",
+    "explanation": "Twenty-nail dystrophy, nail plate splitting and pterygium formation are nail changes\nassociated with Lichen Planus. Darier's disease is associated with longitudinal red and white streaks\nof the nail plate and V-shaped knicking distally. Psoriasis is associated with many nail abnormalities\nincluding pitting, onycholysis and oil-spots. Scleroderma may cause nail fold capillary dilation and\ndestruction while patients with dermatomyositis may exhibit nail fold telangiectasias and frayed\ncuticles.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 26,
+    "original_num": 26,
+    "question": "26. Pseudo-pili annulati with light reflection off periodic flattening of the hair shaft is seen in:",
+    "choices": {
+      "A": "Blond hair",
+      "B": "Red hair",
+      "C": "Brown hair",
+      "D": "Black hair",
+      "E": "White hair"
+    },
+    "correct_answer": "A",
+    "correct_text": "Blond hair",
+    "explanation": "Pseudo pili annulati is seen in blond hair, due to the light reflection off the periodic\nflattening of the hair shaft. Pili annulati is the alternating of light and dark bands, secondary to air\nspaces, seen in normal light as opposed to \"tiger-tail\" hair in trichothiodystrophy, seen only under\npolarized light. Pseudo pili annulati is not seen in red, brown, black, or white hair.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 27,
+    "original_num": 27,
+    "question": "27. Björnstad syndrome is the combination of pili torti and which of the following features?",
+    "choices": {
+      "A": "Lentigines",
+      "B": "White forelock",
+      "C": "Hypogonadism",
+      "D": "Deafness",
+      "E": "Seizures"
+    },
+    "correct_answer": "D",
+    "correct_text": "Deafness",
+    "explanation": "Deafness and pili torti are the two cardinal features of Björnstad syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 28,
+    "original_num": 28,
+    "question": "28. Yellow nail syndrome has been associated with use of which of the following treatments for Rheumatoid Arthritis?",
+    "choices": {
+      "A": "D-penicillamine",
+      "B": "Methotrexate",
+      "C": "Infliximab",
+      "D": "Etanercept",
+      "E": "Adalimumab"
+    },
+    "correct_answer": "A",
+    "correct_text": "D-penicillamine",
+    "explanation": "D-penicillamine has been associated with the development of yellow nail syndrome in\npatiens with rheumatoid arthritis.The other options are used to treat RA, but have not been\nassociated with development of this syndrome",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 29,
+    "original_num": 29,
+    "question": "29. Muehrcke's nails are most often associated with:",
+    "choices": {
+      "A": "Hyperthyroidism",
+      "B": "Hypothyroidism",
+      "C": "Hypoalbuminemia",
+      "D": "Hyperalbuminemia",
+      "E": "Chronic renal failure"
+    },
+    "correct_answer": "C",
+    "correct_text": "Hypoalbuminemia",
+    "explanation": "Muehrcke's nails are most associated with hypoalbuminemia. They represent\ntransverse double white lines that are the abnormality of the vascular bed, probably a localized\nedematous state secondary to the hypoalbuminemia. The remainder of the answer choices are\nincorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 30,
+    "original_num": 30,
+    "question": "30. The visible portion of the nail matrix is called the:",
+    "choices": {
+      "A": "Eponychium",
+      "B": "Lunula",
+      "C": "Cuticle",
+      "D": "Hyponychium",
+      "E": "Nail plate"
+    },
+    "correct_answer": "B",
+    "correct_text": "Lunula",
+    "explanation": "The nail unit is comprised of six major components including the nail matrix, nail\nplate, cuticle, nail bed, anchoring portion, and the framing portion (proximal/lateral/distal folds).\nThe lunula is a component of the distal matrix. It is grayish white because of the nature of the\nkeratinization of its epithelium. The other answer choices do not include the visible portion of the\nnail matrix.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 31,
+    "original_num": 31,
+    "question": "31. A patient with synophrys, dystopia canthorum, and heterochromia iridum irides likely has which of the following hair abnormalities?",
+    "choices": {
+      "A": "Diffuse thinning",
+      "B": "Scarring alopecia",
+      "C": "Trichorrhexis invaginata",
+      "D": "Trichorrhexis nodosa",
+      "E": "White forelock"
+    },
+    "correct_answer": "E",
+    "correct_text": "White forelock",
+    "explanation": "White forelock is a common feature of Waardenburg syndrome.\nWaardenburg syndrome is a rare genetic disorder characterized by deafness and abnormal\npigmentation, such as:\n•White forelock\n•Hypopigmented (pale) patches of skin\n•Heterochromia iridis (differently colored eyes)\nWaardenburg syndrome may also be associated with musculoskeletal defects and Hirschsprung\nsyndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 32,
+    "original_num": 32,
+    "question": "32. Acute paronychia is most commonly caused by which of the following organisms?",
+    "choices": {
+      "A": "Candida albicans",
+      "B": "Candida tropicalis",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Staphylococcus aureus",
+      "E": "Trichophyton rubrum"
+    },
+    "correct_answer": "D",
+    "correct_text": "Staphylococcus aureus",
+    "explanation": "Staphylococcus aureus is the most common cause of acute paronychia. Candida\nalbicans commonly causes chronic paryonychia. Pseudomonas causes green nail. Trichophyton\nrubrum may cause onychomycosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 33,
+    "original_num": 33,
+    "question": "33. Eyebrow growth:",
+    "choices": {
+      "A": "Is androgen-dependent in men but not in women",
+      "B": "Is regulated by dehydroepiandrosterone but not androstenedione",
+      "C": "Is not androgen-dependent",
+      "D": "Requires conversion of testosterone to dihydrotestosterone in the hair follicle",
+      "E": "Is regulated only by testosterone and dihydrotestosterone"
+    },
+    "correct_answer": "C",
+    "correct_text": "Is not androgen-dependent",
+    "explanation": "Eyebrows, eyelashes, and vellus hair are not androgen-dependent, thus there is no\ndifference between these areas of hair growth in men and women. The other answer choices listed\nare incorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 34,
+    "original_num": 34,
+    "question": "34. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Bjornstad syndrome",
+      "B": "Trichothiodystrophy",
+      "C": "Uncombable hair syndrome",
+      "D": "Monilethrix",
+      "E": "Netherton's syndrome"
+    },
+    "correct_answer": "D",
+    "correct_text": "Monilethrix",
+    "explanation": "This is an image of monilethrix, which upon trichoscopy reveals a beaded appearance\nof hair due to periodic thinning of the hair shaft.The other answer choices do not feature\nmonilethrix as a clinical finding",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 35,
+    "original_num": 35,
+    "question": "35. A 7-year old girl presents to clinic with onychomadesis afflicting all nails. Her mother reports that she has been healthy other than a self-limited illness two months prior. What is the most likely causative etiology:",
+    "choices": {
+      "A": "Rheumatic fever",
+      "B": "Kawasaki disease",
+      "C": "Systemic T cell lymphoma",
+      "D": "Yellow nail syndrome",
+      "E": "Hand, foot, mouth disease"
+    },
+    "correct_answer": "E",
+    "correct_text": "Hand, foot, mouth disease",
+    "explanation": "Coxsackievirus, the virus most associated with hand, foot, mouth disease, is a wellknown cause of onychomadesis in children.Rheumatic fever has been associated with Mee’s lines of\nthe nail. Yellow nail syndrome is associated with yellow nail plates, edema, and lung disease. The\nother answer choices are not commonly associated with nail disease.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 36,
+    "original_num": 36,
+    "question": "36. This term describes transverse white lines that affect all the nails and can be from arsenic poisoning, leprosy, and systemic disease. This nail defect is called:",
+    "choices": {
+      "A": "Mee's lines",
+      "B": "Plummer's nails",
+      "C": "Muehrcke's lines",
+      "D": "Terry's nails",
+      "E": "Lindsay's nails"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mee's lines",
+    "explanation": "Transverse white lines that affect ALL the nails and grow out with nail growth are\ncalled Mee's lines. They are caused by parakeratosis of the ventral nail plate. They are associated\nwith arsenic poisoning, rheumatic fever, congenital heart failure, leprosy, and systemic disease.\nPlummer's nails are onycholysis from hypothyroidism. Muehrcke's lines are double transverse white\nlines occuring in the setting of nephrotic syndrome, low albumin, liver disease, and malnutrition.\nSince they occur from an abnormal vascular bed, the lines disappear with squeezing of the nail.\nTerry's nails are leukonychia of all but the distal 2 mm of the nail. It occurs in the setting of\ncirrhosis, congenital heart disease, and diabetes. Lindsay's nails (half and half nails) presents as\nwhite proximal nail and normal distal nail. It occurs from nailbed edema in the setting of chronic\nrenal failure.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 37,
+    "original_num": 37,
+    "question": "37. This is the scalp of a 7 year-old-girl. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Alopecia areata",
+      "B": "Triangular alopecia",
+      "C": "Frontal fibrosing alopecia",
+      "D": "Central centrifugal cicatricial alopecia",
+      "E": "Morphea"
+    },
+    "correct_answer": "E",
+    "correct_text": "Morphea",
+    "explanation": "The image depicts a linear, erythematous, shiny, atrophic patch of scarring alopecia\n(note the loss of follicular ostia). This is most consistent with linear morphea (en coup de sabre),\nwhich can present in children and adults. Alopecia areata and triangular alopecia are non-scarring\nforms of alopecia. Frontal fibrosing alopecia and central centrifugal cicatricial alopecia are types of\nscarring alopecia, but they do not present with linear, erythematous, shiny, atrophic patches.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 38,
+    "original_num": 38,
+    "question": "38. Which is the most effective for the treatment of onychomycosis?",
+    "choices": {
+      "A": "Oral terbinafine",
+      "B": "Terbinafine cream",
+      "C": "Econazole cream",
+      "D": "Clobetasol ointment",
+      "E": "Oral ketoconazole"
+    },
+    "correct_answer": "A",
+    "correct_text": "Oral terbinafine",
+    "explanation": "Terbinafine, a squalene epoxidase inhibitor, is the treatment of choice for\nonychomycosis. The treatment is with 250 mg by mouth daily for 12 weeks for toenails and 6\nweeks for fingernails. Other treatment options include oral itraconazole. Topicals such as\nterbinafine cream and econazole cream are good choices for tinea pedis, but are not successful in\ntreating onychomycosis. Topical corticosteroids such as clobetasol ointment are not effective in\ntreating fungal infections. Oral ketoconazole is ineffective for onychomycosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 39,
+    "original_num": 39,
+    "question": "39. Mee's lines are:",
+    "choices": {
+      "A": "Double white transverse lines from abnormal vascular bed",
+      "B": "Brownish macules beneath the nail plate",
+      "C": "Local or diffuse hyperkeratotic tissue that develops on the lateral or proximal nail folds",
+      "D": "Transverse white lines that affect all nails, grow out with nail growth",
+      "E": "Vertical black lines on single or multiple nails"
+    },
+    "correct_answer": "D",
+    "correct_text": "Transverse white lines that affect all nails, grow out with nail growth",
+    "explanation": "Mee's lines are transverse white lines that affect all nails, grow out with nail growth.\nThey are seen in arsenic poisoning, rheumatic fever, congenital heart failure, leprosy and with\nsignificant systemic disease. Brownish macules beneath the nail plate are oil spots, seen in\npsoriasis. Onychophosis is the local or diffuse hyperkeratotic tissue that develops on the lateral or\nproximal nail folds. The double white transverse lines from abnormal vascular bed are Muehrcke's\nlines which are caused by a nephrotic syndrome, low albumin, liver disease or malnutrition.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 40,
+    "original_num": 40,
+    "question": "40. This finding may be seen in all of the following EXCEPT:",
+    "choices": {
+      "A": "Menkes disease",
+      "B": "Trichothiodystrophy",
+      "C": "Crandall syndrome",
+      "D": "Arginosuccinic aciduria",
+      "E": "Netherton's syndrome"
+    },
+    "correct_answer": "C",
+    "correct_text": "Crandall syndrome",
+    "explanation": "This image depicts trichorrhexis nodosa (TN), which describes hair with an\nincomplete fracture with frayed ends resembling two pain brushes against each other. Pili torti\n(twisting and flattening of the hair) is seen in Crandall syndrome, not TN. TN is seen in the\nremaining answer choices.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 41,
+    "original_num": 41,
+    "question": "41. Black nail is caused by:",
+    "choices": {
+      "A": "Trichophyton mentagrophytes",
+      "B": "Proteus mirabilis",
+      "C": "Pseudomonas spp.",
+      "D": "Staphylococcus aureus",
+      "E": "Hortaea werneckii"
+    },
+    "correct_answer": "B",
+    "correct_text": "Proteus mirabilis",
+    "explanation": "Nail infections with Proteus mirabilis.\nT. mentag causes white discoloration of the nail and Pseudomonas will cause a green or yellow/\ngreen discoloration. Hortaea werneckii causes tinea nigra. S. aureus does not cause black nails.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 42,
+    "original_num": 42,
+    "question": "42. Mutations in hair keratins hHB6 and hHB1 cause this characteristic finding pictured below – name the condition:",
+    "choices": {
+      "A": "Trichoptilosis",
+      "B": "Hair casts",
+      "C": "Tiger-tail hair",
+      "D": "Trichoschisis",
+      "E": "Monilethrix"
+    },
+    "correct_answer": "E",
+    "correct_text": "Monilethrix",
+    "explanation": "Mutations in the hair keratins, hHB6 and hHB 1 cause monilethrix.\nHair casts (HCs) are thin, elongated, firm, whitish cylindrical concretions which ensheath the hair\nshaft and can be easily dislodge. They are of two different types: peripilar and parakeratotic keratin\ncast. Due to its clinical resemblance to pediculosis capitis, the entity is also known as pseudonits.\nTrichoschisis is fractured hair.\nTrichoptilosis, schizotrichia, and informally split ends, is the splitting or fraying of the hair-shaft\ndue to excessive heat and mechanical stress. Polarizing light microscopy is the gold standard for\ndetecting the characteristic light and dark bands, the so-called “tiger-tail” or “zigzag” pattern, which\nhas been incorrectly referred to as alternating birefringence.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 43,
+    "original_num": 43,
+    "question": "43. A patient presents with 20 nails with absent cuticles and lunulae, slow growth, dystrophic shape and a yellow hue. Which of the following findings is/are associated?",
+    "choices": {
+      "A": "Upper extremity edema",
+      "B": "Cirrhosis",
+      "C": "Pleural effusions",
+      "D": "Chest pain",
+      "E": "Pulmonary fibrosis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pleural effusions",
+    "explanation": "Yellow Nail syndrome has been associated with lower extremity edema, bronchiectasis\nand pleural effusions. The other listed findings are not part of Yellow Nail syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 44,
+    "original_num": 44,
+    "question": "44. Chronic paronychia is most commonly caused by which of the following organisms?",
+    "choices": {
+      "A": "Candida albicans",
+      "B": "Candida tropicalis",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Staphylococcus aureus",
+      "E": "Trichophyton rubrum"
+    },
+    "correct_answer": "A",
+    "correct_text": "Candida albicans",
+    "explanation": "Candida albicans is the most common pathogen associated with chronic paronychia.\nStaph aureus is the most common pathogen associted with acute paronychia. Pseudomonas causes\ngreen nail. Trichophytan spp cause onychomycosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 45,
+    "original_num": 45,
+    "question": "45. A 36-year-old woman presents with hair loss. Examination of a single follicle reveals multiple hair shafts protruding, each surrounded by its own cuticle. What is the most likely diagnosis:",
+    "choices": {
+      "A": "Pili multigemini",
+      "B": "Pili bifurcati",
+      "C": "Trichoptilosis",
+      "D": "Trichoschisis",
+      "E": "Trichothiodystrophy"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pili multigemini",
+    "explanation": "Pili multigemini refers to a rare disorder of multiple divided hair matrices, with\nmultiple hair shafts each with their own cuticle all arising from one follicle. Pili bifucarti exhibits\nhair shaft bifurcation into short segments along hair shafts, with each segment covered with it’s own\ncuticle. Trichoptilosis refers to “split ends” of the distal portion of the hair shaft. Trichoschisis is a\nclean fracture of the hair shaft. Trichothiodystrophy is a disorder of beaded hair when viewed with\npolarizing light.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 46,
+    "original_num": 46,
+    "question": "46. Which of the following is the predominant dermatoscopic finding seen in alopecia areata?",
+    "choices": {
+      "A": "Diffuse white knots and a brush-pattern",
+      "B": "Perifollicular arborizing vessels",
+      "C": "Yellow dots",
+      "D": "Reduction of follicular ostia",
+      "E": "Small oval nodes"
+    },
+    "correct_answer": "C",
+    "correct_text": "Yellow dots",
+    "explanation": "Dermatoscopic findings of alopecia areata include yellow dots, dystrophic hair shafts\nfeatures, and hypopigmented vellus hairs. Diffuse white knots and a brush pattern is seen in\ntrichorrhexis nodosa. In lichen planopilaris, a reduction to absence of follicular ostia, perifollicular\nscale and arborizing vessels, pigmented networks, and white to blue-gray dots can be observed.\nSmall oval nodes are seen in monilethrix",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 47,
+    "original_num": 47,
+    "question": "47. Fraying of the cuticles occurs in which condition?",
+    "choices": {
+      "A": "Dermatomyositis",
+      "B": "Systemic sclerosis",
+      "C": "Lupus erythematosus",
+      "D": "Hypothyroidism",
+      "E": "Lead poisoning"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dermatomyositis",
+    "explanation": "Dermatomyositis can be associated with fraying of the cuticles (Samitz sign).\nThe other listed conditions do not lead to changes of the cuticle.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 48,
+    "original_num": 48,
+    "question": "48. A patient with end stage renal disease and on dialysis has an opaque white appearance of half of the nail. This is called:",
+    "choices": {
+      "A": "Lindsay's nails",
+      "B": "Terry's nails",
+      "C": "Birt Hogg nails",
+      "D": "Riley's nails",
+      "E": "Hutchinson's nails"
+    },
+    "correct_answer": "A",
+    "correct_text": "Lindsay's nails",
+    "explanation": "This finding associated with end stage renal disease where half of the nail is opaque is\ncalled Lindsay's nail. Patients with cirrhosis or hypoalbuminemia that have whitening of the\nproximal two third of the nail with a 1/3 that is red is called Terry's nails.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 49,
+    "original_num": 49,
+    "question": "49. Which genodermatosis characterized by broad thumbs and this nail disorder pictured below?",
+    "choices": {
+      "A": "Rothmund-Thompson",
+      "B": "Tuberous sclerosis",
+      "C": "Pachyonychia congenita",
+      "D": "Proteus syndrome",
+      "E": "Rubenstein-Taybi syndrome"
+    },
+    "correct_answer": "E",
+    "correct_text": "Rubenstein-Taybi syndrome",
+    "explanation": "Rubensteom-Taybi syndrome is characterized by broad thumbs and broad nails or\nbrachyonychia. This syndrome is characterized by mutations in CREB-binding protein.\nRubinstein-Taybi syndrome is characterized by broad lateral faces, shoulders and back, thick\neyebrows and trichomegaly. Patients also have a tendency for mid facial vascular stains, keloids,\npilomatricomas, broad thumbs/halluces, beaked noses, high-arched palates, short statures.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 50,
+    "original_num": 50,
+    "question": "50. Pili trianguli et canaliculi is the characteristic hair finding in which of the following disorders?",
+    "choices": {
+      "A": "Monilethrix",
+      "B": "Pili annulati",
+      "C": "Naxos syndrome",
+      "D": "Anhidrotic ectodermal dysplasia",
+      "E": "Uncombable hair syndrome"
+    },
+    "correct_answer": "E",
+    "correct_text": "Uncombable hair syndrome",
+    "explanation": "Pili trianguli et canaliculi, characterized by a triangular hair shaft with a central\nlongitudinal groove, is the finding seen in uncombable hair syndrome.\nThe other listed answer choices are incorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 51,
+    "original_num": 51,
+    "question": "51. A 24-year-old man with Lesch-Nyhan syndrome is most likely to present with what nail disorder:",
+    "choices": {
+      "A": "Beau’s lines",
+      "B": "Mee’s lines",
+      "C": "Muehrcke’s lines",
+      "D": "Onychophagia",
+      "E": "Dolichonychia"
+    },
+    "correct_answer": "D",
+    "correct_text": "Onychophagia",
+    "explanation": "Oncyhophagia refers to nail biting. Patient’s with Lesch-Nyhan syndrome, caused by\ndefective HGPRT enzyme, are prone to self-mutilating behaviors, including onychophagia.\nBeau’s lines are transverse indented nail plate furrows caused by temporary growth arrest of the nail\nmatrix, often due to chemotherapy or other stressful events and illnesses. Mee’s lines are transverse\nwhite lines affecting all nails and growing out with the nail; there is no associated indentation.\nMee’s lines may be caused by arsenic poisoning, rheumatic fever, or other systemic diseases.\nMuehrcke’s lines disappear with squeezing of the nail and are due to disorders of low albumin.\nDolichonychia exhibits long, slender nails, and is associated with Ehlers-Danlos and Marfans.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 52,
+    "original_num": 52,
+    "question": "52. Menkes kinky hair syndrome is associated most commonly with:",
+    "choices": {
+      "A": "Trichorrhexsis invaginata",
+      "B": "Trichostasis spinulosa",
+      "C": "Pili multigemini",
+      "D": "Pili torti",
+      "E": "Plica neuropathica"
+    },
+    "correct_answer": "D",
+    "correct_text": "Pili torti",
+    "explanation": "The X-linked recessive Menkes kinky hair syndrome is associated with multiple hair\nshaft abnormalities, most characteristically, pili torti. It is caused by a mutation of the transport\nprotein mediating copper uptake from the intestine, encoded by the ATP7A gene.Trichorrhexsis\ninvaginata is most commonly associated with Netherton syndrome. The other answer choices are\nnot commonly associated with Menkes.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 53,
+    "original_num": 53,
+    "question": "53. This condition describes a mutation in the Hairless gene and is characterized by universal alopecia developing shortly after birth. Patients with this condition have normal eyelashes and cornified cysts over the face and neck. This describes:",
+    "choices": {
+      "A": "Papular atrichia",
+      "B": "Acquired progressive kinking",
+      "C": "Trichotillomania",
+      "D": "Woolly hair nevus",
+      "E": "Ichthyosis follicularis, atrichia, photophobia (IFAP)"
+    },
+    "correct_answer": "A",
+    "correct_text": "Papular atrichia",
+    "explanation": "Patients with papular atrichia have an autosomal recessive mutation in the hairless\ngene, which irreversibly destroys hair follicles. The natal hair falls out after birth, typically around 3\nmonths, and never regrows. Patients present with normal eyelashes and cornified cysts over the face\nand neck.\nAcquired progressive kinking typically presents in a post-pubescent male with androgenetic\nalopecia and gradual curling and darkening of the frontal, temporal, and auricular hair regions.\nTrichotillomania is compulsive hair pulling which presents as irregular broken hairs within a\ngeometric localized area. Woolly hair nevus is an isolated congenital patch of hairs with axial\ntwisting and elliptical cross-sections. Ichthyosis follicularis, atrichia, and photophobia (IFAP)\npresents with absent eyebrows and eyelashes (in contract with papular atrichia). Patients also\npresent with photophobia, punctate corneal scarring, keratoconjunctival inflammation, and\nnystagmus.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 54,
+    "original_num": 54,
+    "question": "54. All of the following are associated with trichorrhexis nodosa except:",
+    "choices": {
+      "A": "Trichothiodystrophy",
+      "B": "Absent argininosuccinase",
+      "C": "Netherton's syndrome",
+      "D": "Menke's kinky hair syndrome",
+      "E": "Bjornstad syndrome"
+    },
+    "correct_answer": "E",
+    "correct_text": "Bjornstad syndrome",
+    "explanation": "Bjornstad syndrome is associated with pili torti and deafness.\nPatients that have trichorrhexis nodosa have frayed ends resembing \"broom-stick\" or \"paint-brush\"\nhair. The following are associated with this condition: argininosuccinic aciduria, Menke's kinky hair\nsyndrome, Trichothiodystrophy, and Netherton's syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 55,
+    "original_num": 55,
+    "question": "55. This term is used to describe nails with absent cuticles/lunulae and slow growth with transverse ridging:",
+    "choices": {
+      "A": "Yellow nail syndrome",
+      "B": "Unguis incartus",
+      "C": "Transverse white bands",
+      "D": "Trachyonychia",
+      "E": "Terry's nails"
+    },
+    "correct_answer": "A",
+    "correct_text": "Yellow nail syndrome",
+    "explanation": "Yellow nail syndrome presents with absent cuticles/lunulae, slow growth, dystrophic\nshape, and transverse ridging. This syndrome is associated with lower extremity with lymphedema\nand bronchiectasis and pleural effusions which can occur in the setting of TB, asthma, and cancers.\nIt is also associated with D-penicillamine and bucillamine use in patients with rheumatoid arthritis.\nUnguis incartus is also known as ingrown nails. Transverse white bands typically affect 1-2 nails\nand are caused by trauma of the nail matrix. Trachyonychia presents as rough nails.\nTerry's nails present from a defect in the nail bed caused by cirrhosis, congenital heart failure, and\ndiabetes. These present as leukonychia of all but the distal 2 mm of the nail.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 56,
+    "original_num": 56,
+    "question": "56. Koilonychia is most commonly seen in association with:",
+    "choices": {
+      "A": "Renal disease",
+      "B": "Progressive systemic sclerosis",
+      "C": "Alopecia areata",
+      "D": "Impaired iron metabolism",
+      "E": "Pulmonary disease"
+    },
+    "correct_answer": "D",
+    "correct_text": "Impaired iron metabolism",
+    "explanation": "In koilonychia (spoon nails), the nail is a concave shape with raised lateral edges.\nIron-deficiency anemia and Plummer-Vinson syndrome have been associated with koilonychia.\nInvolvement of only the first three fingernails is suggestive of an occupational cause. In early\ninfancy, koilonychia is a normal finding. Koilonychia is also seen in hemochromatosis, an\nautosomal recessive condition associated with increased intestinal iron absorption and increased\niron deposition leading to metallic-grey hyperpigmentation of the skin, hepatomegaly, diabetes,\nhypogonadism, polyarthritis, and cardiac abnormalities. Koilonychia is not associated with the other\nlisted conditions.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 57,
+    "original_num": 57,
+    "question": "57. A 6-year old girl with atopic dermatitis presents with patchy non-scarring alopecia and nail pitting. You make the diagnosis of alopecia areata. What portion of the nail unit is responsible for her nail plate pitting:",
+    "choices": {
+      "A": "Hyponychium",
+      "B": "Proximal nail plate",
+      "C": "Proximal nail matrix",
+      "D": "Distal nail matrix",
+      "E": "Eponychium"
+    },
+    "correct_answer": "C",
+    "correct_text": "Proximal nail matrix",
+    "explanation": "The proximal nail matrix produces the dorsal nail plate. Defective keratinization in\nthis region is therefore responsible for the pitting seen in alopecia areata, psoriasis, eczema, and\nother cutaneous diseases. The distal nail matrix produces the ventral nail plate and is visible as the\nlunula.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 58,
+    "original_num": 58,
+    "question": "58. The term used to describe hair shafts in anagen effluvium that are abruptly thinned, forming constrictions and breaking off at the skin surface is:",
+    "choices": {
+      "A": "Pohl-Pinkus",
+      "B": "Trichoptilosis",
+      "C": "Monilethrix",
+      "D": "Trichoschisis",
+      "E": "Trichorrhexis Nodosa"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pohl-Pinkus",
+    "explanation": "Pohl-Pinkus constriction is used to describe abruptly thinned hair shafts. This is seen\nin anagen effluvium, secondary to a toxic insult. The shedding of anagen hairs are always abnormal.\nThis is analogous to Beau's lines in nails. Trichoptilosis or \"split ends\" occur secondary to chemical\nor physical damage. Monilethrix has elliptical nodes at 0.7-1 mm intervals and hair fractures at the\nnodes. Trichoschisis are clean transverse fractures of the hair follicle. Trichorrhexis Nodosa are\nfrayed ends resembling broom-sticks or paint brushes.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 59,
+    "original_num": 59,
+    "question": "59. A 42 year-old woman presents with the complaint of excess hair growth on her face. She has normal menses and has recently had her \"annual\" exam and the note relates normal sized ovaries. What is the most logical next step?",
+    "choices": {
+      "A": "Check plasma levels of androstenedione and testosterone",
+      "B": "Send a 21-hydroxylase enzyme deficiency test",
+      "C": "Biopsy from the most affected area",
+      "D": "Refer her to endocrinology",
+      "E": "Order a CT of the abdomen"
+    },
+    "correct_answer": "A",
+    "correct_text": "Check plasma levels of androstenedione and testosterone",
+    "explanation": "Women with idiopathic hirsutism will have evidence of androgen excess but with\nnormal menses, normal-sized ovaries and no evidence of tumors of adrenal or ovary and normal\nadrenal function. They will often have slight elevations of plasma androstenedione and testosterone.\nCheck the blood levels of the plasma steroids would be a logical first step. The remained of the\nanswer choices should be reserved until a basic hormonal workup is first performed for evaluation\nto guide further management.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 60,
+    "original_num": 60,
+    "question": "60. Signs of virilization include all of the following EXCEPT:",
+    "choices": {
+      "A": "Centripetal obesity",
+      "B": "Temporal balding",
+      "C": "Clitoromegaly",
+      "D": "Increased muscle mass in the limb girdles",
+      "E": "Acne"
+    },
+    "correct_answer": "A",
+    "correct_text": "Centripetal obesity",
+    "explanation": "Centripetal obesity is a sign of cortisol excess not of virilization. In addition to the\nthose listed above, irregular or absent menses and deepening of the voice are signs of virilization.\nTemporal balding, clitoromegaly, increased muscle mass in limb girdles, and acne are all signs of\nvirilization",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 61,
+    "original_num": 61,
+    "question": "61. A patient presents with thin anterior hair and redundant, thickened skin around the neck, palms, and soles. The patient has congenital myopathy, coarse facies, facial and perianal papillomas, and cardiac and developmental disability. The mutation is in:",
+    "choices": {
+      "A": "HRAS gene",
+      "B": "KRAS gene",
+      "C": "BRAF gene",
+      "D": "MEK1 gene",
+      "E": "MEK2 gene"
+    },
+    "correct_answer": "A",
+    "correct_text": "HRAS gene",
+    "explanation": "Patients with Costello syndrome (also known as faciocutaneoskeletal syndrome) have\na mutation in the HRAS gene, which is part of the Ras-MAPK pathway. It has phenotypic overlap\nwith Cardio-facio-cutaneous Syndrome which occurs from a KRAS mutation. Costello syndrome\ndoes not occur from a KRAS, BRAF, MEK1, or MEK2 mutation.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 62,
+    "original_num": 62,
+    "question": "62. Endonyx onychomycosis is most commonly due to:",
+    "choices": {
+      "A": "Trichophyton rubrum",
+      "B": "Trichophyton tonsurans",
+      "C": "Trichophyton soudanense",
+      "D": "Scytalidium dimidiatum",
+      "E": "Scopuliaropsis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Trichophyton soudanense",
+    "explanation": "Endonyx onychomycosis is most commonly due to T. soudanense, although it may\nalso be observed with other Trichophyton species (e.g. rubrum, tonsurans). This is the equivalent of\nendothrix infection of the hair associated with tinea capitis.T. rubrum and T. tonsurans are less\ncommon causes of endonyx onychomycosis. Scytalidium dimidiatum and Scopuliaropsis do not\ntypically produce endonyx onychomycosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 63,
+    "original_num": 63,
+    "question": "63. Lindsay's nails (distal nail normal, proximal nail white) is characteristic of:",
+    "choices": {
+      "A": "Chronic renal failure",
+      "B": "Plummer-Vinson syndrome",
+      "C": "Hemochromatosis",
+      "D": "Ectodermal dysplasia",
+      "E": "LEOPARD syndrome"
+    },
+    "correct_answer": "A",
+    "correct_text": "Chronic renal failure",
+    "explanation": "Lindsay's nails are characteristic of chronic renal failure and indicate nailbed edema.\nThe remaining options are causes of koilonychia, a spooning defect of the nail.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 64,
+    "original_num": 64,
+    "question": "64. A 34-year-old man presents with a jet-black nail plate involving the right index finger. Hutchinson’s sign is negative and the patient denies antecedent trauma. What is the most likely etiology of the nail plate discoloration:",
+    "choices": {
+      "A": "Multiple myeloma",
+      "B": "Wilson disease",
+      "C": "Congenital oncychodysplasia of the index finger (COIF)",
+      "D": "Pseudomonas infection",
+      "E": "Proteus infection"
+    },
+    "correct_answer": "E",
+    "correct_text": "Proteus infection",
+    "explanation": "Proteus infection of the nail is associated with black discoloration of the nail plate.\nMultiple myeloma may be associated with anonychia. Wilson disease classically exhibits blue\nlunulae. COIF presents with absence of the nail plate. Pseudomonal infections of the subunguium\nmay produce a green discoloration due to production of pyocyanin pigment.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 65,
+    "original_num": 65,
+    "question": "65. Patients that experience hypertrichosis lanuginosa acquisita can be due to all of the following except:",
+    "choices": {
+      "A": "Tetracyclines",
+      "B": "Thyrotoxicosis",
+      "C": "Corticosteroids",
+      "D": "Phenytoin",
+      "E": "Spironolactone"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tetracyclines",
+    "explanation": "Tetracyclines are not associated with hypertrichosis lanuginosa aquisita.\nHypertrichosis lanuginosa aquisita could be due to thyrotoxicosis, corticosteroids, phenytoin, and\nspironolactone. It is abrupt onset of downy, soft non-pigmented hair on the face and can be\nassociated with glossistis and lung carcinoma.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 66,
+    "original_num": 66,
+    "question": "66. A significantly increased number of \"club hairs\" on a pull test is indicative of:",
+    "choices": {
+      "A": "Anagen effluvium",
+      "B": "Telogen effluvium",
+      "C": "Normal hair anatomy",
+      "D": "Alopecia areata",
+      "E": "Angrogenetic alopecia"
+    },
+    "correct_answer": "B",
+    "correct_text": "Telogen effluvium",
+    "explanation": "Telogen hairs are characteristically club shaped. An increased number of telogen hairs\non hair pull would be suggestive of telogen effluvium. Anagen hairs have a curled appearance at the\nroot. While a small number of telogen hairs are normal, a significantly increased number would not\nbe normal hair anatomy. The remainder of the answer choices do not exhibit increased numbers of\nclub hairs on pull test.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 67,
+    "original_num": 67,
+    "question": "67. The most common cause of a longitudinal groove of the nail plate is:",
+    "choices": {
+      "A": "Myxoid cyst",
+      "B": "Verruca vulgaris",
+      "C": "Psoriasis",
+      "D": "Onychomycosis",
+      "E": "Paronychia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Myxoid cyst",
+    "explanation": "A myxoid cyst is not a true cyst as it is devoid of cyst lining. They usually occur in an\nacral location and are the most common cause of a longitudinal groove of a nail plate.\nThe other listed answers are less common causes of a longitudinal groove of the nail plate.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 68,
+    "original_num": 68,
+    "question": "68. A patient with diffuse hair loss developing after a thallium scan likely has which of the following conditions?",
+    "choices": {
+      "A": "Anagen effluvium",
+      "B": "Catagen effluvium",
+      "C": "Telogen effluvium",
+      "D": "Loose anagen syndrome",
+      "E": "Uncombable hair syndrome"
+    },
+    "correct_answer": "A",
+    "correct_text": "Anagen effluvium",
+    "explanation": "Anagen effluvium can result from infusions of thallium.\nThe other conditions have not reported to be caused by thallium infusions.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 69,
+    "original_num": 69,
+    "question": "69. Which of the following are findings associated with Nail-Patella Syndrome?",
+    "choices": {
+      "A": "Glomerulonephritis",
+      "B": "Alopecia",
+      "C": "Bladder diverticuli",
+      "D": "Photosensitivity",
+      "E": "Hip dysplasia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Glomerulonephritis",
+    "explanation": "Nail patella syndrome is a rare, AD syndrome associated with nail hypoplasia, absent\nor hypoplastic patella, posterior iliac horns, glaucoma, hyperpigmentation of the pupillary margin or\nLester iris, and glomerulonephritis and nephrotic syndrome. Glomerulonephritis and renal failure\nare features seen in nail patella syndrome. This syndrome is also known as HOOD syndrome or\nhereditary osteoonychodysplasia.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 70,
+    "original_num": 70,
+    "question": "70. A patient with wooly hair, diffuse palmoplantar keratoderma, and right ventricular arrhythmogenic cardiomyopathy likely has a mutation in which of the following genes?",
+    "choices": {
+      "A": "hHb6",
+      "B": "Plakoglobin",
+      "C": "Plakophilin",
+      "D": "SPINK-5",
+      "E": "SLURP-1"
+    },
+    "correct_answer": "B",
+    "correct_text": "Plakoglobin",
+    "explanation": "Naxos syndrome is caused by mutations in the plakoglobin gene. Its clinical features\ninclude wooly hair, diffuse palmoplantar keratoderma, and right ventricular arrhythmogenic\ncardiomyopathy. SPINK-5 is mutated in Netherton syndrome. SLURP-1 mutations have been\ndescribed in Mal de Meleda. Plakophilin mutations have been described in right ventricular\ncardiomyopathy without keratoderma. Keratin hHb6 (keratin 86) is mutated in monilethrix.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 71,
+    "original_num": 71,
+    "question": "71. A patient presents with thickened, hypertrophied nail plates and subungual hyperatosis. The type of this condition that is associated with a keratin 6 and 16 mutation is:",
+    "choices": {
+      "A": "Type I",
+      "B": "Type II",
+      "C": "Type III",
+      "D": "Type IV",
+      "E": "Type V"
+    },
+    "correct_answer": "A",
+    "correct_text": "Type I",
+    "explanation": "Pachyonychia congenita is condition characterized by 20 nail dystrophy, subungual\nhyperkeratosis, pincer nails, and paronychia.\nType I: Jadassohn-Lewandowsky is associated with keratin 6a and 16 mutation, focal PPK,\nfollicular hyperkeratosis, and oral leukokeratoses that are not premalignant.\nType II (Jackson-Lawler) syndrome involves mutations in keratins 6b and 17 and clinically\nresembles the type I syndrome with the additional findings of both natal\nteeth and steatocystoma multiplex; less severe palmoplantar keratoderma with milder or absent oral\nlesions\nType III (Schafer-Branauer) syndrome features all the findings of the type I disease and\nleukokeratosis of the corneas\nType IV, pachyonychia congenita tarda, applies to a late-onset of the disease during the second or\nthird decade of life. Also has hyperpigmentation of the flexures and amyloid deposition.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 72,
+    "original_num": 72,
+    "question": "72. A 55 year old Caucasian female presents for evaluation of hair loss. Examination reveals decreased frontal scalp hair density with perifollicular erythema and scale. A punch biopsy is performed to confirm the diagnosis. Which of the following answer choices represents the most likely histologic findings from this patient?",
+    "choices": {
+      "A": "Vacuolar interface alteration of the epidermis with increased mucin",
+      "B": "Incomplete, disrupted follicular anatomy with pigment casts noted",
+      "C": "Band-like lymphocytic infiltrate obscuring the interface between follicular epithelium and dermis",
+      "D": "Peribulbar mononuclear cell infiltrate (with occasional eosinophils), with an increased number of miniaturized hairs",
+      "E": "A decreased total number of hairs, with loss of the sebaceous glands and residual hair shafts surrounded by mild, granulomatous inflammation"
+    },
+    "correct_answer": "C",
+    "correct_text": "Band-like lymphocytic infiltrate obscuring the interface between follicular epithelium and dermis",
+    "explanation": "epithelium and dermis\nChoice 3 represents the findings seen in frontal fibrosing alopecia (a subset oflichen\nplanopilaris), which is the condition described. Lichen planopilaris manifests histologically with\nsimilar findings to lichen planus, with a band like lymphocytic infiltrate which is found at the\ndermal-epidermal junction. The infiltrate is more superficial than that of alopecia areata (choice 4).\nChoice 1 describes discoid lupus. Choice 2 describes trichotillomania. Choice 4 represents alopecia\nareata. Choice 5 represents end stage cicatricial alopecia.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 73,
+    "original_num": 73,
+    "question": "73. A patient with cirrhosis has noticed that the proximal two-thirds of his nails have become white, whereas the distal one-third of his nails have a brown-pink band. This characteristic finding is called:",
+    "choices": {
+      "A": "Lindsay's nails",
+      "B": "Mees' lines",
+      "C": "Beau's lines",
+      "D": "Terry's nails",
+      "E": "Muehrcke's bands"
+    },
+    "correct_answer": "D",
+    "correct_text": "Terry's nails",
+    "explanation": "Terry’s nails are defined as the proximal two-thirds of nails being white, whereas the\ndistal one-third of the nails have a brown-pink band. It has been described in association with\ncirrhosis, hypoalbuminemia, congestive heart failure, and diabetes mellitus.\nLindsay's nails (also called half-and-half nails) are associated with chronic renal disease and are\ndefined as the proximal one-half of nails being white, whereas the distal one-half contains a redbrown zone. Mee's lines is the term used to describe the finding of transverse lines of the entire nail\nbreadth in all nails (can be due to arsenic poisoning, trauma, medications, severe illness, or a\npsoriasis flare). Beau's lines describes a transverse depression in the nail plate surface, and they are\nassociated with a severe systemic event (all nails) or trauma/disease of nail matrix (single nail).\nMuehrcke's bands represent transverse white bands parallel to the lunula (seen in association with\nhypoalbuminemia or chemotherapy).",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 74,
+    "original_num": 74,
+    "question": "74. This term is used to describe the epithelium which starts at the mid distal phalanx and generates and determines the thickness of the nail plate:",
+    "choices": {
+      "A": "Nail matrix",
+      "B": "Nail plate",
+      "C": "Proximal nail fold",
+      "D": "Nail bed",
+      "E": "Hyponychium"
+    },
+    "correct_answer": "A",
+    "correct_text": "Nail matrix",
+    "explanation": "The nail matrix generates the nail plate and is responsible for the thickness of the nail\nplate. It keratinizes without a granular layer. The nail plate is the actual nail made up of tightly\npacked onychocytes. The proximal nail fold is the dorsal part of the digit that lies adjacent to nail.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 75,
+    "original_num": 75,
+    "question": "75. This hair disorder is used to describe end stage scarring alopecia with areas of hair growth that look like \"footprints in the snow\":",
+    "choices": {
+      "A": "Pseudopelade of Brocq",
+      "B": "Lichen planopilaris",
+      "C": "Aplasia cutis congenita",
+      "D": "Folliculitis decalvans",
+      "E": "Follicular mucinosis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pseudopelade of Brocq",
+    "explanation": "Pseudopelade of Brocq is an end stage scarring alopecia that presents as an oval or\nirregularly shaped patch of alopecia with areas of hair growth that look like footprints in the snow.\nLichen planopilaris presents as alopecia with perifollicular erythema.\nAplasia cutis congenita most commonly presents on the scalp as a focal absence of epidermis.\nFolliculitis decalvans presents with inflammation, boggy induration, and pustules on the scalp.\nFollicular mucinosis presents with alopecia or broken hairs on the scalp or beard area. It typically\noccurs primary or secondary to CTCL.The nail bed is the thin epithelium immediately beneath the\nnail plate. This has no granular layer. The hyponychium is the epithelium that lies on the volar\nsurface of the digit.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 76,
+    "original_num": 76,
+    "question": "76. All of the following are associated with increased fragility of hair except:",
+    "choices": {
+      "A": "Trichorrhexis invaginata",
+      "B": "Monilethrix",
+      "C": "Pili torti",
+      "D": "Trichorrhexis nodosa",
+      "E": "Pili multigemini"
+    },
+    "correct_answer": "E",
+    "correct_text": "Pili multigemini",
+    "explanation": "All of the following are associated with increased fragility except for pili multigemini.\nIt is a malformation characterized by the presence of bifurcated or multiple divided hair matrices\nand papillae, giving rise to the formation of multiple hair shafts within the individual follicles.\nTrichorrhexis invaginata presents as the intussusception of the proximal hair shaft into the distal\nend, which increases hair fragility. Monilethrix presents with alternating normal thickness and\nconstrictions, which increases hair fragility. Pili torti presents with a flattened hair shaft which\ntwists on its own axis, increasing hair fragility. Trichorrhexis nodosa presents with frayed ends\nresembling a broom stick or paint brush, also with increased hair fragility.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 77,
+    "original_num": 77,
+    "question": "77. A 32-year-old male presents with progressive curliness of the temporal scalp hairs that seem to precede hair loss. What is the most likely associated etiology?",
+    "choices": {
+      "A": "Secondary syphilis",
+      "B": "Systemic tuberculosis",
+      "C": "Lichen planopilaris",
+      "D": "Hodgkin’s lymphoma",
+      "E": "HIV"
+    },
+    "correct_answer": "E",
+    "correct_text": "HIV",
+    "explanation": "HIV and retinoids are associated with acquired progressive kinking of the hair. This\nsyndrome presents with gradual curling and darkening of hair in the frontal and temporal regions of\nthe scalp, followed by androgenetic alopecia. Secondary syphilis may present as a non-scarring\nalopecia, typically in a diffuse pattern.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 78,
+    "original_num": 78,
+    "question": "78. The diagnosis is",
+    "choices": {
+      "A": "Psoriasis",
+      "B": "Alopecia areata",
+      "C": "Onychomycosis",
+      "D": "Lichen planus",
+      "E": "Tetracycline-induced photo-onycholysis"
+    },
+    "correct_answer": "D",
+    "correct_text": "Lichen planus",
+    "explanation": "Lichen planus-related nail changes seen here include thinning of the nail plate with\nonychorrhexis, ridging and pterygium formation.\nWhile the other listed conditions can affect the nails, this clinical picture, especially pterygium\nformation, most likely represents LP.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 79,
+    "original_num": 79,
+    "question": "79. Hirsutism is the development of terminal body hair in women in areas where this type of hair is not normally found. All of the following drugs are associated with hirsutism except:",
+    "choices": {
+      "A": "Minocycline",
+      "B": "Phenytoin",
+      "C": "Minoxidil",
+      "D": "Diazoxide",
+      "E": "Cyclosporine"
+    },
+    "correct_answer": "A",
+    "correct_text": "Minocycline",
+    "explanation": "All of the above are associated with hirsutism except minocycline. They cause\nhirsutism without virilization or defeminization.\nMinocycline does not cause hirsutism.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 80,
+    "original_num": 80,
+    "question": "80. Yellow nails can be seen in each of the following conditions except:",
+    "choices": {
+      "A": "Bronchiectasis",
+      "B": "Hyperlipidemia",
+      "C": "Pleural effusion",
+      "D": "Thyroid disease",
+      "E": "Chronic sinusitis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Hyperlipidemia",
+    "explanation": "Hyperlipidemia is not associated with nail changes.\nYellow discoloration of the nail plate can be associated with bronchiectasis or other underlying\npulmonary disease such as COPD or pleural effusion. Other associated conditions include\nlymphedema, rheumatoid arthritis, thyroid disease, malignancies, penicillamine, and chronic\nsinusitis or bronchitis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 81,
+    "original_num": 81,
+    "question": "81. Which of the following syndromes does NOT have the finding shown in the image as part of the spectrum?",
+    "choices": {
+      "A": "Crandall",
+      "B": "Argininosuccinic aciduria",
+      "C": "Citrullinemia",
+      "D": "Menke's Kinky Hair",
+      "E": "Netherton"
+    },
+    "correct_answer": "A",
+    "correct_text": "Crandall",
+    "explanation": "Crandall syndrome has pili torti as its hair finding. Trichorrhexis nodosa is the fraying\nof hair ends so that the resemble a \"broom-stick\" or \"paint brush\".\nThe other options all have trichorrhexis nodosa as one of the hair findings in the syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 82,
+    "original_num": 82,
+    "question": "82. A 50-year-old African American female presents with slowly progressive, symmetric hair loss centered at the crown and vertex. A scalp biopsy shows evidence of inflammation in the active, peripheral zone. Which of the following is the most common form of scarring alopecia in any population that includes a significant number of black patients?",
+    "choices": {
+      "A": "central centrifugal cicatricial alopecia",
+      "B": "telogen effluvium",
+      "C": "discoid lupus erythematosus",
+      "D": "alopecia areata",
+      "E": "androgenetic alopecia"
+    },
+    "correct_answer": "A",
+    "correct_text": "central centrifugal cicatricial alopecia",
+    "explanation": "Central centrifugal cicatricial alopecia is a slowly progressive, symmetric cicatricial\nalopecia centered on the crown or vertex. It is most often found in black women of African heritage.\nEarly and mild disease can be effectively treated, even severe disease may be significantly\nimproved with appropriate therapy. It is the most common form of scarring alopecia in any\npopulation that includes a significant number of black patients.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 83,
+    "original_num": 83,
+    "question": "83. The term used to describe the thinning of the hair shaft, which forms constrictions along the hair, due to the disruption of the anagen cycle is:",
+    "choices": {
+      "A": "Pohl Pinkus",
+      "B": "Trichorrhexis invaginata",
+      "C": "Trichoschisis",
+      "D": "Monilethrix",
+      "E": "Pili annulati"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pohl Pinkus",
+    "explanation": "Pohl Pinkus constriction is due to a toxic insult. This causes the disruption of the\nanagen cycle with thinning of the hair shaft, forming constrictions along the hair. This is analogous\nto Beau's lines in nails.\nTrichorrhexis invaginata is the invagination of the distal hair shaft into the cup formed by the\nproximal hair shaft, i.e. \"ball and socket\" or \"bamboo hair\", seen in Netherton's syndrome.\nTrichoschisis is the clean transverse fracture of the hair follicle.\nMonilethrix presents as elliptical nodes at 0.7-1 mm intervals in the hair.\nPili annulati presents as alternating light and dark bands seen in normal light, due to air spaces in\nthe hair shaft.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 84,
+    "original_num": 84,
+    "question": "84. The syndrome including mental and physical retardation, convulsions, episodic unconsciousness, liver enlargement, skin lesions, and dry and brittle hair showing trichorrhexis nodosa microscopically and fluorescing red. is:",
+    "choices": {
+      "A": "Bazex Follicular Atrophoderma",
+      "B": "Crandall's syndrome",
+      "C": "Citrullinemia",
+      "D": "Argininosuccinic aciduria",
+      "E": "Bjornstad's syndrome"
+    },
+    "correct_answer": "D",
+    "correct_text": "Argininosuccinic aciduria",
+    "explanation": "Argininosuccinic aciduria has the features listed as well as trichorrhexis nodosa and\nred fluorescence of the hair. Bazex's follicular atrophoderma and Crandall syndrome both have\nfindings of pili torti and citrullinemia has trichorrhexis nodosa. None of the other options have red\nfluorescence as a feature.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 85,
+    "original_num": 85,
+    "question": "85. Argininosuccinic aciduria is characteristically associated with this hair finding –name the condition pictured below:",
+    "choices": {
+      "A": "Pili trianguli et canaliculi",
+      "B": "Trichoschisis",
+      "C": "Monilethrix",
+      "D": "Trichorrhexis nodosa",
+      "E": "Trichorrhexis invaginate"
+    },
+    "correct_answer": "D",
+    "correct_text": "Trichorrhexis nodosa",
+    "explanation": "Trichorrhexis nodosa is a finding in argininosuccinic aciduria. Trichorrhexis nodosa\nmay be a congenital or acquired abnormality. It may be seen in children with intellectual disability\nand argininosuccinic aciduria or citrullinemia as well as those with tricho-hepato-enteric syndrome.\nTrichorrhexis invaginata, also known as bamboo hair, is commonly seen in association with\nichthyosis linearis circumflexa in patients with Netherton syndrome.\nMonilethrix (beaded hair) is a term of Greek and Latin derivation meaning “necklace hair”. This\ndisorder is inherited in an autosomal dominant fashion with variable expression. Monilethrix has\nbeen mapped to the epithelial keratin gene cluster on 12q11–q13, and point mutations have been\nfound in the hair cortex-specific keratin genes KRT86 (most often) and KRT81. In addition,\nmutations have been found in the genes that encode KRT83 and in patients with an autosomal\nrecessive form of monilethrix, desmoglein. Transverse fractures are known as trichoschisis.\nThis entity is also known as pili trianguli et canaliculi and refers to a rare hair abnormality in which\nhair has a “spun glass” appearance due to the reflection of light from variably oriented, flattened\nhair surfaces. Hair is characteristically stiff and difficult to comb. Abnormal keratinization of the\ninternal root sheath is postulated to cause the irregularly shaped hair shafts, which have a triangular\nshape on cross-section and a longitudinal groove that is best seen by scanning electron microscopy.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 86,
+    "original_num": 86,
+    "question": "86. A patient with psoriasis has pitting of the nails. This finding is due to involvement of which part of the nail unit?",
+    "choices": {
+      "A": "Proximal matrix",
+      "B": "Nail bed",
+      "C": "Hyponychium",
+      "D": "Proximal nail fold",
+      "E": "Distal matrix"
+    },
+    "correct_answer": "A",
+    "correct_text": "Proximal matrix",
+    "explanation": "Disease in the proximal matrix is responsible for producing pitting, onychorrhexis,\nand Beau’s lines. Changes in the intermediate matrix can cause leukonychia, and the distal matrix\nmay be responsible for focal onycholysis, thinned nail plate, and erythema of the lunula.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 87,
+    "original_num": 87,
+    "question": "87. Best diagnosis of this type of cicatricial alopecia shown in attached image is:",
+    "choices": {
+      "A": "Chronic cutaneous lupus erythematosus",
+      "B": "Lichen planopilaris",
+      "C": "Central centrifugal cicatricial alopecia",
+      "D": "Pseudopelade of Brocq",
+      "E": "Alopecia mucinosa"
+    },
+    "correct_answer": "C",
+    "correct_text": "Central centrifugal cicatricial alopecia",
+    "explanation": "Central centrifugal cicatricial alopecia is a new term adopted by the NAHRS\nconsensus group to encompass the terms hot comb alopecia, follicular degeneration syndrome,\npseudopelade in African Americans, and central elliptical pseudopelade in Caucasians.In general, it\nis a condition that presents with flesh-colored, noninflammatory cicatricial alopecia of the central\nscalp that, over time, enlarges centrifugally. Pseudopelade of Brocq can mimic alopecia areata,\nlichen planopilaris, and DLE. In addition, central centrifugal cicatricial alopecia(CCCA), a\nnoninflammatory condition of the central scalp that is seen primarily in black women. CCCA\nusually presents as a symmetric patch, unlike the irregularly bordered, typically atrophic plaques\nseen in classic pseudopelade of Brocq\nCentral Centrifugal Cicatricial Alopecia (CCCA) is a form of scarring alopecia on the scalp that\nresults in permanent hair loss. It is the most common form of scarring hair loss seen in black\nwomen. However, it may be seen in men and among persons of all races and hair color (though\nrarely). Middle-aged women are most commonly affected. Early diagnosis of CCCA is important\nbecause medical intervention can prevent further progression that often results in extensive,\npermanent hair loss. Diagnosis is based on clinical features, scalp biopsy and exclusion of other hair\nloss disorders.\nScalp biopsy should be taken from an active edge of a patch of alopecia rather than the centre of a\nscarred area. Histopathology reveals a lymphocytic inflammatory infiltrate (inflammatory cells)\naround the infundibulum (base of the hair follicle), and fibrosis (scarring). Premature desquamation\n(peeling) of the inner root sheath is a common feature.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 88,
+    "original_num": 88,
+    "question": "88. Yellow nail syndrome is associated with which of the following?",
+    "choices": {
+      "A": "Multiple myeloma",
+      "B": "Panhypopituitarism",
+      "C": "Diabetes mellitus",
+      "D": "Dermatophyte infection",
+      "E": "Lymphedema and bronchiectasis"
+    },
+    "correct_answer": "E",
+    "correct_text": "Lymphedema and bronchiectasis",
+    "explanation": "Lymphedema and bronchiectasis are associated with yellow nail syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 89,
+    "original_num": 89,
+    "question": "89. This hair finding is caused by mutations in what gene?",
+    "choices": {
+      "A": "SPINK 5",
+      "B": "NEMO",
+      "C": "SERCA2",
+      "D": "Dyskerin",
+      "E": "Keratin 16"
+    },
+    "correct_answer": "A",
+    "correct_text": "SPINK 5",
+    "explanation": "Mutations in SPINK 5, a serine protease inhibitor leads to Netherton’s syndrome\nwhich is characterized by trichorrhexis invaginata or bamboo hair. Light microscopic examination\nof clipped hair from the scalp and (of particularly high yield) the eyebrows often reveals\ntrichorrhexis invaginata (bamboo hair) with a ball-and-socket appearance In incontinentia pigmenti,\nlack of NEMO (NF-κB essential modulator; also known as IKBKG [inhibitor of κ light polypeptide\ngene enhancer in B cells, kinase γ]) results in failure to activate NF-κB, which normally protects\nagainst tumor necrosis factor (TNF)-α-induced apoptosis. Darier disease is due to mutations in\nATP2A2 which encodes SERCA2. Dyskerin interacts with telomerase and plays a role in its proper\nfunction. Keratin 16 is a defect seen in pachyonychia congenita.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 90,
+    "original_num": 90,
+    "question": "90. Which part of the hair follicle is the first to cornify?",
+    "choices": {
+      "A": "Huxley’s layer of inner root sheath",
+      "B": "Henley’s layer of inner root sheath",
+      "C": "Outer root sheath",
+      "D": "Medulla",
+      "E": "Cuticle"
+    },
+    "correct_answer": "B",
+    "correct_text": "Henley’s layer of inner root sheath",
+    "explanation": "Henley’s layer of inner root sheath. Henleys layer is the outer layer of the inner root\nsheath. The inner root sheath is keratinized with trichohyaline granules and is shed with the growing\nhair shaft at the level of the isthmus. The remaining choices are incorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 91,
+    "original_num": 91,
+    "question": "91. A 24-year-old man reports that he has developed white patches of scalp hair that seem to migrate across his scalp. Examination reveals three 1 cm foci of poliosis with surrounding normally pigmented hair. He has a history of hypothyroidism, but no other systemic diseases. What is the most likely etiology:",
+    "choices": {
+      "A": "Form fruste of alopecia areata",
+      "B": "Vogt-Koyanagi-Harada syndrome",
+      "C": "Tinea capitis",
+      "D": "Alezzandrini syndrome",
+      "E": "Lichen planopilaris"
+    },
+    "correct_answer": "A",
+    "correct_text": "Form fruste of alopecia areata",
+    "explanation": "Forme fruste, or limited, alopecia areata, may present with migratory poliosis due to\ndestruction of follicular melanocytes but survival of the hair-producing bulb.\nVogt-Koyanagi-Harada syndrome presents as meningoencephalitis followed by visual and hearing\ndeficits and poliosis of the periorbital region.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 92,
+    "original_num": 92,
+    "question": "92. Which of the following factors is most strongly associated with a negative prognosis in the condition pictured?",
+    "choices": {
+      "A": "Onset in adulthood",
+      "B": "Atopic dermatitis",
+      "C": "Short duration of disease",
+      "D": "Limited extent of disease",
+      "E": "Absent nail changes"
+    },
+    "correct_answer": "B",
+    "correct_text": "Atopic dermatitis",
+    "explanation": "Atopic dermatitis is a negative prognostic factor in alopecia areata (AA).\nThis question asks the examinee to recognize AA by a solitary round patch of non-scarring scalp\nalopecia, and determine that of the answer choices, only atopic dermatitis (choice 2) carries a\nnegative prognosis. Other negative prognostic factors in AA include childhood onset (not adult\nonset, choice 1), prolonged disease duration (not short duration, choice 3), diffuse extent of disease\n(not limited extent, choice 4), and presence of nail dystrophy (not absence, choice 5).",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 93,
+    "original_num": 93,
+    "question": "93. A 68-year old man presents with double white transverse lines on all nails that disappear with compression of the nail plate. What is the most likely associated systemic disease:",
+    "choices": {
+      "A": "Ehlers-Danlos syndrome",
+      "B": "Arsenic poisoning",
+      "C": "Rheumatic fever",
+      "D": "Neurofibromatosis",
+      "E": "Nephrotic syndrome"
+    },
+    "correct_answer": "E",
+    "correct_text": "Nephrotic syndrome",
+    "explanation": "Muehrcke’s lines are white transverse lines from an abnormal vascular bed. They\ndisappear with pressure on the nail plate. Muehrcke’s lines are associated with disorders causing\nlow albumin, such as nephrotic syndrome, liver disease, and malnutrition. The alternative choices\nare incorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 94,
+    "original_num": 94,
+    "question": "94. Trichobezoar is is a potentially life-threatening complication of:",
+    "choices": {
+      "A": "Alopecia areata",
+      "B": "Anhidrotic ectodermal dysplasia",
+      "C": "Trichotillomania",
+      "D": "Discoid lupus",
+      "E": "Lichen planopilaris"
+    },
+    "correct_answer": "C",
+    "correct_text": "Trichotillomania",
+    "explanation": "Trichophagia is more common in individuals who have trichotillomania. This chewing\nbehavior frequently can lead to the formation of trichobezoars in the stomach or small intestines.\nTrichobezoars can result in anemia, abdominal pain, hematemesis, nausea and/or vomiting, bowel\nobstruction, perforation, gastrointestinal (GI) bleeding, acute pancreatitis, and obstructive jaundice.\nThe other answer choices are not associated with trichobezoars.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 95,
+    "original_num": 95,
+    "question": "95. What determines the thickness of the nail plate?",
+    "choices": {
+      "A": "Hyponychium",
+      "B": "Nail matrix",
+      "C": "Nail bed",
+      "D": "Proximal nail fold",
+      "E": "Nail plate"
+    },
+    "correct_answer": "B",
+    "correct_text": "Nail matrix",
+    "explanation": "The nail matrix determines the thickness of the nail plate. The matrix produces cells\nthat become the nail plate. The width and thickness of the nail plate is determined by the size,\nlength, and thickness of the matrix, while the shape of the fingertip itself shows if the nail plate is\nflat, arched, or hooked. The hyponychium is the area of epithelium, particularly the thickened\nportion, underlying the free edge of the nail plate on the nail. The nail bed is the skin beneath the\nnail plate. The skin proximal to the nail that covers the nail foldis the eponychium. The tissue distal\nto the eponychium in contact with the nail represents the cuticle. Extending from proximal to distal\non the nailis a half-moon shaped white arc known as the lunula (see the image below). Nail Plate: It\nis the actual fingernail that is made of translucent keratin protein composed of amino acids. It is\nproduced by a type of modified epidermis. The plate is the actual nail.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 96,
+    "original_num": 96,
+    "question": "96. A thick scale with matted hair is seen on a patient's head. The most likely diagnosis is:",
+    "choices": {
+      "A": "Pityriasis amiantacea",
+      "B": "Traction alopecia",
+      "C": "Triangular alopecia",
+      "D": "Loose anagen syndrome",
+      "E": "Telogen effluvium"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pityriasis amiantacea",
+    "explanation": "Pityriasis amiantacea is a condition seen in pediatric patients that improves with age.\nThere is thick scale and matted hair that may mimic seborrheic dermatitis or psoriasis. Treatment is\nkeratolytics. The other options would not typically present with scale.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 97,
+    "original_num": 97,
+    "question": "97. A 32 year-old woman presents with moderate hirsutism. She has normal menses, normal-sized ovaries, no evidence of tumors of the adrenal or ovary, and normal adrenal function, but does have slight elevations of plasma androstenedione and testosterone. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Stein-Leventhal syndrome",
+      "B": "Cushing syndrome",
+      "C": "Idiopathic hirsutism",
+      "D": "Occult virilizing tumor",
+      "E": "Kruckenberg tumor"
+    },
+    "correct_answer": "C",
+    "correct_text": "Idiopathic hirsutism",
+    "explanation": "Idiopathic hirsutism is diagnosed in women with evidence of androgen excess but with\nnormal menses, normal-sized ovaries, no evidence of tumors of the adrenal or ovary, and normal\nandrogen function. Slight elevations of plasma androstenedione and testosterone are common. The\nother answer choices listed are incorrect.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 98,
+    "original_num": 98,
+    "question": "98. Which of the following syndromes does not have Dorsal pterygium as a feature:",
+    "choices": {
+      "A": "Lichen planus",
+      "B": "Lesch-Nyhan syndrome",
+      "C": "Cicatricial pemphigoid",
+      "D": "Chronic GVHD",
+      "E": "Lamellar ichthyosis"
+    },
+    "correct_answer": "E",
+    "correct_text": "Lamellar ichthyosis",
+    "explanation": "Dorsal pterygium (scarring of the proximal nail fold) is caused by lichen planus,\nacrosclerosis, onychotillomania, Lesch-Nyhan syndrome, chronic GVHD, SJS/TEN and cicatricial\npemphigoid.All of the listed items are correct except lamellar ichthyosis. It does not have this nail\nfinding.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 99,
+    "original_num": 99,
+    "question": "99. This describes a persistent patch of vellus hairs or complete hair loss in the frontal-temporal region. This condition is called:",
+    "choices": {
+      "A": "Triangular alopecia",
+      "B": "Loose anagen syndrome",
+      "C": "Telogen effluvium",
+      "D": "Anagen effluvium",
+      "E": "Trichotillomania"
+    },
+    "correct_answer": "A",
+    "correct_text": "Triangular alopecia",
+    "explanation": "Triangular alopecia is also known as temporal alopecia and describes a persistent\ntriangular patch of vellus hairs or complete hair loss in the frontal-temporal region. On histology,\nthere is vellus hairs seen. There is usually no treatment for this condition.\nLoose anagen syndrome presents as loss of clumps of hair. A hair pull test would show anagen hairs\nwith ruffled cuticles.\nTelogen effluvium occurs 2-3 months after an inciting stressful event such as nutritional issues,\nendocrine changes (thyroid disorders, post-partum), or certain medications.\nAnagen effluvium presents as a sudden loss of anagen hairs typically occuring in the setting of\nradiation, chemotherapy, mercury poisoning, severe protein malnutrition, or thallium use.\nTrichotillomania presents as compulsive hair pulling with irregular broken hairs within a geometric\nlocalized area.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 100,
+    "original_num": 100,
+    "question": "100. Lindsay's nails are associated with which of the following disorders?",
+    "choices": {
+      "A": "Cirrhosis",
+      "B": "Wilson's disease",
+      "C": "Chronic bronchiectasis",
+      "D": "Chronic renal failure",
+      "E": "Arsenic poisoning"
+    },
+    "correct_answer": "D",
+    "correct_text": "Chronic renal failure",
+    "explanation": "Lindsay's nails (also called half-and-half nails) refers to the proximal half of the nail\nplate appearing white, and the distal half of the nail plate containing a red-brown zone. It is\nclassically associated with chronic renal failure. Cirrhosis is associated with Terry's nails. Blue\nlunulae are associated with Wilson's disease. Yellow nails are associated with chronic\nbronchiectasis. Arsenic poisoning is associated with red lunulae.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 101,
+    "original_num": 101,
+    "question": "101. This is a small reddish-blue tender subungual tumor that presents with the following histology:",
+    "choices": {
+      "A": "Glomus tumor",
+      "B": "Myxoid cyst",
+      "C": "Acquired digital fibrokeratoma",
+      "D": "Accessory digit",
+      "E": "Verruca Vulgaris"
+    },
+    "correct_answer": "A",
+    "correct_text": "Glomus tumor",
+    "explanation": "A glomus tumor is a small reddish-blue tender subungual tumor. On pathology, one\ncan see small uniform round cells with eosinophilic cytoplasm. A myxoid cyst presents as a soft,\nsmooth nodule most commonly adjacent to the DIP joint. When at the proximal nail fold, it can\ncause longitudinal grooving in the nail plate. On pathology, there is a large pool of mucin with no\nlining. An acquired digital fibrokeratoma presents as a firm nodule on the finger or toe. Pathology\npresents as collagen with no prominent nerves. An accessory digit also presents as a firm nodule on\nthe finger or toe, most commonly at the proximal portion of the fifth digit. Pathology presents as\ncollagen with prominent nerve fascicles. Verruca Vulgaris presents as well defined hyperkeratotic\npapules around the nails. Pathology presents with acanthosis, papillomatosis, and hyperkeratosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 102,
+    "original_num": 102,
+    "question": "102. Which of the following is NOT a cause of red lunulae?",
+    "choices": {
+      "A": "Endocarditis",
+      "B": "Psoriasis",
+      "C": "Carbon monoxide poisoning",
+      "D": "Azathioprine",
+      "E": "Rheumatoid arthritis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Endocarditis",
+    "explanation": "Endocarditis is not a cause of red lunulae.\nAlopecia areata, psoriasis, prednisone for connective tissue diseases, carbon monoxide poisoning,\ncardiac failure, systemic lupus erythematosus, rheumatoid arthritis, chronic obstructive pulmonary\ndisease, cirrhosis, azathioprine and radiation are the causes of this condition.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 103,
+    "original_num": 103,
+    "question": "103. Proximal white subungual onychomycosis with polydactylous involvement needs at least one laboratory test:",
+    "choices": {
+      "A": "Blood count",
+      "B": "Sedimentation rate",
+      "C": "T-helper CD4 lymphocytes",
+      "D": "Liver enzymes",
+      "E": "HIV"
+    },
+    "correct_answer": "E",
+    "correct_text": "HIV",
+    "explanation": "This type of onychomycosis has a prognostic value: It means that the CD4\nlymphocytes are below 450. The other lab tests are not as important as checking HIV status.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 104,
+    "original_num": 104,
+    "question": "104. Patients that have been diagnosed with hypohidrotic ectodermal dysplasia have the hair findings of:",
+    "choices": {
+      "A": "Longitudinal groove on electron microscopy",
+      "B": "Trichorrhexis nodosa",
+      "C": "Monilethrix",
+      "D": "Trichorrhexis invaginata",
+      "E": "Pili trianguli et canaliculi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Longitudinal groove on electron microscopy",
+    "explanation": "Patients with hypohidrotic ectodermal dysplasia have been found to possess hairs with\nlongitudinal grooves on electron microscopy. It is important to note that these hairs do NOT have a\ntriangular cross-section, thereby distinguishing them from hairs with the finding of pili trianguli et\ncanaliculi. Trichorrhexis nodosa refers to an incomplete fracture with frayed ends resembling two\npaint brushes against each other (seen in Menkes disease, trichothiodystrophy, arginosuccinic\naciduria, and Netherton's syndrome). Monilethrix refers to the beaded appearance of hair due to\nperiodic thinning of the hair shaft. Trichorrhexis invaginata, also called \"bamboo hair,\" is the term\nused to describe the microscopic appearance of the hair similar to a \"ball and socket\" or \"collapsible\ntelescope.\" It is seen in Netherton's syndrome. Pili trianguli et canaliculi (aka \"spun glass hair\")\nrefers to a disorder of the hair in which there is premature keratinization of the inner root sheath,\nresulting in hairs with a triangular cross-section and a central linear groove along one side. This is\nseen in the uncombable hair syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 105,
+    "original_num": 105,
+    "question": "105. Telogen hairs are in the resting phase, which lasts for:",
+    "choices": {
+      "A": "3 months",
+      "B": "1 month",
+      "C": "2 months",
+      "D": "4 months",
+      "E": "5 months"
+    },
+    "correct_answer": "A",
+    "correct_text": "3 months",
+    "explanation": "Telogen hairs are at the resting phase, make up 10-15% of hairs, and last for 3 months.\nAnagen phase is the growing phase and lasts for 2-6 years. Catagen hairs are in the transition phase,\nwhich lasts for 2-3 weeks.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 106,
+    "original_num": 106,
+    "question": "106. Familial alopecia areata is commonly associated with what laboratory abnormality?",
+    "choices": {
+      "A": "Hypocalcemia",
+      "B": "Hypereosinophilia",
+      "C": "Hyperkalemia",
+      "D": "Leukopenia",
+      "E": "Thrombocytopenia"
+    },
+    "correct_answer": "E",
+    "correct_text": "Thrombocytopenia",
+    "explanation": "Familial alopecia areata has been associated with persistent thrombocytopenia.\nAlopecia areata has recently been linked to the ULBP3 gene.\nAlopecia areata is associated with other autoimmune disorders such as thyroid disease and vitiligo.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 107,
+    "original_num": 107,
+    "question": "107. What are the nail findings in this condition?",
+    "choices": {
+      "A": "Red-white longitudinal bands and v-shaped distal nicks",
+      "B": "Oil spots and onycholysis",
+      "C": "Clubbing",
+      "D": "Dolichonychia",
+      "E": "Trachyonychia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Red-white longitudinal bands and v-shaped distal nicks",
+    "explanation": "Darier’s disease presents with hyperkeratotic papules in seborrheic areas,\nacrokeratosis verruciformis of Hopf, palmar keratosis and pits, and nail findings including red-white\nlongitudinal bands and v-shaped distal nicks. Oil spots and onycholysis may occur in psoriasis.\nClubbing may occur in a variety of conditions such as Hypertrophic pulmonary osteoarthropathy.\nDolichonychia may occur in Ehlers-Danlos and Marfan’s syndrome. Trachyonychia may occur in\nlichen planus.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 108,
+    "original_num": 108,
+    "question": "108. A 14-year-old man with a history of extensive striae, upward lens dislocation, and pectus excavatum would be most likely to present with what nail abnormality:",
+    "choices": {
+      "A": "Beau’s lines",
+      "B": "Mee’s lines",
+      "C": "Muehrcke’s lines",
+      "D": "Onychophagia",
+      "E": "Dolichonychia"
+    },
+    "correct_answer": "E",
+    "correct_text": "Dolichonychia",
+    "explanation": "Dolichonychia exhibits long, slender nails, and is associated with Ehlers-Danlos and\nMarfans. Beau’s lines are transverse indented nail plate furrows caused by temporary growth arrest\nof the nail matrix, often due to chemotherapy or other stressful events and illnesses. Mee’s lines are\ntransverse white lines affecting all nails and growing out with the nail; there is no associated\nindentation. Mee’s lines may be caused by arsenic poisoning, rheumatic fever, or other systemic\ndiseases. Muehrcke’s lines disappear with squeezing of the nail and are due to disorders of low\nalbumin. Oncyhophagia refers to nail biting.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 109,
+    "original_num": 109,
+    "question": "109. Scalp biopsy of which of the following types of hair loss will reveal increased telogen hairs?",
+    "choices": {
+      "A": "Lichen planopilaris",
+      "B": "Discoid lupus erythematosis",
+      "C": "Central centrifugal alopecia",
+      "D": "Dissecting cellulitis",
+      "E": "Androgenetic alopecia"
+    },
+    "correct_answer": "E",
+    "correct_text": "Androgenetic alopecia",
+    "explanation": "Androgenetic alopecia, telogen effluvium, and alopecia areata all have an increased\nfraction of telogen hairs. Lichen planopilaris and discoid lupus typically reveal a chronic\ninflammatory alopecia on biopsy. Dissecting cellulitis typically exhibits chronic inflammation with\nhypertrophic scar tissue intervening between suppurative follicles",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 110,
+    "original_num": 110,
+    "question": "110. A patient presents with a focal absence of epidermis on the scalp. This can be associated with:",
+    "choices": {
+      "A": "Adams-Oliver syndrome.",
+      "B": "Parry Romberg syndrome",
+      "C": "Cicatricial pemiphigoid",
+      "D": "Mastocytosis",
+      "E": "Epidermal nevi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Adams-Oliver syndrome.",
+    "explanation": "Patients that are diagnosed with Adams-Oliver syndrome have aplasia cutis congenita\n(ACC) over the posterior scalp, terminal transverse defects of the limbs, and small toenails. Most\naplasia cutis congenita cases are on the scalp and present as single lesions. ACC can also be\nassociated with Trisomy 13.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 111,
+    "original_num": 111,
+    "question": "111. Cutaneous signs of cortisol excess include all of the following EXCEPT:",
+    "choices": {
+      "A": "Plethora",
+      "B": "Atrophic/fragile skin",
+      "C": "Striae distensae",
+      "D": "Dorsocervical/Supraclavicular fat pads",
+      "E": "Peripheral obesity"
+    },
+    "correct_answer": "E",
+    "correct_text": "Peripheral obesity",
+    "explanation": "All of the listed options are signs of cortisol excess except peripheral obesity. The\nmost common pattern of obesity in patients with cortisol excess is centripetal or central obesity.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 112,
+    "original_num": 112,
+    "question": "112. Thin hair with premature graying is characteristic of which of the following syndromes?",
+    "choices": {
+      "A": "Werner syndrome",
+      "B": "Turner Syndrome",
+      "C": "Noonan Syndrome",
+      "D": "Cornelia de Lange Syndrome",
+      "E": "Waardenburg's syndrome"
+    },
+    "correct_answer": "A",
+    "correct_text": "Werner syndrome",
+    "explanation": "Werner syndrome is characterized by premature degeneration of major organs that\nloosely mimics premature aging. It is associated with sclerodermoid changes, leg ulcerations,\npremature graying, cataracts, premature atherosclerosis,a dn diabetes. It is associated with defects in\nthe helicase RecQL2. Thin hair with premature graying is not characteristic of the remaining listed\nsyndromes.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 113,
+    "original_num": 113,
+    "question": "113. Patients that have a normal distal nail and a proximal 1/2 nail that is white is associated with:",
+    "choices": {
+      "A": "Chronic renal failure",
+      "B": "Pulmonary stenosis",
+      "C": "Gastrointestinal malignancy",
+      "D": "Tuberous sclerosis",
+      "E": "Cirrhosis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Chronic renal failure",
+    "explanation": "Patients that have a normal distal nail and a proximal white nail have a condition\ncalled Lindsay's nails or half and half nail. The proximal nail that is white is from nail bed edema.\nThis is from chronic renal failure.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 114,
+    "original_num": 114,
+    "question": "114. During a routine physical examination, you notice fusion of the hyponychium to the distal nail plate on some of your patient's fingers. Which of the following conditions may produce these nail findings?",
+    "choices": {
+      "A": "Lichen planus",
+      "B": "Cicatricial pemphigoid",
+      "C": "Graft-versus-host disease",
+      "D": "Systemic sclerosis",
+      "E": "Marfan syndrome"
+    },
+    "correct_answer": "D",
+    "correct_text": "Systemic sclerosis",
+    "explanation": "The nail finding described in the question stem is that of ventral pterygium (pterygium\ninversum unguis), which can be familial or secondary to trauma, systemic lupus erythematosus, or\nsystemic sclerosis. Lichen planus, cicatricial pemphigoid, and GVHD may produce dorsal\npterygium, which is described as a wing-like growth fusing the proximal nail fold with the nail bed/\nmatrix. Marfan syndrome is associated with dolichonychia (long nails).",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 115,
+    "original_num": 115,
+    "question": "115. Which of the following medications is a cause of hirsutism without virilization?",
+    "choices": {
+      "A": "Dapsone",
+      "B": "Diazoxide",
+      "C": "Diazepam",
+      "D": "Dinitrochlorobenzene",
+      "E": "Dantrolene"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diazoxide",
+    "explanation": "Phenytoin, diazoxide, cyclosporine and hexachlorobenzene all can cause increased\nhair growth in patients. In addition, oral (and topical) minoxidil can cause hirsutism. The other\nlisted medications do not cause hirsutism.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 116,
+    "original_num": 116,
+    "question": "116. A 44-year-old man undergoing chemotherapy for Hodgkin’s lymphoma presents with horizontal rough bands involving the nail plates of all digits. What is the most likely disorder:",
+    "choices": {
+      "A": "Beau’s lines",
+      "B": "Mee’s lines",
+      "C": "Muehrcke’s lines",
+      "D": "Onychophagia",
+      "E": "Dolichonychia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Beau’s lines",
+    "explanation": "Beau’s lines are transverse indented nail plate furrows caused by temporary growth\narrest of the nail matrix, often due to chemotherapy or other stressful events and illnesses.\nMee’s lines are transverse white lines affecting all nails and growing out with the nail; there is no\nassociated indentation. Mee’s lines may be caused by arsenic poisoning, rheumatic fever, or other\nsystemic diseases. Muehrcke’s lines disappear with squeezing of the nail and are due to disorders of\nlow albumin. Oncyhophagia refers to nail biting. Dolichonychia exhibits long, slender nails, and is\nassociated with Ehlers-Danlos and Marfans.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 117,
+    "original_num": 117,
+    "question": "117. Which of the following are characteristics of Trichorhinophalangeal syndrome?",
+    "choices": {
+      "A": "Kinky hair, frontal bossing, small widely spaced teeth with poor enamel",
+      "B": "Palmoplantar keratoderma, trichorrhexis nodosa, sinus infections",
+      "C": "Shortened phalanges, sparse hair, bulbous nose",
+      "D": "Brittle hair, short stature, cerebellar ataxia",
+      "E": "Sparse fine hair, Short extremities, Immunodeficiency"
+    },
+    "correct_answer": "C",
+    "correct_text": "Shortened phalanges, sparse hair, bulbous nose",
+    "explanation": "Characteristic features of trichorhinophalangeal syndrome are shortened phalanges,\nsparse hair, and bulbous nose. Trichorhinophalangeal syndrome type I (TRPS I) is a condition that\ncauses bone and joint malformations; distinctive facial features; and abnormalities of the skin, hair,\nteeth, sweat glands, and nails. The name of the condition describes some of the areas of the body\nthat are commonly affected: hair (tricho-), nose (rhino-), and fingers and toes (phalangeal).\nIn people with TRPS I, the ends (epiphyses) of one or more bones in the fingers or toes are\nabnormally cone-shaped. Additionally, the fingernails and toenails are typically thin and abnormally\nformed. Affected individuals often have short feet.\nIndividuals with TRPS I may have a misalignment of the hip joints (hip dysplasia), which often\ndevelops in early adulthood but can occur in infancy or childhood. Children with TRPS I often have\nan unusually large range of movement (hypermobility) in many of their joints. Over time, however,\nthe joints may break down (degenerate), leading to joint pain and a limited range of joint\nmovement.\nThe characteristic appearance of individuals with TRPS I involves thick eyebrows; a broad nose\nwith a rounded tip; large ears, a long, smooth area between the nose and the upper lip (philtrum); a\nthin upper lip; and small teeth that are either decreased (oligodontia) or increased(supernumerary)\nin number. Almost all affected individuals have sparse scalp hair. Males are particularly affected by\nhair loss with many being nearly or completely bald soon after puberty. Some children with this\ncondition have loose skin, but the skin becomes tighter over time. Individuals with TRPS I may\nexperience excessive sweating (hyperhidrosis).",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 118,
+    "original_num": 118,
+    "question": "118. Distal subungual onychomycosis associated with paronychia is due to:",
+    "choices": {
+      "A": "Candida spp",
+      "B": "Fusarium spp",
+      "C": "Scytalidium dimidiatum",
+      "D": "Trichophyton rubrum",
+      "E": "Trichophyton mentagrophytes"
+    },
+    "correct_answer": "C",
+    "correct_text": "Scytalidium dimidiatum",
+    "explanation": "This mold is the only one responsible for paronychia in DLSO and is more often\nobserved in finger than in toenails.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 119,
+    "original_num": 119,
+    "question": "119. Which of the following is a manifestation of psoriasis of the nail matrix?",
+    "choices": {
+      "A": "Splinter hemorrhages",
+      "B": "“Oil spots”",
+      "C": "Subungual hyperkeratosis",
+      "D": "Pits",
+      "E": "Onycholysis"
+    },
+    "correct_answer": "D",
+    "correct_text": "Pits",
+    "explanation": "Psoriatic nail changes may be of nail matrix or nail bed origin. Pits are the common\nfinding; splinter hemorrhages the least. Psoriatic nail changes of matrix origin include: pits\n(representing focal psoriasis of the proximal matrix) and leukonychia.\nPsoriatic nails changes of nail bed origin include: salmon spots, “oil spots,” onycholysis, subungual\nhyperkeratosis, and splinter hemorrhages.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 120,
+    "original_num": 120,
+    "question": "120. A rapid onset of hair growth with or without accompanying virilization can occur in all of the following conditions EXCEPT:",
+    "choices": {
+      "A": "Adrenal adenoma",
+      "B": "Adrenal carcinoma",
+      "C": "Arrhenoblastoma",
+      "D": "Krukenburg tumor of the ovary",
+      "E": "Ovarian cyst"
+    },
+    "correct_answer": "E",
+    "correct_text": "Ovarian cyst",
+    "explanation": "An ovarian cyst does not cause a rapid onset of hair growth with or without\naccompanying virilization, as it does not produce androgens. Women with polycystic ovarian\nsyndrome (PCOS) may have signs of hyperandrogenism, but this is not due to the ovarian cysts per\nse. All of the other options can cause a rapid onset of hair growth with or without accompanying\nvirilization. An Arrhenoblastoma is a tumor of the ovary that secretes testosterone.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 121,
+    "original_num": 121,
+    "question": "121. A patient with diffuse severe sudden hair loss developing 3 months after hospitalization for septicemia likely has which of the following conditions?",
+    "choices": {
+      "A": "Anagen effluvium",
+      "B": "Catagen effluvium",
+      "C": "Telogen effluvium",
+      "D": "Loose anagen syndrome",
+      "E": "Uncombable hair syndrome"
+    },
+    "correct_answer": "C",
+    "correct_text": "Telogen effluvium",
+    "explanation": "Telogen effluvium typically ensues stressful events after a 2-3 month period.\nThe other answer choices do not likely represent this clinical scenario.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 122,
+    "original_num": 122,
+    "question": "122. Which of the following conditions with hair abnormalities is caused by mutations in a DNA helicases?",
+    "choices": {
+      "A": "Anhidrotic Ectodermal Dysplasia",
+      "B": "Hidrotic Ectodermal Dysplasia",
+      "C": "KID Syndrome",
+      "D": "Rothmund-Thomson Syndrome",
+      "E": "Incontinentia Pigmenti"
+    },
+    "correct_answer": "D",
+    "correct_text": "Rothmund-Thomson Syndrome",
+    "explanation": "Rothmund-Thopmson syndrome is casued by mutations in RecQL4. Key clinical\nfeatures include poikiloderma, photosensitivity, dystrophic nails, hypoplastic thumbs, cataracts, and\nreports of osteosarcoma. Anhidrotic ectodermal dysplasia is associated with mutations in\nectodysplasin. Hidrotic ectodermal dysplasia is associated with mutations in connexin 30. Kid\nsyndrome is associated with mutations in connexin 26 and IP with NEMO.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 123,
+    "original_num": 123,
+    "question": "123. All of the following are associated with anonychia or absence of the nail except:",
+    "choices": {
+      "A": "Nail-patella syndrome",
+      "B": "Congenital onychodysplasia of the index finger",
+      "C": "Hidrotic Ectodermal Dysplasia",
+      "D": "Lichen Planus",
+      "E": "Ehlers-Danlos syndrome"
+    },
+    "correct_answer": "E",
+    "correct_text": "Ehlers-Danlos syndrome",
+    "explanation": "All of the following, except Proteus syndrome, is associated with anonychia or\nabsence of the nail. Ehlers-Danlos syndrome is associated with Dolichonychia, i.e. long nails with a\nlength to width ratio > 1.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 124,
+    "original_num": 124,
+    "question": "124. What nutritional deficiency can lead to this nail finding?",
+    "choices": {
+      "A": "Vitamin B12",
+      "B": "Vitamin C",
+      "C": "Iron",
+      "D": "Magnesium",
+      "E": "Thiamine"
+    },
+    "correct_answer": "C",
+    "correct_text": "Iron",
+    "explanation": "Iron deficiency can lead to spoon nail deformity or koilonychias. Vitamin B12\ndeficiency results in glossitis and hyperpigmentation. Vitamin C deficiency leads to epistaxis, poor\nwound healing, and hemorrhagic gingivitis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 125,
+    "original_num": 125,
+    "question": "125. This is a term used to describe the thin epithelium immediately beneath the nail plate, with an absent granular layer:",
+    "choices": {
+      "A": "Nail bed",
+      "B": "Hyponychium",
+      "C": "Nail matrix",
+      "D": "Proximal nail fold",
+      "E": "Nail plate"
+    },
+    "correct_answer": "A",
+    "correct_text": "Nail bed",
+    "explanation": "The nail bed is described as the thin epithelium immediate beneath the nail plate. It\ndoes not have a granular layer.\nThe hyponychium describes the epithelium that lies on the volar surface of the digit.\nThe nail matrix is the epithelium which starts at the mid distal phalanx. It generates the nail plate\nand keratinizes without a granular layer. The proximal nail fold is the dorsal part of the digit that\nlies adjacent to the nail. The nail plate is the actual nail made up of tightly packed onychocytes.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 126,
+    "original_num": 126,
+    "question": "126. This is a term used to describe the transverse excessive curvature from the widened base of the terminal phalanx. It is called:",
+    "choices": {
+      "A": "Pincer nails",
+      "B": "Platyonychia",
+      "C": "Plicatured nails",
+      "D": "Plummer's nails",
+      "E": "Dorsal pterygium"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pincer nails",
+    "explanation": "Transverse excessive curvature from the widened base of the terminal phalanx is\ncalled pincer nails. It can be hereditary or from shoes. It usually involves the first toenails. It is\nassociated with subungual exostoses, osteoarthritis, and psoriasis.\nPlatyonychia describes nails with increased curvature in the long axis.\nPlicatured nails are flat transversely and have vertical lateral drops in the nail.\nPlummer's nails are onycholysis occuring from hypothyroidism.\nDorsal pterygium describes scarring of the proximal nail fold occuring in lichen planus,\nacrosclerosis, and Lesch-Nyhan syndrome.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 127,
+    "original_num": 127,
+    "question": "127. Which of the following may produce red lunulae?",
+    "choices": {
+      "A": "Penicillamine",
+      "B": "Darier disease",
+      "C": "Nail-Patella syndrome",
+      "D": "Lupus erythematosus",
+      "E": "Arsenic poisoning"
+    },
+    "correct_answer": "D",
+    "correct_text": "Lupus erythematosus",
+    "explanation": "Red lunulae may be associated with the following: alopecia areata, rheumatoid\narthritis, lupus erythematosus (both systemic and cutaneous), congestive heart failure, and carbon\nmonoxide poisoning.\nPenicillamine may produce yellow nails. Darier disease is associated with longitudinal alternating\nred-and-white bands as well as V-shaped distal nicking. Triangular lunulae are found in Nail-Patella\nsyndrome. Arsenic poisoning is associated with Mee's lines, which are transverse lines of entire nail\nbreadth in all nails.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 128,
+    "original_num": 128,
+    "question": "128. Deposition of mucin in the hair follicle can be associated with which disease?",
+    "choices": {
+      "A": "Keratosis Follicularis Spinulosa Decalvans",
+      "B": "Adams-Oliver Syndrome",
+      "C": "Mycosis fungoides",
+      "D": "Acne Keloidalis Nuchae",
+      "E": "Perifolliculitis Capitis Abscedens et Suffodiens"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mycosis fungoides",
+    "explanation": "Mycosis fungoides can be associated with follicular mucinosis. Follicular mucinosis is\nnot reported to be associated with the other listed conditions.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 129,
+    "original_num": 129,
+    "question": "129. This is used to describe a follicular degeneration syndrome mainly on the crown of the scalp, also known as hot-comb alopecia:",
+    "choices": {
+      "A": "Central centrifugal cicatricial alopecia",
+      "B": "Alopecia mucinosa",
+      "C": "Traction alopecia",
+      "D": "Pseudopelade of Brocq",
+      "E": "Lichen planopilaris"
+    },
+    "correct_answer": "A",
+    "correct_text": "Central centrifugal cicatricial alopecia",
+    "explanation": "Central centrifugal cicatricial alopecia is a follicular degeneration syndrome with loss\nmainly on the crown of the scalp and occurs secondary to tight braids, ponytails, hair straighteners/\ncurlers, or chemical relaxers. Pathology shows premature desquamation of the inner root sheath\nwith fibrosis. Alopecia mucinosa presents as alopecia or broken hairs on the scalp or beard. It\ntypically occurs primary or secondary to CTCL.\nTraction alopecia is hair loss secondary to tight braids or hair styles with traction. It typically\npresents on the frontal and parietal scalp. Pseudopelade of Brocq is an end-stage scarring alopecia\npresenting as \"footprints in the snow\". Lichen planopilaris is alopecia associated with perifollicular\nerythema.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 130,
+    "original_num": 130,
+    "question": "130. A patient has hyperkeratotic tissue on the lateral and proximal nails folds. What is the diagnosis?",
+    "choices": {
+      "A": "Onychophosis",
+      "B": "Onychomadesis",
+      "C": "Hapalonychia",
+      "D": "Onychocryptosis",
+      "E": "Onychophagia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Onychophosis",
+    "explanation": "Onychophosis describes hyperkeratosis tissue on the lateral and proximal nails folds.\nOnychomadesis is shedding of the nail starting at the proximal end. Hapalonychia refers to soft,\nbendable nails. Onychocryptosis refers to an ingrown toenails. Onychophagia means nail biting.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 131,
+    "original_num": 131,
+    "question": "131. The most common cause for superficial white onychomycosis is:",
+    "choices": {
+      "A": "Trichophyton rubrum",
+      "B": "Trichophyton mentagrophytes",
+      "C": "Epidermophyton floccosum",
+      "D": "Fusarium oxysporum",
+      "E": "Scopulariopsis brevicalis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Trichophyton mentagrophytes",
+    "explanation": "T. mentagrophytes is the most common cause of superficial white onychomycosis.\nOther causes include: Fusarium, Acremonium and Aspergillus spp. The other options are not the\nmost common cause of superficial white onychomycosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 132,
+    "original_num": 132,
+    "question": "132. A 26-year-old woman presents with hair loss. Examination of a single shaft reveals division into two shafts in short segments, with each individually covered with a complete cuticle. What is the most likely diagnosis:",
+    "choices": {
+      "A": "Pili multigemini",
+      "B": "Pili bifurcati",
+      "C": "Trichoptilosis",
+      "D": "Trichoschisis",
+      "E": "Trichothiodystrophy"
+    },
+    "correct_answer": "B",
+    "correct_text": "Pili bifurcati",
+    "explanation": "Pili bifucarti exhibits hair shaft bifurcation into short segments along hair shafts, with\neach segment covered with it’s own cuticle. Pili multigemini refers to a rare disorder of multiple\ndivided hair matrices, with multiple hair shafts each with their own cuticle all arising from one\nfollicle. Trichoptilosis refers to “split ends” of the distal portion of the hair shaft. Trichoschisis is a\nclean fracture of the hair shaft. Trichothiodystrophy is a disorder of beaded hair when viewed with\npolarizing light.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 133,
+    "original_num": 133,
+    "question": "133. The combination of poliosis, uveitis, deafness, and vitiligo are characteristic of which of the following conditions?",
+    "choices": {
+      "A": "Piebaldism",
+      "B": "Waardernburg syndrome",
+      "C": "Cronkhite-Canada syndrome",
+      "D": "Vogt-Koyanagi-Harada syndrome",
+      "E": "Cornelia de Lange Syndrome"
+    },
+    "correct_answer": "D",
+    "correct_text": "Vogt-Koyanagi-Harada syndrome",
+    "explanation": "Vogt-Koyanagi-Harada syndrome is a presumed autoimmune condition characterized\nby poliosis, chronic uveitis, deafness, and vitiligo. The other conditions do not typically present\nwith this combination of symptoms.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 134,
+    "original_num": 134,
+    "question": "134. The \"ragged cuticle\" seen in dermatomyositis is also known as:",
+    "choices": {
+      "A": "Samitz sign",
+      "B": "Ventral pterygium",
+      "C": "Plummers sign",
+      "D": "Candy-cane nails",
+      "E": "Emperipolesis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Samitz sign",
+    "explanation": "Cuticular fraying from dermatomyositis is called the Samitz sign or \"ragged cuticle\".\nThe other options are not associated with dermatomyositis. A ventral pterygium can be seen in\nsystemic sclerosis. There is no such sign as Plummers sign. Candy-cane nails are seen in Darier's\ndisease. Emperipolesis is a histological finding seen in Rosai-Dorfman disease and is not a nail\nfinding.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 135,
+    "original_num": 135,
+    "question": "135. Psoriatic onycholysis is caused by psoriasis in which of the following nail subunits?",
+    "choices": {
+      "A": "Nail matrix",
+      "B": "Nail plate",
+      "C": "Nail bed",
+      "D": "Proximal nail fold",
+      "E": "Hyponychium"
+    },
+    "correct_answer": "C",
+    "correct_text": "Nail bed",
+    "explanation": "Nail bed involvement by psoriasis often causes onycholysis, oil drops, dyschromia,\nsplinter hemorrhages, or subungula hyperkeratosis. The other answer choices do not describe the\ncorrect site of psoriatic involvement causing onycholysis.\nNail matrix psoriasis demonstrates\npitting, beau's lines, leukonychia, red spots in the lunula, or nail plate crumbling.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 136,
+    "original_num": 136,
+    "question": "136. Pili Annulati is associated with which of the following syndromes?",
+    "choices": {
+      "A": "Netherton",
+      "B": "PIBIDS",
+      "C": "Citrullinemia",
+      "D": "Hidrotic ectodermal dysplasia",
+      "E": "Alopecia areata"
+    },
+    "correct_answer": "E",
+    "correct_text": "Alopecia areata",
+    "explanation": "Pili Annulati is the alternating light and dark bands secondary to air-spaces seen in\nnormal light and has been associated with Alopecia areata. The \"tiger-tail\" pattern seen in\ntrichothiodystrophy (PIBIDS) is only seen with polarized light. Netherton and Citrullinemia do not\nhave this hair finding associated. Pili annulati or ringed hair is used to describe hair in which there\nare scattered groups of air-filled 'bubbles' along the hair shaft. These appear as bright bands when\nseen with reflected light.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 137,
+    "original_num": 137,
+    "question": "137. This condition is used to describe an impulse control disorder with the repeated plucking or pulling of hairs:",
+    "choices": {
+      "A": "Trichotillomania",
+      "B": "Anagen effluvium",
+      "C": "Telogen effluvium",
+      "D": "Loose anagen syndrome",
+      "E": "Triangular alopecia"
+    },
+    "correct_answer": "A",
+    "correct_text": "Trichotillomania",
+    "explanation": "Patients with trichotillomania have an impulse control disorder with repeated plucking\nor pulling of hair. This presents as a confluence of irregular, short sparse hairs within an otherwise\nnormal area of the scalp. On pathology, there would be increased catagen hairs, trichomalacia, and\nmelanin in the follicular canal.\nAnagen effluvium presents as a sudden loss of anagen hairs typically occuring in the setting of\nradiation, chemotherapy, mercury poisoning, severe protein malnutrition, or thallium use. Telogen\neffluvium occurs 2-3 months after an inciting stressful event such as nutritional issues, endocrine\nchanges (thyroid disorders, post-partum), or certain medications.\nLoose anagen syndrome presents as loss of clumps of hair. A hair pull test would show anagen hairs\nwith ruffled cuticles. Triangular alopecia presents as a complete absence of hair or vellus hairs in a\ntriangular pattern in the temporal area, frequently bilateral.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 138,
+    "original_num": 138,
+    "question": "138. Arsenical poisoning is associated with what nail finding?",
+    "choices": {
+      "A": "Muehrcke's lines",
+      "B": "Mee's lines",
+      "C": "Hapalonychia",
+      "D": "Onycholysis",
+      "E": "Oil spots"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mee's lines",
+    "explanation": "Arsenical poisoning is characteristically associated with Mee's lines.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 139,
+    "original_num": 139,
+    "question": "139. A patient presents with silvery, blond, and gray hair over the entire body at birth or early infancy. The acquired form of this condition is associated with:",
+    "choices": {
+      "A": "Fetal alcohol syndrome",
+      "B": "Ambras syndrome",
+      "C": "Universal Hypertrichosis",
+      "D": "Congenital adrenal hyperplasia",
+      "E": "Arrhenoblastoma"
+    },
+    "correct_answer": "A",
+    "correct_text": "Fetal alcohol syndrome",
+    "explanation": "Patients with generalized congenital hypertrichosis lanuginosa present with silvery,\nblond, and gray hair over the entire body at birth or early infancy. It is an autosomal dominant\ncondition with dental anomalies. The acquired form is associated with fetal hydantoin and fetal\nalcohol syndrome.\nAmbras syndrome presents with thicker, longer hair increased on the face, ears, and shoulders.\nThere is also associated facial dysmorphism and dental anomalies. Universal hypertrichosis presents\nwith a \"wolf boy\" phenotype with thick hair everywhere.\nCongenital adrenal hyperplasia most commonly occurs from a 21-hydroxylase mutation and\npresents with precocious puberty, hirsutism, and early androgenetic alopecia.\nArrhenoblastoma is a tumor causing the rapid onset of hair growth with or without accompanying\nvirilization.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 140,
+    "original_num": 140,
+    "question": "140. A 16-year-old woman presents with hair breakage. Examination of a single shaft reveals division into two shafts at the distal-most portion of the hair. What is the most likely diagnosis:",
+    "choices": {
+      "A": "Pili multigemini",
+      "B": "Pili bifurcati",
+      "C": "Trichoptilosis",
+      "D": "Trichoschisis",
+      "E": "Trichothiodystrophy"
+    },
+    "correct_answer": "C",
+    "correct_text": "Trichoptilosis",
+    "explanation": "Trichoptilosis refers to “split ends” of the distal portion of the hair shaft.\nTrichoschisis is a clean fracture of the hair shaft. Trichothiodystrophy is a disorder of beaded hair\nwhen viewed with polarizing light. Pili multigemini refers to a rare disorder of multiple divided hair\nmatrices, with multiple hair shafts each with their own cuticle all arising from one follicle. Pili\nbifucarti exhibits hair shaft bifurcation into short segments along hair shafts, with each segment\ncovered with it’s own cuticle.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 141,
+    "original_num": 141,
+    "question": "141. Congenital generalized hypertrichosis is associated with which of the following symptoms?",
+    "choices": {
+      "A": "Androgen-secreting ovarian tumors",
+      "B": "Pituitary insufficiency",
+      "C": "Distichiasis",
+      "D": "Methimazole teratogenicity",
+      "E": "Gingival fibromatosis"
+    },
+    "correct_answer": "E",
+    "correct_text": "Gingival fibromatosis",
+    "explanation": "Congenital Generalized Hypertrichosis with Gingival Fibromatosis is a rare genetic\ncondition with hypertrichosis on the face and upper body and gingival hyperplasia and fibromatosis.\nThe other listed symptoms are not associated with congenital generalized hypertrichosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 142,
+    "original_num": 142,
+    "question": "142. Catagen hairs make up for less than 1% of the hair. This phase lasts for:",
+    "choices": {
+      "A": "2-3 weeks",
+      "B": "4-6 weeks",
+      "C": "8-10 weeks",
+      "D": "10-12 weeks",
+      "E": "1 week"
+    },
+    "correct_answer": "A",
+    "correct_text": "2-3 weeks",
+    "explanation": "Catagen phase (\"transition phase\") lasts up to 2-3 weeks and represents the transition\nfrom anagen to telogen. It makes up less than 1% of the hair population. The Anagen phase (growth\nphase) typically lasts 2-6 years. 85-90% of hairs are in this phase at any given time. The Telogen\nphase (resting phase) typically lasts 3 months. 10-15% of hairs are in this phase at any given time.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 143,
+    "original_num": 143,
+    "question": "143. Transverse white bands on one or two nails is caused by:",
+    "choices": {
+      "A": "Trauma to the matrix",
+      "B": "Alopecia areata",
+      "C": "Psoriasis",
+      "D": "Systemic lupus erythematosis",
+      "E": "Lichen planus"
+    },
+    "correct_answer": "A",
+    "correct_text": "Trauma to the matrix",
+    "explanation": "Longitudinal leukonychia or transverse white bands are caused by trauma to the nail\nmatrix. Androgenetic alopecia, psoriasis, systemic lupus erythematosis and lichen planus all cause\nspotted red lunulae, not transverse white bands.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 144,
+    "original_num": 144,
+    "question": "144. Scarring of the proximal nail fold is called dorsal pterygium and is associated with all of the following except:",
+    "choices": {
+      "A": "Lichen planus",
+      "B": "Acrosclerosis",
+      "C": "Onychotillomania",
+      "D": "Lesch-Nyhan syndrome",
+      "E": "Osteoarthritis"
+    },
+    "correct_answer": "E",
+    "correct_text": "Osteoarthritis",
+    "explanation": "Patients with dorsal pterygiums are associated with all of the following except\nosteoarthritis. It is defined as scarring of the proximal nail fold. Dorsal pterygiums can also occur in\nchronic GVHD, SJS/TEN, and cicatricial pemphigoid.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 145,
+    "original_num": 146,
+    "question": "146. Distal subungual onychomycosis is most often caused by:",
+    "choices": {
+      "A": "Trichophyton mentagrophytes",
+      "B": "Epidermophyton floccosum",
+      "C": "Trichophyton schoenleinii",
+      "D": "Trichophyton rubrum",
+      "E": "Trichophyton megninii"
+    },
+    "correct_answer": "D",
+    "correct_text": "Trichophyton rubrum",
+    "explanation": "Trichophyton rubrum is the most common organism involved in distal subungual\nonychomycosis. The most common form of tinea unguium is distal subungual onychomycosis,\nwhich can also be distal and lateral. Distal subungual onychomycosis may develop in the toenails,\nfingernails or both. Some degree of tinea pedis is almost always present. The infection is usually\ncaused byTrichophyton rubrum, which invades the nail bed and the underside of the nail plate,\nbeginning at the hyponychium and then migrating proximally through the underlying nail matrix.\nSusceptibility to distal superficial onychomycosis may occur in an autosomal dominant pattern\nwithin families.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 146,
+    "original_num": 147,
+    "question": "147. An 84-year-old man presents to clinic with atypical fingernails and is diagnosed with hapalonychia. What defect does this term represent?",
+    "choices": {
+      "A": "Long nails",
+      "B": "White nail plates",
+      "C": "Edema of the nail bed",
+      "D": "Broad nails",
+      "E": "Soft nails"
+    },
+    "correct_answer": "E",
+    "correct_text": "Soft nails",
+    "explanation": "Hapalonychia refers to soft nails and is caused by a defect in the nail matrix.\nDolichonychia describes abnormally long, narrow nails, while brachyonchia describes abnormally\nshort, broad nails. Edema of the nail bed may present as Meurhcke’s lines.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 147,
+    "original_num": 228,
+    "question": "228. A patient with a history of thin, short, and easily fractured hairs comes to your clinic. Trichoscopy reveals the following findings. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Trichorrhexis nodosa",
+      "B": "Monilethrix",
+      "C": "Pili torti",
+      "D": "Trichoclasis",
+      "E": "Pili annulati"
+    },
+    "correct_answer": "B",
+    "correct_text": "Monilethrix",
+    "explanation": "Monilethrix is a rare cause of hair thinning and characterized by beading or a\n“regularly bended ribbon” appearance under trichoscopy. Trichorrhexis nodosa is characterized by\nfrayed ends resembling \"broom-sticks\". Pili torti is characterized by hair twisted at intervals of 90 to\n360 degrees. Trichoclasis is also known as split ends. Pili annulati is characterized by alternating\nlight and dark bands secondary to air spaces.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 148,
+    "original_num": 229,
+    "question": "229. You see this finding on a new patient. What is the most likely gene mutation?",
+    "choices": {
+      "A": "ATP2C1",
+      "B": "ATP2A2",
+      "C": "SERCA2",
+      "D": "TSC1",
+      "E": "TSC2"
+    },
+    "correct_answer": "B",
+    "correct_text": "ATP2A2",
+    "explanation": "V-shaped nicking is suggestive of Darier’s disease. This is due to a mutation in\nATP2A2, which encodes the protein, SERCA2, for transport of calcium from the cytosol into the\nendoplasmic reticulum of the cell. ATP2C1 mutation occurs in Hailey Hailey disease. SERCA2 is\nthe protein mutated in Darier's disease. TSC1 and TSC2 are mutated in Tuberous Sclerosis.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 149,
+    "original_num": 230,
+    "question": "230. An 18 year-old girl who was hospitalized last month after a serious car accident is noted to have white transverse grooves on her fingernails and toenails. The most likely diagnosis is:",
+    "choices": {
+      "A": "Twenty-nail dystrophy",
+      "B": "Beau's lines",
+      "C": "Half-and-half nails",
+      "D": "Mees' lines",
+      "E": "Terry's nails"
+    },
+    "correct_answer": "B",
+    "correct_text": "Beau's lines",
+    "explanation": "Beau's lines are transverse grooves in the nails. They are caused by a generalized\nsystemic condition which disrupts nail formation. Conditions may include infection, myocardial\ninfection, neurologic events and cytotoxic medications.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 150,
+    "original_num": 231,
+    "question": "231. The best diagnosis for this scarring form of alopecia is:",
+    "choices": {
+      "A": "Chronic cutaneous lupus erythrematosus",
+      "B": "Lichen planopilaris",
+      "C": "Pseudopelade of Broq",
+      "D": "Perifolliculitis capitis abscedens et suffodiens",
+      "E": "Central centrifugal cicatricial alopecia"
+    },
+    "correct_answer": "D",
+    "correct_text": "Perifolliculitis capitis abscedens et suffodiens",
+    "explanation": "Perifolliculitis capitis abscedens et suffodiens is also known as dissecting cellulitis of\nscalp and is uncommon chronic suppurative disorder that most often affects young black men.\nTogether with acne conglobata, hidradenitis suppurativa and pilonidal cysts, it is a component of the\n'follicular occlusion tetrad\" in dermatology. Patients present with multiple painful inflammatory\nnodules and fluctuant abscesses of the scalp, which are often interconnected via sinus tracts. The\nvertex and occiput are the sites of predilection. As the disease progresses, scarring alopecia may\ndevelop.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 151,
+    "original_num": 232,
+    "question": "232. A 24 year-old overweight woman presents with the complaint of hirsutism and asks about therapy. She has a virilization pattern of hair growth. On questioning, she notes having irregular menstrual periods and acne. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Pheochromocytoma",
+      "B": "Polycystic ovary syndrome",
+      "C": "Congenital adrenal hyperplasia",
+      "D": "Ovarian carcinoma",
+      "E": "Normal variant"
+    },
+    "correct_answer": "B",
+    "correct_text": "Polycystic ovary syndrome",
+    "explanation": "This patients diagnosis is most likely Polycystic Ovary Syndrome (PCOS) and\nincludes the features listed above in the question in addition to enlarged cystic ovaries and\npotentially amenorrhea. Congenital adrenal hyperplasia can present with hirsutism and menstrual\nabnormalities, but usually not obesity. Ovarian carcinoma, pheochromocytoma and normal variant\nare not likely causes of this presentation.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 152,
+    "original_num": 233,
+    "question": "233. A 66-year-old woman presents with “black heads” on the nose. Examination with magnification reveals multiple small hairs protruding from the same follicle. What is the most likely associated diagnosis?",
+    "choices": {
+      "A": "Pili multigemini",
+      "B": "Pili bifurcati",
+      "C": "Trichostasis spinulosa",
+      "D": "Trichoschisis",
+      "E": "Trichothiodystroph"
+    },
+    "correct_answer": "C",
+    "correct_text": "Trichostasis spinulosa",
+    "explanation": "Trichostasis spinulosa refers to follicles filled with bundles of vellus hairs, these\nappear to be black heads but on closer inspection short fine hairs protrude from the follicle. This\ndisorder may be associated with renal failure. Pili multigemini refers to a rare disorder of multiple\ndivided hair matrices, with multiple hair shafts each with their own cuticle all arising from one\nfollicle--You actually see the dark terminal hairs coming out. Pili bifucarti exhibits hair shaft\nbifurcation into short segments along hair shafts, with each segment covered with it’s own cuticle.\nTrichoschisis is a clean fracture of the hair shaft. Trichothiodystrophy is a disorder of beaded hair\nwhen viewed with polarizing light.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 153,
+    "original_num": 234,
+    "question": "234. Which of the following choices is FALSE regarding this diagnosis?",
+    "choices": {
+      "A": "This condition most commonly occurs on the thumbnails.",
+      "B": "This may be associated with trauma.",
+      "C": "Isotretinoin has been shown to be an effective treatment for this.",
+      "D": "Evaluation of the nail fold helps to distinguish this diagnosis from others in the differential.",
+      "E": "This condition is often symmetric."
+    },
+    "correct_answer": "C",
+    "correct_text": "Isotretinoin has been shown to be an effective treatment for this.",
+    "explanation": "The correct answer is C (C is false). This photo represents median nail dystrophy,\nwhich is most common on the thumbs and is often symmetric. It may be associated with isotretinoin\nuse or antecedent trauma. The main differential diagnosis is habit tic deformity, which often shows\nan enlarged lunula, loss of the cuticle, and proximal nail fold changes (traumatic). This other\noptions listed are features seen in median nail dystrophy.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 154,
+    "original_num": 235,
+    "question": "235. A 36-year-old woman presents with arthralgias and three fingernails exhibiting adherence of the ventral surface of the distal nail plate to the hyponychium. What is the most likely associated disease:",
+    "choices": {
+      "A": "Psoriasis",
+      "B": "Lichen Planus",
+      "C": "Systemic Sclerosis",
+      "D": "Yellow Nail Syndrome",
+      "E": "Multicentric Reticulohistiocytosis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Systemic Sclerosis",
+    "explanation": "The most common cause of ventral pterygium is systemic sclerosis.\nLichen planus is most commonly associated with dorsal, rather than ventral, pterygium.\nMulticentric reticulohistiocytosis is associated with deforming arthritis and “coral bead” nodules\naround the proximal nail fold, but not with pterygium.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 155,
+    "original_num": 236,
+    "question": "236. Biopsy reveals absence of follicles, a mixed inflammatory infiltrate, and dermal fibrosis. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Folliculitis decalvans",
+      "B": "Cicatricial pemphigoid",
+      "C": "Pustular psoriasis",
+      "D": "Dissecting cellulitis",
+      "E": "Erosive pustular dermatosis"
+    },
+    "correct_answer": "E",
+    "correct_text": "Erosive pustular dermatosis",
+    "explanation": "Erosive pustular dermatosis of the scalp (EPDS) is a rare, inflammatory, and chronic\nslow-onset disease that causes scarring alopecia and mainly affects the scalp of older men. Clinical\ndiagnosis can be challenging since it mimics more common diseases and due to its nonspecific\nclinical features. Different histologic findings can be seen depending on the stage of disease, with\nEPDS potentially being characterized by an atrophic epidermis and chronic inflammation consisting\nof lymphocytes, neutrophils, and occasional foreign body giant cells. Dermoscopy (or trichoscopy)\nhas been recently reported as a useful aid for the diagnosis, as it shows absent follicular ostia with\nmarked skin atrophy, with consequent visualization of dermal vessels, although histology is\nmandatory for the final diagnosis. The remaining answer choices are reasonable to include on the\ndifferential diagnosis, but the clinico-pathologic findings are most supportive of EPDS.",
+    "source": "ETAS Hair & Nails"
+  },
+  {
+    "id": 156,
+    "original_num": 237,
+    "question": "237. Patient presents with longstanding melanonychia. Where should you biopsy?",
+    "choices": {
+      "A": "Nail matrix",
+      "B": "Nail plate",
+      "C": "Nail bed",
+      "D": "Proximal nail fold",
+      "E": "Lateral nail fold"
+    },
+    "correct_answer": "A",
+    "correct_text": "Nail matrix",
+    "explanation": "Melanocytic processes are found in the nail matrix, where melanocytes reside.",
+    "source": "ETAS Hair & Nails"
+  }
+]

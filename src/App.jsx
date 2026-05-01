@@ -1,15 +1,21 @@
 import { useEffect, useReducer, useState } from 'react'
 import last11Questions from './data/last11_questions.json'
 import makkiQuestionsRaw from './data/makki_questions.json'
+import etasHairNailsRaw from './data/etas_hair_nails_questions.json'
+import bvHairNailRaw from './data/bv_hair_nail_questions.json'
 
 // Tag each question with its source so they can be combined
 const last11Tagged = last11Questions.map(q => ({ ...q, source: q.source || 'Last 11 Board Exams' }))
 const makkiTagged = makkiQuestionsRaw.map(q => ({ ...q, source: 'Makki Questions' }))
+const etasHairNailsTagged = etasHairNailsRaw.map(q => ({ ...q, source: 'ETAS Hair & Nails' }))
+const bvHairNailTagged = bvHairNailRaw.map(q => ({ ...q, source: 'Board Vitals — Hair & Nail' }))
 
-// Combined "All" bank: prefix Makki IDs with offset to avoid collisions
+// Combined "All" bank: offset IDs from each bank to avoid collisions
 const combinedAll = [
   ...last11Tagged,
   ...makkiTagged.map(q => ({ ...q, id: q.id + 100000 })),
+  ...etasHairNailsTagged.map(q => ({ ...q, id: q.id + 200000 })),
+  ...bvHairNailTagged.map(q => ({ ...q, id: q.id + 300000 })),
 ]
 
 const allBanks = {
@@ -22,6 +28,16 @@ const allBanks = {
     label: 'Makki Questions',
     questions: makkiTagged,
     count: makkiTagged.length,
+  },
+  etasHairNails: {
+    label: 'ETAS Hair & Nails',
+    questions: etasHairNailsTagged,
+    count: etasHairNailsTagged.length,
+  },
+  bvHairNail: {
+    label: 'Board Vitals — Hair & Nail',
+    questions: bvHairNailTagged,
+    count: bvHairNailTagged.length,
   },
   all: {
     label: 'All Questions',
@@ -302,6 +318,8 @@ export default function App() {
             all: { label: 'All Questions', count: allBanks.all.count },
             last11: { label: 'Last 11 Board Exams', count: allBanks.last11.count },
             makki: { label: 'Makki Questions', count: allBanks.makki.count },
+            etasHairNails: { label: 'ETAS Hair & Nails', count: allBanks.etasHairNails.count },
+            bvHairNail: { label: 'Board Vitals — Hair & Nail', count: allBanks.bvHairNail.count },
           }}
           activeBank={state.activeBank}
           setActiveBank={(bank) => dispatch({ type: 'SET_BANK', bank })}

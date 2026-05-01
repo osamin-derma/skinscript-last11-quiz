@@ -91,7 +91,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
           <div className="mt-3 inline-flex items-center gap-2 px-3 py-1 rounded-full" style={{ backgroundColor: '#e8f0f0' }}>
             <span className="text-[10px] font-bold tracking-wide uppercase" style={{ color: brand }}>Dermatology Quiz</span>
             <span className="text-[10px] text-gray-500">•</span>
-            <span className="text-[10px] text-gray-500">Last 11 Exams + Makki Questions</span>
+            <span className="text-[10px] text-gray-500">4 Question Banks</span>
           </div>
         </div>
 
@@ -161,7 +161,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
               </div>
               <div className="flex-1">
                 <div className="font-bold text-base" style={{ color: activeBank === 'all' ? brand : undefined }}>All Questions</div>
-                <div className="text-xs text-gray-500">Combined: Last 11 Exams + Makki Questions</div>
+                <div className="text-xs text-gray-500">Combined: all banks</div>
               </div>
               <div className="text-2xl font-extrabold"
                    style={{ color: activeBank === 'all' ? brand : '#9ca3af' }}>
@@ -169,7 +169,7 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
               </div>
             </button>
 
-            {/* Last 11 Exams + Makki — side by side */}
+            {/* Individual banks — 2x2 grid */}
             <div className="grid grid-cols-2 gap-2">
               {/* Last 11 */}
               <button
@@ -230,6 +230,70 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
                 </div>
                 <div className="text-[10px] text-gray-400 mt-0.5">Dermatology MCQs</div>
               </button>
+
+              {/* ETAS Hair & Nails */}
+              {banks.etasHairNails && (
+                <button
+                  onClick={() => setActiveBank('etasHairNails')}
+                  className={`p-4 rounded-xl border-2 text-left transition-all ${
+                    activeBank === 'etasHairNails'
+                      ? 'shadow-md'
+                      : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 hover:shadow-sm'
+                  }`}
+                  style={activeBank === 'etasHairNails'
+                    ? { backgroundColor: '#eef4ff', borderColor: '#3b82f6' }
+                    : {}}
+                >
+                  <div className="flex items-center gap-2 mb-2">
+                    <div className="w-8 h-8 rounded-lg flex items-center justify-center text-sm"
+                         style={{ backgroundColor: activeBank === 'etasHairNails' ? '#3b82f6' : '#e5e7eb',
+                                  color: activeBank === 'etasHairNails' ? 'white' : '#6b7280' }}>
+                      💇
+                    </div>
+                    <div className="text-2xl font-extrabold"
+                         style={{ color: activeBank === 'etasHairNails' ? '#3b82f6' : '#9ca3af' }}>
+                      {banks.etasHairNails.count}
+                    </div>
+                  </div>
+                  <div className="font-semibold text-sm"
+                       style={{ color: activeBank === 'etasHairNails' ? '#3b82f6' : undefined }}>
+                    ETAS Hair & Nails
+                  </div>
+                  <div className="text-[10px] text-gray-400 mt-0.5">With explanations</div>
+                </button>
+              )}
+
+              {/* Board Vitals — Hair & Nail */}
+              {banks.bvHairNail && (
+                <button
+                  onClick={() => setActiveBank('bvHairNail')}
+                  className={`p-4 rounded-xl border-2 text-left transition-all ${
+                    activeBank === 'bvHairNail'
+                      ? 'shadow-md'
+                      : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 hover:shadow-sm'
+                  }`}
+                  style={activeBank === 'bvHairNail'
+                    ? { backgroundColor: '#fef2f2', borderColor: '#ef4444' }
+                    : {}}
+                >
+                  <div className="flex items-center gap-2 mb-2">
+                    <div className="w-8 h-8 rounded-lg flex items-center justify-center text-sm"
+                         style={{ backgroundColor: activeBank === 'bvHairNail' ? '#ef4444' : '#e5e7eb',
+                                  color: activeBank === 'bvHairNail' ? 'white' : '#6b7280' }}>
+                      💅
+                    </div>
+                    <div className="text-2xl font-extrabold"
+                         style={{ color: activeBank === 'bvHairNail' ? '#ef4444' : '#9ca3af' }}>
+                      {banks.bvHairNail.count}
+                    </div>
+                  </div>
+                  <div className="font-semibold text-sm"
+                       style={{ color: activeBank === 'bvHairNail' ? '#ef4444' : undefined }}>
+                    Board Vitals — Hair & Nail
+                  </div>
+                  <div className="text-[10px] text-gray-400 mt-0.5">UWorld-style</div>
+                </button>
+              )}
             </div>
           </div>
         )}
