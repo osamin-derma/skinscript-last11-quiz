@@ -845,6 +845,22 @@
   },
   {
     "id": 54,
+    "original_num": 54,
+    "question": "54. A man presents with a traumatic injury of the 3rd toe, which has resulted in the toenail coming off. The complete replacement of the nail plate of his toenail requires how much time?",
+    "choices": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "12 months",
+      "D": "18 months",
+      "E": "36 months"
+    },
+    "correct_answer": "C",
+    "correct_text": "12 months",
+    "explanation": "On average, toenail regrowth takes approximately 12 months (up to 18 months for the great toenail). Nail growth slows with advancing age and vascular disease and can be partially or completely interrupted by systemic illness, trauma, or some medications.\n\nReference:\np. 1089. Bolognia J, Jorizzo JL, Schaffer JV. Dermatology: 2-Volume Set 3rd Edition. © Saunders 2012",
+    "source": "Board Vitals — Hair & Nail"
+  },
+  {
+    "id": 55,
     "original_num": 55,
     "question": "55. Nephrotic syndrome can result in a specific nail change, select the choice reflecting that change:",
     "choices": {
@@ -860,7 +876,7 @@
     "source": "Board Vitals — Hair & Nail"
   },
   {
-    "id": 55,
+    "id": 56,
     "original_num": 56,
     "question": "56. A triangular lunula is almost pathognomonic for which condition?",
     "choices": {
@@ -876,7 +892,7 @@
     "source": "Board Vitals — Hair & Nail"
   },
   {
-    "id": 56,
+    "id": 57,
     "original_num": 57,
     "question": "57. A 40-year-old HIV positive patient presents with transverse white patches subungually near the proximal nail folds. What is the most likely causative organism of this condition?",
     "choices": {
@@ -892,7 +908,7 @@
     "source": "Board Vitals — Hair & Nail"
   },
   {
-    "id": 57,
+    "id": 58,
     "original_num": 58,
     "question": "58. A 7-year-old child presents to clinic with the following nail findings, which is the most likely diagnosis?",
     "choices": {
@@ -908,7 +924,7 @@
     "source": "Board Vitals — Hair & Nail"
   },
   {
-    "id": 58,
+    "id": 59,
     "original_num": 59,
     "question": "59. A patient with Fitzpatrick skin type V presents to clinic for removal of unwanted hair. A laser using which of the following wavelengths would be best in this patient?",
     "choices": {
@@ -924,7 +940,7 @@
     "source": "Board Vitals — Hair & Nail"
   },
   {
-    "id": 59,
+    "id": 60,
     "original_num": 60,
     "question": "60. A 56-year-old female presents with a 6-month history of a darkened right great toenail. The nail has become misshapen, discolored, and thickened, with splitting of the nail plate. While there is no pain, she is upset about the appearance and would like treatment. What is the mechanism of action of the first line oral treatment for the condition noted above?",
     "choices": {

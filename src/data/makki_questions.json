@@ -14784,6 +14784,22 @@
   },
   {
     "id": 925,
+    "original_num": 925,
+    "question": "925. Regarding development of dermis, the demarcation between the dermis and underlying skeletal condensations becomes distinct at:",
+    "choices": {
+      "A": "7 weeks of estimated gestational age",
+      "B": "9 weeks of estimated gestational age",
+      "C": "11 weeks of estimated gestational age",
+      "D": "13 weeks of estimated gestational age",
+      "E": "15 weeks of estimated gestational age"
+    },
+    "correct_answer": "B",
+    "correct_text": "9 weeks of estimated gestational age",
+    "explanation": "(PDF source: \"Answer: 9\" — corresponds to choice B \"9 weeks\")",
+    "source": "Makki Questions"
+  },
+  {
+    "id": 926,
     "original_num": 926,
     "question": "926. One of the following is not responsible for systemic corticosteroid-induced osteoporosis:",
     "choices": {
@@ -14799,7 +14815,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 926,
+    "id": 927,
     "original_num": 927,
     "question": "927. The short (< 4 weeks) latency period for drug-induced psoriasis is characteristic for the following drug:",
     "choices": {
@@ -14815,7 +14831,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 927,
+    "id": 928,
     "original_num": 928,
     "question": "928. P –acnes can induce monocytes that activate:",
     "choices": {
@@ -14831,7 +14847,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 928,
+    "id": 929,
     "original_num": 929,
     "question": "929. Which of the following is a feature of rosacea?",
     "choices": {
@@ -14847,7 +14863,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 929,
+    "id": 930,
     "original_num": 930,
     "question": "930. The arrector pili muscle:",
     "choices": {
@@ -14863,7 +14879,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 930,
+    "id": 931,
     "original_num": 931,
     "question": "931. Which disease is associated with increased cholesterol sulfate levels?",
     "choices": {
@@ -14879,7 +14895,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 931,
+    "id": 932,
     "original_num": 932,
     "question": "932. One of the following statements regarding the metabolism of local is anesthetics not true?",
     "choices": {
@@ -14895,7 +14911,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 932,
+    "id": 933,
     "original_num": 933,
     "question": "933. Which of the following nerves will respond the slowest to local anesthesia?",
     "choices": {
@@ -14911,7 +14927,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 933,
+    "id": 934,
     "original_num": 934,
     "question": "934. One of the following is a 4th generation cephalosporin?",
     "choices": {
@@ -14927,7 +14943,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 934,
+    "id": 935,
     "original_num": 935,
     "question": "935. Cleave of the epidermis takes place below what layer in bullous impetigo?",
     "choices": {
@@ -14943,7 +14959,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 935,
+    "id": 936,
     "original_num": 936,
     "question": "936. One of the following scenarios warrants the eradication of staphylococcus carriage through twice daily application of mupirocin to the nares for 5 – 10 days?",
     "choices": {
@@ -14959,7 +14975,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 936,
+    "id": 937,
     "original_num": 937,
     "question": "937. The pathogenesis of bullae formation in impetigo is best described as:",
     "choices": {
@@ -14975,7 +14991,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 937,
+    "id": 938,
     "original_num": 938,
     "question": "938. The highest risk of fetal varicella in pregnant women would be associated with One of the following scenarios?",
     "choices": {
@@ -14991,7 +15007,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 938,
+    "id": 939,
     "original_num": 939,
     "question": "939. One of the following treatments is not appropriate for methicillin resistant staphylococcus aureus (MRSA) infection?",
     "choices": {
@@ -15007,7 +15023,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 939,
+    "id": 940,
     "original_num": 940,
     "question": "940. Outbreaks of dermatitis and folliculitis associated with swimming pools and hot tubs are often caused by One of the following?",
     "choices": {
@@ -15023,7 +15039,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 940,
+    "id": 941,
     "original_num": 941,
     "question": "941. About delusional parasitosis, one of the following is not true:",
     "choices": {
@@ -15039,7 +15055,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 941,
+    "id": 942,
     "original_num": 942,
     "question": "942. One of the following IS NOT CORRECT about Pancreatic Panniculitis:",
     "choices": {
@@ -15055,7 +15071,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 942,
+    "id": 943,
     "original_num": 943,
     "question": "943. One of the following is not a feature of epidrmophyton conidia:",
     "choices": {
@@ -15071,7 +15087,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 943,
+    "id": 944,
     "original_num": 944,
     "question": "944. One of the following cytokines is involved during innate immune response:",
     "choices": {
@@ -15087,7 +15103,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 944,
+    "id": 945,
     "original_num": 945,
     "question": "945. Concerning fungi, one of the following is true:",
     "choices": {
@@ -15103,7 +15119,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 945,
+    "id": 946,
     "original_num": 946,
     "question": "946. One of the following is not correct about giant cells:",
     "choices": {
@@ -15119,7 +15135,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 946,
+    "id": 947,
     "original_num": 947,
     "question": "947. One of the following is not correct about mast cells:",
     "choices": {
@@ -15135,7 +15151,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 947,
+    "id": 948,
     "original_num": 948,
     "question": "948. The common site of primary chancre in male is:",
     "choices": {
@@ -15151,7 +15167,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 948,
+    "id": 949,
     "original_num": 949,
     "question": "949. The most frequent cause of PUVA-induced phototoxicity is:",
     "choices": {
@@ -15167,7 +15183,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 949,
+    "id": 950,
     "original_num": 950,
     "question": "950. A YOUNG woman with acne taking an oral medication developed polyarthritis and raised liver enzymes test. The most likely drug she was taking is:",
     "choices": {
@@ -15183,7 +15199,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 950,
+    "id": 951,
     "original_num": 951,
     "question": "951. One of the following HERPETIC virus is resistant to acyclovir?",
     "choices": {
@@ -15199,7 +15215,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 951,
+    "id": 952,
     "original_num": 952,
     "question": "952. Granulysin:",
     "choices": {
@@ -15215,7 +15231,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 952,
+    "id": 953,
     "original_num": 953,
     "question": "953. One of the following statements is not correct about azathioprine:",
     "choices": {
@@ -15231,7 +15247,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 953,
+    "id": 954,
     "original_num": 954,
     "question": "954. One of the following lipids is not produced by sebaceous glands:",
     "choices": {
@@ -15247,7 +15263,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 954,
+    "id": 955,
     "original_num": 955,
     "question": "955. The best stain to demonstrate collagen is:",
     "choices": {
@@ -15263,7 +15279,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 955,
+    "id": 956,
     "original_num": 956,
     "question": "956. Basal cell liquefaction is not a feature of:",
     "choices": {
@@ -15279,7 +15295,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 956,
+    "id": 957,
     "original_num": 957,
     "question": "957. One of the following is not a feature of cytology atypia:",
     "choices": {
@@ -15295,7 +15311,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 957,
+    "id": 958,
     "original_num": 958,
     "question": "958. One of the following statements about treponema palladium is not true:",
     "choices": {
@@ -15311,7 +15327,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 958,
+    "id": 959,
     "original_num": 959,
     "question": "959. Regarding the arterial pulse and pulse rate:",
     "choices": {
@@ -15327,7 +15343,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 959,
+    "id": 960,
     "original_num": 960,
     "question": "960. Pitting edema:",
     "choices": {
@@ -15343,7 +15359,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 960,
+    "id": 961,
     "original_num": 961,
     "question": "961. Which One of the following disorders is the most likely to be associated with helicobacter pylori infection:",
     "choices": {
@@ -15359,7 +15375,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 961,
+    "id": 962,
     "original_num": 962,
     "question": "962. Viruses multiply by:",
     "choices": {
@@ -15375,7 +15391,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 962,
+    "id": 963,
     "original_num": 963,
     "question": "963. HIV receptor on the host cell is:",
     "choices": {
@@ -15391,7 +15407,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 963,
+    "id": 964,
     "original_num": 964,
     "question": "964. The following is used to detect antibodies:",
     "choices": {
@@ -15407,7 +15423,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 964,
+    "id": 965,
     "original_num": 965,
     "question": "965. Poor skin tests to tuberculin indicate a deficiency of",
     "choices": {
@@ -15423,7 +15439,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 965,
+    "id": 966,
     "original_num": 966,
     "question": "966. Most of the human connective tissues are derived mainly from",
     "choices": {
@@ -15439,7 +15455,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 966,
+    "id": 967,
     "original_num": 967,
     "question": "967. The cytotoxic T-lymphocytes skill target cells by:",
     "choices": {
@@ -15455,7 +15471,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 967,
+    "id": 968,
     "original_num": 968,
     "question": "968. Vitamin B 12",
     "choices": {
@@ -15471,7 +15487,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 968,
+    "id": 969,
     "original_num": 969,
     "question": "969. A swelling at the site of trauma histologically shows RBCs and hemosiderin-containing macrophage. The best hemodynamic disturbance that matches this pathology is",
     "choices": {
@@ -15487,7 +15503,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 969,
+    "id": 970,
     "original_num": 970,
     "question": "970. Hyperemia of acute inflammation is due to:",
     "choices": {
@@ -15503,7 +15519,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 970,
+    "id": 971,
     "original_num": 971,
     "question": "971. Prostaglandins are derived from",
     "choices": {
@@ -15519,7 +15535,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 971,
+    "id": 972,
     "original_num": 972,
     "question": "972. A test which detects the presence of a multiple number of antigens:",
     "choices": {
@@ -15535,7 +15551,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 972,
+    "id": 973,
     "original_num": 973,
     "question": "973. Autonomic nervous system:",
     "choices": {
@@ -15551,7 +15567,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 973,
+    "id": 974,
     "original_num": 974,
     "question": "974. ACTIVATION of C5a results in:",
     "choices": {
@@ -15567,7 +15583,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 974,
+    "id": 975,
     "original_num": 975,
     "question": "975. Which complement component is composed of three separate proteins:",
     "choices": {
@@ -15583,7 +15599,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 975,
+    "id": 976,
     "original_num": 976,
     "question": "976. The recommended daily dose of griseofulvin in cutaneous fungal infection is:",
     "choices": {
@@ -15599,7 +15615,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 976,
+    "id": 977,
     "original_num": 977,
     "question": "977. The inner plaque of the hemidesmosomes contains:",
     "choices": {
@@ -15615,7 +15631,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 977,
+    "id": 978,
     "original_num": 978,
     "question": "978. A 9 year boy with scabies did not respond to the topical treatment. The best drug to prescribe will be:",
     "choices": {
@@ -15631,7 +15647,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 978,
+    "id": 979,
     "original_num": 979,
     "question": "979. Psoriasis is now considered as a systemic condition. The system mostly affected together with the skin is:",
     "choices": {
@@ -15647,7 +15663,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 979,
+    "id": 980,
     "original_num": 980,
     "question": "980. The papillary dermis in contrast to the reticular dermis has:",
     "choices": {
@@ -15663,7 +15679,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 980,
+    "id": 981,
     "original_num": 981,
     "question": "981. Corneal layer cells are:",
     "choices": {
@@ -15679,7 +15695,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 981,
+    "id": 982,
     "original_num": 982,
     "question": "982. One of these structure is not a regular component of the papillary dermis:",
     "choices": {
@@ -15695,7 +15711,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 982,
+    "id": 983,
     "original_num": 983,
     "question": "983. The structures that compose the dermal papilla are:",
     "choices": {
@@ -15711,7 +15727,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 983,
+    "id": 984,
     "original_num": 984,
     "question": "984. The hemidesmosome is a complex structure. Its anchoring filaments are made of:",
     "choices": {
@@ -15727,7 +15743,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 984,
+    "id": 985,
     "original_num": 985,
     "question": "985. Natural killer cells usually do not exhibit One of the following:",
     "choices": {
@@ -15743,7 +15759,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 985,
+    "id": 986,
     "original_num": 986,
     "question": "986. Sebaceous glands open directly to the surface of the skin in:",
     "choices": {
@@ -15759,7 +15775,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 986,
+    "id": 987,
     "original_num": 987,
     "question": "987. One of the following chemical mediators plays a role in the stimulation of fibroblast proliferation:",
     "choices": {
@@ -15775,7 +15791,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 987,
+    "id": 988,
     "original_num": 988,
     "question": "988. One of the following occlusive ingredients is present in topical moisturizers:",
     "choices": {
@@ -15791,7 +15807,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 988,
+    "id": 989,
     "original_num": 989,
     "question": "989. Regarding keratins distribution, K80 is usually in:",
     "choices": {
@@ -15807,7 +15823,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 989,
+    "id": 990,
     "original_num": 990,
     "question": "990. One of the following is not a marker for lymphatics:",
     "choices": {
@@ -15823,7 +15839,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 990,
+    "id": 991,
     "original_num": 991,
     "question": "991. Melanocyte connections with neighboring keratinocytes is via:",
     "choices": {
@@ -15839,7 +15855,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 991,
+    "id": 992,
     "original_num": 992,
     "question": "992. One of the following induces the release of inflammatory mediators from mast cells:",
     "choices": {
@@ -15855,7 +15871,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 992,
+    "id": 993,
     "original_num": 993,
     "question": "993. The greatest density of mast cells is found in the:",
     "choices": {
@@ -15871,7 +15887,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 993,
+    "id": 994,
     "original_num": 994,
     "question": "994. Interferons production is usually induced by which type of Toll-like receptors (TLRs):",
     "choices": {
@@ -15887,7 +15903,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 994,
+    "id": 995,
     "original_num": 995,
     "question": "995. What is the most common neoplasm in Gorlin syndrome:",
     "choices": {
@@ -15903,7 +15919,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 995,
+    "id": 996,
     "original_num": 996,
     "question": "996. Regarding Th3 cells, one of the following is not true:",
     "choices": {
@@ -15919,7 +15935,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 996,
+    "id": 997,
     "original_num": 997,
     "question": "997. One of the following stains is used for the capsule of Cryptococcus neoformans?",
     "choices": {
@@ -15935,7 +15951,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 997,
+    "id": 998,
     "original_num": 998,
     "question": "998. Human dendritic cells are generated from:",
     "choices": {
@@ -15951,7 +15967,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 998,
+    "id": 999,
     "original_num": 999,
     "question": "999. One of the following is not a sedating antihistamine:",
     "choices": {
@@ -15967,7 +15983,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 999,
+    "id": 1000,
     "original_num": 1000,
     "question": "1000. Tetracyclines have anti-inflammatory effects which include:",
     "choices": {
@@ -15983,7 +15999,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1000,
+    "id": 1001,
     "original_num": 1001,
     "question": "1001. The highest incidence of drug reaction is with:",
     "choices": {
@@ -15999,7 +16015,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1001,
+    "id": 1002,
     "original_num": 1002,
     "question": "1002. One of the following viruses is RNA- double stranded?",
     "choices": {
@@ -16015,7 +16031,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1002,
+    "id": 1003,
     "original_num": 1003,
     "question": "1003. The majority of patients with DH have?",
     "choices": {
@@ -16031,7 +16047,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1003,
+    "id": 1004,
     "original_num": 1004,
     "question": "1004. One of the following occupations may not be infected by anthrax:",
     "choices": {
@@ -16047,7 +16063,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1004,
+    "id": 1005,
     "original_num": 1005,
     "question": "1005. One of the following is not correct about hair cycle:",
     "choices": {
@@ -16063,7 +16079,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1005,
+    "id": 1006,
     "original_num": 1006,
     "question": "1006. One of the following induces the release of inflammatory mediators from mast cells:",
     "choices": {
@@ -16079,7 +16095,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1006,
+    "id": 1007,
     "original_num": 1007,
     "question": "1007. The envelope of glycoprotein HIV is:",
     "choices": {
@@ -16095,7 +16111,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1007,
+    "id": 1008,
     "original_num": 1008,
     "question": "1008. Interferon is not indicated in Which of the following diseases:",
     "choices": {
@@ -16111,7 +16127,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1008,
+    "id": 1009,
     "original_num": 1009,
     "question": "1009. On which sites does the location of bruises suggest non-accidental trauma?",
     "choices": {
@@ -16127,7 +16143,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1009,
+    "id": 1010,
     "original_num": 1010,
     "question": "1010. One of the following is not true about lepromatous leprosy:",
     "choices": {
@@ -16143,7 +16159,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1010,
+    "id": 1011,
     "original_num": 1011,
     "question": "1011. Which of the following is true regarding oral contraceptives in acne patients:",
     "choices": {
@@ -16159,7 +16175,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1011,
+    "id": 1012,
     "original_num": 1012,
     "question": "1012. Clinically, The initial stage of involvement of skin with systemic sclerosis characterized by?",
     "choices": {
@@ -16175,7 +16191,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1012,
+    "id": 1013,
     "original_num": 1013,
     "question": "1013. An 87-year-old man with Fitzpatrick skin phototype II presents with multiple keratotic papules on his forehead. On clinical examination, one of these lesions reveals a few white circles on dermoscopy. What is the most likely histologic diagnosis?",
     "choices": {
@@ -16191,7 +16207,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1013,
+    "id": 1014,
     "original_num": 1014,
     "question": "1014. The same 87-year-old man mentioned above also has a 3-mm pink papule on his temple. On dermoscopy, the lesion shows shiny white blotches and strands, a blue ovoid nest, and an arborizing vessel. What is the most likely diagnosis and best treatment option for this lesion?",
     "choices": {
@@ -16207,7 +16223,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1014,
+    "id": 1015,
     "original_num": 1015,
     "question": "1015. A 52-year-old white man presents with a bleeding pigmented lesion on his lower back. Dermoscopically, the lesion shows a blue-white veil over a raised area, shiny white streaks, an area with scar-like depigmentation and peppering, a milky red area, and polymorphous vessels. Which dermoscopic feature does not correlate with dermal invasion in melanoma?",
     "choices": {
@@ -16223,7 +16239,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1015,
+    "id": 1016,
     "original_num": 1016,
     "question": "1016. A 47-year-old white woman with atypical mole syndrome presents for a skin cancer surveillance examination. The physical examination reveals that a brown 5-mm macule appears to have changed. On dermoscopy, the macule reveals a pigment network and a focal area with a negative network in the center. What is the most likely diagnosis?",
     "choices": {
@@ -16239,7 +16255,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1016,
+    "id": 1017,
     "original_num": 1017,
     "question": "1017. A 54-year-old African American woman presented with a pigmented band on her right large toenail that appeared 2 years ago. One year after the appearance of the melanonychia, a biopsy specimen was obtained from the area and the pathology results showed melanocytic hyperplasia. One year later, she presented to your office because of persistent distal onycholysis. The surface of the nail plate appeared normal. Dermoscopically the pigmented band showed variation in the thickness of the lines, black and brown granules, and pigmentation of the proximal nail fold. Free-edge dermoscopy revealed pigmentation in the upper portion of the nail plate. From which location was the original biopsy specimen, obtained 1 year earlier, taken?",
     "choices": {
@@ -16255,7 +16271,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1017,
+    "id": 1018,
     "original_num": 1018,
     "question": "1018. Based on the aforementioned physical findings, which of the following is the most appropriate area from which to obtain a biopsy specimen to ensure the correct diagnosis of melanoma?",
     "choices": {
@@ -16271,7 +16287,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1018,
+    "id": 1019,
     "original_num": 1019,
     "question": "1019. A 48-year-old white man presented with an uneven 1-cm pigmented lesion on his right scapula. Dermoscopic analysis of the flat portion of the lesion revealed a regular brown pigment network, areas of scar-like depigmentation, and peppering/granularity. The raised palpable area, which was located toward the periphery of the lesion, revealed a blue-whitish veil. Which of the listed histologic findings would you see if the histopathology section encompassed the raised portion of the lesion?",
     "choices": {
@@ -16287,7 +16303,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1019,
+    "id": 1020,
     "original_num": 1020,
     "question": "1020. Regarding the previous case, a partial biopsy (punch) specimen was obtained and histopathologic examination revealed atypical junctional melanocytes and dermal fibrosis with melanophages. From which area was this punch biopsy specimen obtained, and what is the most likely final diagnosis?",
     "choices": {
@@ -16303,7 +16319,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1020,
+    "id": 1021,
     "original_num": 1021,
     "question": "1021. Which of the following about nails is correct:",
     "choices": {
@@ -16319,7 +16335,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1021,
+    "id": 1022,
     "original_num": 1022,
     "question": "1022. One of the following is not true about the anti-inflammatory effects of glucocorticoids:",
     "choices": {
@@ -16335,7 +16351,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1022,
+    "id": 1023,
     "original_num": 1023,
     "question": "1023. One of the following is not an oxygen-dependent killing mechanism in Neutrophils:",
     "choices": {
@@ -16351,7 +16367,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1023,
+    "id": 1024,
     "original_num": 1024,
     "question": "1024. Propranolol 40mg twice daily is used in the treatment of a clinical feature of Which of the following diseases?",
     "choices": {
@@ -16367,7 +16383,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1024,
+    "id": 1025,
     "original_num": 1025,
     "question": "1025. Depletion of neuropeptides of an afferent nerve terminals and binding to vanilloid receptor 1 is the mode of action of What?",
     "choices": {
@@ -16383,7 +16399,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1025,
+    "id": 1026,
     "original_num": 1026,
     "question": "1026. Infection by Which of the following species responds to combination therapy of dapson, streptomycin and cotrimaxazole?",
     "choices": {
@@ -16399,7 +16415,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1026,
+    "id": 1027,
     "original_num": 1027,
     "question": "1027. Which of the following cells contain Weibel-Palade inclusions?",
     "choices": {
@@ -16415,7 +16431,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1027,
+    "id": 1028,
     "original_num": 1028,
     "question": "1028. Café–au-lait macules only is description for the following type of NF:",
     "choices": {
@@ -16431,7 +16447,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1028,
+    "id": 1029,
     "original_num": 1029,
     "question": "1029. Psoriasis patients who have been treated by 200 PUVA treatments, are at increased risk for the development of:",
     "choices": {
@@ -16447,7 +16463,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1029,
+    "id": 1030,
     "original_num": 1030,
     "question": "1030. BCG is a selective contraindication in the following biological agent used for the treatment of psoriasis:",
     "choices": {
@@ -16463,7 +16479,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1030,
+    "id": 1031,
     "original_num": 1031,
     "question": "1031. Which of the following drugs causes cholestasis?",
     "choices": {
@@ -16479,7 +16495,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1031,
+    "id": 1032,
     "original_num": 1032,
     "question": "1032. The most helpful investigative tool in the diagnosis of lymphatic malformations is?",
     "choices": {
@@ -16495,7 +16511,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1032,
+    "id": 1033,
     "original_num": 1033,
     "question": "1033. Pityriasis Rosea – like eruption may be caused by:",
     "choices": {
@@ -16511,7 +16527,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1033,
+    "id": 1034,
     "original_num": 1034,
     "question": "1034. One of the following laboratory abnormalities would best aid the diagnosis of Parvovirus B19:",
     "choices": {
@@ -16527,7 +16543,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1034,
+    "id": 1035,
     "original_num": 1035,
     "question": "1035. A 10-year-old male with a history of mild to moderate eczema has numerous molluscum contagiosum lesions, which of the following is true:",
     "choices": {
@@ -16543,7 +16559,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1035,
+    "id": 1036,
     "original_num": 1036,
     "question": "1036. A pregnant woman has varicella 2 days before delivery, concerning the effects on the neonate, which of the following recommendations is most appropriate?",
     "choices": {
@@ -16559,7 +16575,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1036,
+    "id": 1037,
     "original_num": 1037,
     "question": "1037. The major cause of mortality in patients with calciphylaxis is:",
     "choices": {
@@ -16575,7 +16591,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1037,
+    "id": 1038,
     "original_num": 1038,
     "question": "1038. The Brunsting- perry variant of cicatricial pemphigoid:",
     "choices": {
@@ -16591,7 +16607,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1038,
+    "id": 1039,
     "original_num": 1039,
     "question": "1039. The pseudo-darier signs occur in:",
     "choices": {
@@ -16607,7 +16623,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1039,
+    "id": 1040,
     "original_num": 1040,
     "question": "1040. Acquired hypertrichosis lanuginosa is not associated with:",
     "choices": {
@@ -16623,7 +16639,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1040,
+    "id": 1041,
     "original_num": 1041,
     "question": "1041. The major chromophore in skin for the generation of single oxygen is:",
     "choices": {
@@ -16639,7 +16655,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1041,
+    "id": 1042,
     "original_num": 1042,
     "question": "1042. Which of the following does not cause nodules on hair shafts:",
     "choices": {
@@ -16655,7 +16671,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1042,
+    "id": 1043,
     "original_num": 1043,
     "question": "1043. The cellular source of antibacterial peptide Dermcidin is:",
     "choices": {
@@ -16671,7 +16687,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1043,
+    "id": 1044,
     "original_num": 1044,
     "question": "1044. One of the following is not correct about Th- 17 cells:",
     "choices": {
@@ -16687,7 +16703,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1044,
+    "id": 1045,
     "original_num": 1045,
     "question": "1045. In electron microscopy, the cell that demonstrates cytoplasmic projections and secretory granules is:",
     "choices": {
@@ -16703,7 +16719,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1045,
+    "id": 1046,
     "original_num": 1046,
     "question": "1046. One of the following is not a biological effect of retinoids:",
     "choices": {
@@ -16719,7 +16735,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1046,
+    "id": 1047,
     "original_num": 1047,
     "question": "1047. One of the following plants does not cause Contact Dermatitis:",
     "choices": {
@@ -16735,7 +16751,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1047,
+    "id": 1048,
     "original_num": 1048,
     "question": "1048. Which of the following is not atypical form of Pityriasis Rose:",
     "choices": {
@@ -16751,7 +16767,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1048,
+    "id": 1049,
     "original_num": 1049,
     "question": "1049. Which of the following is not the most frequently subjective side effects of methotrexate?",
     "choices": {
@@ -16767,7 +16783,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1049,
+    "id": 1050,
     "original_num": 1050,
     "question": "1050. The mediator that has no activity on pain is:",
     "choices": {
@@ -16783,7 +16799,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1050,
+    "id": 1051,
     "original_num": 1051,
     "question": "1051. Dendritic epidermal cells express which of the following markers:",
     "choices": {
@@ -16799,7 +16815,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1051,
+    "id": 1052,
     "original_num": 1052,
     "question": "1052. One of the following is not correct about NK cells:",
     "choices": {
@@ -16815,7 +16831,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1052,
+    "id": 1053,
     "original_num": 1053,
     "question": "1053. Among the following lesions, which of the most likely to turn malignant?",
     "choices": {
@@ -16831,7 +16847,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1053,
+    "id": 1054,
     "original_num": 1054,
     "question": "1054. In SCC of lower lip, mark the wrong?",
     "choices": {
@@ -16847,7 +16863,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1054,
+    "id": 1055,
     "original_num": 1055,
     "question": "1055. Hair loss may be caused by all of the following except:",
     "choices": {
@@ -16863,7 +16879,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1055,
+    "id": 1056,
     "original_num": 1056,
     "question": "1056. Which of the following topical therapies may be effective for keratosis lichenoid chronica?",
     "choices": {
@@ -16879,7 +16895,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1056,
+    "id": 1057,
     "original_num": 1057,
     "question": "1057. The most common complication of erythropoitic protoporphyria is:",
     "choices": {
@@ -16895,7 +16911,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1057,
+    "id": 1058,
     "original_num": 1058,
     "question": "1058. Of the following the most common manifestation of Tuberous Sclerosis is:",
     "choices": {
@@ -16911,7 +16927,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1058,
+    "id": 1059,
     "original_num": 1059,
     "question": "1059. In distinguishing alopecia areata from trichotillomania under the microscope, One of the following favors alopecia areata?",
     "choices": {
@@ -16927,7 +16943,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1059,
+    "id": 1060,
     "original_num": 1060,
     "question": "1060. Livedo reticularis in patients with Systemic Lupus Erythematous and anticardiolipin antibodies has been associated with:",
     "choices": {
@@ -16943,7 +16959,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1060,
+    "id": 1061,
     "original_num": 1061,
     "question": "1061. In Buschke – Loewenstein tumor one statement is TRUE:",
     "choices": {
@@ -16959,7 +16975,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1061,
+    "id": 1062,
     "original_num": 1062,
     "question": "1062. Each of the following is a variant of Pyoderma Gangrenosum except?",
     "choices": {
@@ -16975,7 +16991,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1062,
+    "id": 1063,
     "original_num": 1063,
     "question": "1063. Verrucous carcinoma is probably best considered as:",
     "choices": {
@@ -16991,7 +17007,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1063,
+    "id": 1064,
     "original_num": 1064,
     "question": "1064. After the skin, the 2d organ mostly involved by mast cell disease is:",
     "choices": {
@@ -17007,7 +17023,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1064,
+    "id": 1065,
     "original_num": 1065,
     "question": "1065. Each of the following is true of the occurrence of malignancy in patients with Pyoderma Gangrenosum except:",
     "choices": {
@@ -17023,7 +17039,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1065,
+    "id": 1066,
     "original_num": 1066,
     "question": "1066. A severe eczematoid dermatitis that often resembles atopic dermatitis associated with thrombocytopenia is a characteristic finding in:",
     "choices": {
@@ -17039,7 +17055,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1066,
+    "id": 1067,
     "original_num": 1067,
     "question": "1067. Which of the following disease presents most often with palpable purpura:",
     "choices": {
@@ -17055,7 +17071,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1067,
+    "id": 1068,
     "original_num": 1068,
     "question": "1068. Epidermal melanin unit refers to:",
     "choices": {
@@ -17071,7 +17087,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1068,
+    "id": 1069,
     "original_num": 1069,
     "question": "1069. One of the following does not bind to C1q:",
     "choices": {
@@ -17087,7 +17103,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1069,
+    "id": 1070,
     "original_num": 1070,
     "question": "1070. The basic molecular unit of elastin is:",
     "choices": {
@@ -17103,7 +17119,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1070,
+    "id": 1071,
     "original_num": 1071,
     "question": "1071. Biopsy of suspected alopecia areata would show inflammation around which portion of the hair follicle.:",
     "choices": {
@@ -17119,7 +17135,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1071,
+    "id": 1072,
     "original_num": 1072,
     "question": "1072. The elastic fibers are highest in number in:",
     "choices": {
@@ -17135,7 +17151,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1072,
+    "id": 1073,
     "original_num": 1073,
     "question": "1073. One of the following layers is not present in vellus hair:",
     "choices": {
@@ -17151,7 +17167,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1073,
+    "id": 1074,
     "original_num": 1074,
     "question": "1074. What next test should be performed on the patient with neurofibromatosis type I:",
     "choices": {
@@ -17167,7 +17183,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1074,
+    "id": 1075,
     "original_num": 1075,
     "question": "1075. Which HPV strain is most closely associated with periungual squamous cell cacrinomas?",
     "choices": {
@@ -17183,7 +17199,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1075,
+    "id": 1076,
     "original_num": 1076,
     "question": "1076. In a patient diagnosed to have ecthyma gangrenosum, what is the pathophysiology of the formation of skin lesion?",
     "choices": {
@@ -17199,7 +17215,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1076,
+    "id": 1077,
     "original_num": 1077,
     "question": "1077. Biopsy of suspected DLE would show inflammation around which portion of the hair follicle.:",
     "choices": {
@@ -17215,7 +17231,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1077,
+    "id": 1078,
     "original_num": 1078,
     "question": "1078. How do the histopathologic features of the cutaneous lesions of Lichen differ from the mucous membrane’s lesions of the same entity?",
     "choices": {
@@ -17231,7 +17247,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1078,
+    "id": 1079,
     "original_num": 1079,
     "question": "1079. Which of the following statements regarding lice is NOT true?",
     "choices": {
@@ -17247,7 +17263,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1079,
+    "id": 1080,
     "original_num": 1080,
     "question": "1080. Which of the following treatment of head lice infestation has demonstrated no resistance:",
     "choices": {
@@ -17263,7 +17279,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1080,
+    "id": 1081,
     "original_num": 1081,
     "question": "1081. Which of the following is false?",
     "choices": {
@@ -17279,7 +17295,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1081,
+    "id": 1082,
     "original_num": 1082,
     "question": "1082. Which of the following does not cause photo-onycholysis:",
     "choices": {
@@ -17295,7 +17311,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1082,
+    "id": 1083,
     "original_num": 1083,
     "question": "1083. Which of the following characterize telogen hair?",
     "choices": {
@@ -17311,7 +17327,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1083,
+    "id": 1084,
     "original_num": 1084,
     "question": "1084. Which Interleukin is responsible for neutrophil chemotaxis:",
     "choices": {
@@ -17327,7 +17343,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1084,
+    "id": 1085,
     "original_num": 1085,
     "question": "1085. After a patient is started on one of the medications below, his dose of cyclosporine A needs to be increased. which of the medications below prompted the cyclosporine A dose adjustment:",
     "choices": {
@@ -17343,7 +17359,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1085,
+    "id": 1086,
     "original_num": 1086,
     "question": "1086. Which of the following TLR is involved in recognizing lipopolysaccharides:",
     "choices": {
@@ -17359,7 +17375,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1086,
+    "id": 1087,
     "original_num": 1087,
     "question": "1087. 5 alpha – reductase converts testosterone to Which of the following:",
     "choices": {
@@ -17375,7 +17391,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1087,
+    "id": 1088,
     "original_num": 1088,
     "question": "1088. A gardener presented with non-immunologic contact urticaria. Which one of the following does not cause non-immunologic contact urticaria:",
     "choices": {
@@ -17391,7 +17407,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1088,
+    "id": 1089,
     "original_num": 1089,
     "question": "1089. A 34 year old female patient presented with extensive LP and liver disease, Which one of the following drugs is recommended to treat this patient:",
     "choices": {
@@ -17407,7 +17423,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1089,
+    "id": 1090,
     "original_num": 1090,
     "question": "1090. In localized acute cutaneous LE, WHICH of the following is characteristically spared:",
     "choices": {
@@ -17423,7 +17439,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1090,
+    "id": 1091,
     "original_num": 1091,
     "question": "1091. Skin damage during an immune-complex reaction is mediated by:",
     "choices": {
@@ -17439,7 +17455,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1091,
+    "id": 1092,
     "original_num": 1092,
     "question": "1092. Which cytokines is not secreted by T- helper lymphocytes:",
     "choices": {
@@ -17455,7 +17471,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1092,
+    "id": 1093,
     "original_num": 1093,
     "question": "1093. A 5 year boy known to have sickle cell disease presented with an acute febrile rash and transient aplastic crisis, which virus is well recognized to cause this presentation?",
     "choices": {
@@ -17471,7 +17487,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1093,
+    "id": 1094,
     "original_num": 1094,
     "question": "1094. A central parakeratosis without hypergranulation is a characteristic histopathologic feature of:",
     "choices": {
@@ -17487,7 +17503,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1094,
+    "id": 1095,
     "original_num": 1095,
     "question": "1095. The highest density of hairs is usually in:",
     "choices": {
@@ -17503,7 +17519,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1095,
+    "id": 1096,
     "original_num": 1096,
     "question": "1096. Side effects of Bleomycin include:",
     "choices": {
@@ -17519,7 +17535,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1096,
+    "id": 1097,
     "original_num": 1097,
     "question": "1097. Regarding nail development, proximal nail fold is visible at:",
     "choices": {
@@ -17535,7 +17551,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1097,
+    "id": 1098,
     "original_num": 1098,
     "question": "1098. The following causes vasodilatation in acute inflammation:",
     "choices": {
@@ -17551,7 +17567,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1098,
+    "id": 1099,
     "original_num": 1099,
     "question": "1099. An elderly patient presents with recurrent attack of painful unilateral papulovesicular lesions on the trunk with a dermatomal distribution. What is the next appropriate step?",
     "choices": {
@@ -17567,7 +17583,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1099,
+    "id": 1100,
     "original_num": 1100,
     "question": "1100. Higher risk for toxicity from glucocorticoid therapy does not occur in Which of the following?",
     "choices": {
@@ -17583,7 +17599,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1100,
+    "id": 1101,
     "original_num": 1101,
     "question": "1101. Which of the following has a protective role in urticarial:",
     "choices": {
@@ -17599,7 +17615,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1101,
+    "id": 1102,
     "original_num": 1102,
     "question": "1102. Complications of bacterial endocarditis include one of the following:",
     "choices": {
@@ -17615,7 +17631,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1102,
+    "id": 1103,
     "original_num": 1103,
     "question": "1103. Which part of the nail unit most closely resembles the epiderm histologically?",
     "choices": {
@@ -17631,7 +17647,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1103,
+    "id": 1104,
     "original_num": 1104,
     "question": "1104. Which of the following retinoids has THE LONGEST elimination half life:",
     "choices": {
@@ -17647,7 +17663,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1104,
+    "id": 1105,
     "original_num": 1105,
     "question": "1105. Which keratins are upregulated in hyperproliferative diseases such as psoriasis?",
     "choices": {
@@ -17663,7 +17679,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1105,
+    "id": 1106,
     "original_num": 1106,
     "question": "1106. Complement component C3 is cleaved by:",
     "choices": {
@@ -17679,7 +17695,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1106,
+    "id": 1107,
     "original_num": 1107,
     "question": "1107. The ttt of AD in children often requires the use of topical corticosteroids. Which of the following choices represents an appropriate choice for use in the face and intertriginous areas of a child affected by AD in order to reduce the possibility of adverse effects?",
     "choices": {
@@ -17695,7 +17711,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1107,
+    "id": 1108,
     "original_num": 1108,
     "question": "1108. Interferon beta is produced by:",
     "choices": {
@@ -17711,7 +17727,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1108,
+    "id": 1109,
     "original_num": 1109,
     "question": "1109. What first initial test should be performed in an infant showing cutis congenital with an open fontanelle:",
     "choices": {
@@ -17727,7 +17743,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1109,
+    "id": 1110,
     "original_num": 1110,
     "question": "1110. Which of the following statements about the direct immunofluorescence pattern in lichen planus is correct?",
     "choices": {
@@ -17743,7 +17759,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1110,
+    "id": 1111,
     "original_num": 1111,
     "question": "1111. One of the following is a fibril-forming collagen?",
     "choices": {
@@ -17759,7 +17775,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1111,
+    "id": 1112,
     "original_num": 1112,
     "question": "1112. Tinea manuum:",
     "choices": {
@@ -17775,7 +17791,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1112,
+    "id": 1113,
     "original_num": 1113,
     "question": "1113. Fibrillin is:",
     "choices": {
@@ -17791,7 +17807,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1113,
+    "id": 1114,
     "original_num": 1114,
     "question": "1114. The chemical mediators that plays a role in cross-linking of wound healing?",
     "choices": {
@@ -17807,7 +17823,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1114,
+    "id": 1115,
     "original_num": 1115,
     "question": "1115. Antigen presenting cells (APC) activation is not associated with induction of the following cytokine:",
     "choices": {
@@ -17823,7 +17839,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1115,
+    "id": 1116,
     "original_num": 1116,
     "question": "1116. Retinoid topical preparation pass into the keratinocytes through the process of:",
     "choices": {
@@ -17839,7 +17855,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1116,
+    "id": 1117,
     "original_num": 1117,
     "question": "1117. The lipids in Odlands body are secreted in the form of:",
     "choices": {
@@ -17855,7 +17871,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1117,
+    "id": 1118,
     "original_num": 1118,
     "question": "1118. The short (< 4 weeks) latency period for drug-induced psoriasis is characteristic of the following drug:",
     "choices": {
@@ -17871,7 +17887,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1118,
+    "id": 1119,
     "original_num": 1119,
     "question": "1119. Which of the following is not true about systemic lupus erythromatosus:",
     "choices": {
@@ -17887,7 +17903,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1119,
+    "id": 1120,
     "original_num": 1120,
     "question": "1120. Premature babies are not prone to one of the following:",
     "choices": {
@@ -17903,7 +17919,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1120,
+    "id": 1121,
     "original_num": 1121,
     "question": "1121. Which antimicrobial peptide is inducible by components of microbes and proinflammatory cytokines?",
     "choices": {
@@ -17919,7 +17935,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1121,
+    "id": 1122,
     "original_num": 1122,
     "question": "1122. Which of the following is NOT a diagnostical criteria for NF – 1?",
     "choices": {
@@ -17935,7 +17951,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1122,
+    "id": 1123,
     "original_num": 1123,
     "question": "1123. Which of the following is most likely to cause a decreased therapeutic response to hydroxychloroquine?",
     "choices": {
@@ -17951,7 +17967,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1123,
+    "id": 1124,
     "original_num": 1124,
     "question": "1124. Which of the following drugs is the safest option for pregnant patients with intense acne?",
     "choices": {
@@ -17967,7 +17983,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1124,
+    "id": 1125,
     "original_num": 1125,
     "question": "1125. Hydroxyurea works by inhibiting which enzyme?",
     "choices": {
@@ -17983,7 +17999,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1125,
+    "id": 1126,
     "original_num": 1126,
     "question": "1126. Which of the following pairs of keratins is found in suprabasal layers of palmar and plantar skin?",
     "choices": {
@@ -17999,7 +18015,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1126,
+    "id": 1127,
     "original_num": 1127,
     "question": "1127. Which of the following prompts cyclosporine- A dose adjustment?",
     "choices": {
@@ -18015,7 +18031,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1127,
+    "id": 1128,
     "original_num": 1128,
     "question": "1128. One of the following statements about p53 protein is false:",
     "choices": {
@@ -18031,7 +18047,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1128,
+    "id": 1129,
     "original_num": 1129,
     "question": "1129. Pentostatin (Nipent), a purine analogue is an ideal drug for:",
     "choices": {
@@ -18047,7 +18063,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1129,
+    "id": 1130,
     "original_num": 1130,
     "question": "1130. Which of the following is true regarding Varicella?",
     "choices": {
@@ -18063,7 +18079,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1130,
+    "id": 1131,
     "original_num": 1131,
     "question": "1131. A consistent histopathologic feature of hydroxyurea dermopathy is:",
     "choices": {
@@ -18079,7 +18095,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1131,
+    "id": 1132,
     "original_num": 1132,
     "question": "1132. Viral capsid antigen (VCA) IgG is positive in acute infection with:",
     "choices": {
@@ -18095,7 +18111,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1132,
+    "id": 1133,
     "original_num": 1133,
     "question": "1133. Which of the following medications have been shown to be efficacious in treatment facial erythema of rosacea?",
     "choices": {
@@ -18111,7 +18127,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1133,
+    "id": 1134,
     "original_num": 1134,
     "question": "1134. Which of the following inhibits squalene epoxidase, thereby blocking the conversion of squalene to lanosterol?",
     "choices": {
@@ -18127,7 +18143,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1134,
+    "id": 1135,
     "original_num": 1135,
     "question": "1135. Which of the following suture type has the most persistent tensile strength over time?",
     "choices": {
@@ -18143,7 +18159,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1135,
+    "id": 1136,
     "original_num": 1136,
     "question": "1136. Which nerve fibers within the dermis exhibit the most rapid response to local anesthesia?",
     "choices": {
@@ -18159,7 +18175,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1136,
+    "id": 1137,
     "original_num": 1137,
     "question": "1137. SLE rate is highest in patient with a deficiency of:",
     "choices": {
@@ -18175,7 +18191,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1137,
+    "id": 1138,
     "original_num": 1138,
     "question": "1138. Which of the following has the longest plasma half-life?",
     "choices": {
@@ -18191,7 +18207,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1138,
+    "id": 1139,
     "original_num": 1139,
     "question": "1139. Regarding cutaneous drug eruption, the commonest form is:",
     "choices": {
@@ -18207,7 +18223,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1139,
+    "id": 1140,
     "original_num": 1140,
     "question": "1140. The mechanism of action in Q- switched lasers is:",
     "choices": {
@@ -18223,7 +18239,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1140,
+    "id": 1141,
     "original_num": 1141,
     "question": "1141. The infraorbital foramen is located:",
     "choices": {
@@ -18239,7 +18255,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1141,
+    "id": 1142,
     "original_num": 1142,
     "question": "1142. Regarding the cellular mechanisms of vascular leakage, which of the following is INCORRECT:",
     "choices": {
@@ -18255,7 +18271,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1142,
+    "id": 1143,
     "original_num": 1143,
     "question": "1143. Which one of the following is NOT a predisposing factor to colonization and infection with MRSA?",
     "choices": {
@@ -18271,7 +18287,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1143,
+    "id": 1144,
     "original_num": 1144,
     "question": "1144. Which one of the following granules is seen in Botryomycosis discharge?",
     "choices": {
@@ -18287,7 +18303,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1144,
+    "id": 1145,
     "original_num": 1145,
     "question": "1145. A 5-years old boy had Impetigo which was complicated by acute glomerulo- nephritis, which one of the following is nephrotogenic strains of streptococcus?",
     "choices": {
@@ -18303,7 +18319,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1145,
+    "id": 1146,
     "original_num": 1146,
     "question": "1146. Which One of the following is not a Tick-borne disease?",
     "choices": {
@@ -18319,7 +18335,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1146,
+    "id": 1147,
     "original_num": 1147,
     "question": "1147. One of the following adhesion proteins is not a component of hemidesmosome anchoring filament complexe:",
     "choices": {
@@ -18335,7 +18351,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1147,
+    "id": 1148,
     "original_num": 1148,
     "question": "1148. One of the following type of lasers has liquid media:",
     "choices": {
@@ -18351,7 +18367,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1148,
+    "id": 1149,
     "original_num": 1149,
     "question": "1149. The plasma half-life 19-35 h is characteristic of the following antihistamine:",
     "choices": {
@@ -18367,7 +18383,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1149,
+    "id": 1150,
     "original_num": 1150,
     "question": "1150. Mutation in loricrin occurs in:",
     "choices": {
@@ -18383,7 +18399,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1150,
+    "id": 1151,
     "original_num": 1151,
     "question": "1151. Which one of the following melanocortin receptors is highly expressed in melanocytes?",
     "choices": {
@@ -18399,7 +18415,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1151,
+    "id": 1152,
     "original_num": 1152,
     "question": "1152. Which one of the following stains has strong reaction in tumors with follicular differentiation?",
     "choices": {
@@ -18415,7 +18431,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1152,
+    "id": 1153,
     "original_num": 1153,
     "question": "1153. Most mutations are generated during:",
     "choices": {
@@ -18431,7 +18447,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1153,
+    "id": 1154,
     "original_num": 1154,
     "question": "1154. One of the following drugs is the least likely to cause morbilliform eruption",
     "choices": {
@@ -18447,7 +18463,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1154,
+    "id": 1155,
     "original_num": 1155,
     "question": "1155. Which one of the following local anesthetics is used in pregnancy?",
     "choices": {
@@ -18463,7 +18479,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1155,
+    "id": 1156,
     "original_num": 1156,
     "question": "1156. Suture “4-0” vicryl compared to “5-0” vicryl has:",
     "choices": {
@@ -18479,7 +18495,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1156,
+    "id": 1157,
     "original_num": 1157,
     "question": "1157. Which of the following lasers has crystal medium?",
     "choices": {
@@ -18495,7 +18511,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1157,
+    "id": 1158,
     "original_num": 1158,
     "question": "1158. One of the following chemicals is not associated with the development of non- melanoma skin cancer:",
     "choices": {
@@ -18511,7 +18527,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1158,
+    "id": 1159,
     "original_num": 1159,
     "question": "1159. The recommended daily dose of griseofulvin in cutaneous fungal infection is:",
     "choices": {
@@ -18527,7 +18543,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1159,
+    "id": 1160,
     "original_num": 1160,
     "question": "1160. The specific test for the diagnosis of neurosyphilis is:",
     "choices": {
@@ -18543,7 +18559,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1160,
+    "id": 1161,
     "original_num": 1161,
     "question": "1161. The epithelial cells are derived from",
     "choices": {
@@ -18559,7 +18575,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1161,
+    "id": 1162,
     "original_num": 1162,
     "question": "1162. Which of the following statements is true?",
     "choices": {
@@ -18575,7 +18591,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1162,
+    "id": 1163,
     "original_num": 1163,
     "question": "1163. Anti-Jo-1 antibodies are directed against",
     "choices": {
@@ -18591,7 +18607,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1163,
+    "id": 1164,
     "original_num": 1164,
     "question": "1164. Nephrotoxicity and genital ulcers are side effects of one of these:",
     "choices": {
@@ -18607,7 +18623,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1164,
+    "id": 1165,
     "original_num": 1165,
     "question": "1165. A swelling at the site of trauma histologically shows RBCs and haemosiderin- containing macrophage. The best hemodynamic disturbance that matches this pathology is:",
     "choices": {
@@ -18623,7 +18639,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1165,
+    "id": 1166,
     "original_num": 1166,
     "question": "1166. One of the following is not a feature of Lidocaine toxicity:",
     "choices": {
@@ -18639,7 +18655,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1166,
+    "id": 1167,
     "original_num": 1167,
     "question": "1167. One of the following is not correct regarding mycophenolate mofetil:",
     "choices": {
@@ -18655,7 +18671,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1167,
+    "id": 1168,
     "original_num": 1168,
     "question": "1168. Which of the following is not an action of cyclosporine therapy?",
     "choices": {
@@ -18671,7 +18687,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1168,
+    "id": 1169,
     "original_num": 1169,
     "question": "1169. Which one of the following dermatophytes causes endothrix type of hair invasion?",
     "choices": {
@@ -18687,7 +18703,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1169,
+    "id": 1170,
     "original_num": 1170,
     "question": "1170. Which One of the following disorders is the most likely to be associated with helicobacter pylori infection:",
     "choices": {
@@ -18703,7 +18719,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1170,
+    "id": 1171,
     "original_num": 1171,
     "question": "1171. One of the following drugs does not cause secondary Raynaud's phenomenon:",
     "choices": {
@@ -18719,7 +18735,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1171,
+    "id": 1172,
     "original_num": 1172,
     "question": "1172. One of the following drugs is not a cause of small vessel vasculitis",
     "choices": {
@@ -18735,7 +18751,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1172,
+    "id": 1173,
     "original_num": 1173,
     "question": "1173. One of the following dermatophytes is not ectothrix type:",
     "choices": {
@@ -18751,7 +18767,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1173,
+    "id": 1174,
     "original_num": 1174,
     "question": "1174. One of the following is NOT CORRECT about early indeterminate leprosy:",
     "choices": {
@@ -18767,7 +18783,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1174,
+    "id": 1175,
     "original_num": 1175,
     "question": "1175. Histopathological reaction of the type of tuberculoid granuloma with caseation may be caused by One of the following foreign substances:",
     "choices": {
@@ -18783,7 +18799,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1175,
+    "id": 1176,
     "original_num": 1176,
     "question": "1176. One of the following is NOT CORRECT regarding penciclover:",
     "choices": {
@@ -18799,7 +18815,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1176,
+    "id": 1177,
     "original_num": 1177,
     "question": "1177. Langerhans cells cannot be identified with One of the following stains:",
     "choices": {
@@ -18815,7 +18831,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1177,
+    "id": 1178,
     "original_num": 1178,
     "question": "1178. One of the following is NOT a major site for a distant metastases to scalp:",
     "choices": {
@@ -18831,7 +18847,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1178,
+    "id": 1179,
     "original_num": 1179,
     "question": "1179. Which of the following lasers has the shortest depth of penetration?",
     "choices": {
@@ -18847,7 +18863,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1179,
+    "id": 1180,
     "original_num": 1180,
     "question": "1180. The site of action of antifungal drugs class polyens is:",
     "choices": {
@@ -18863,7 +18879,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1180,
+    "id": 1181,
     "original_num": 1181,
     "question": "1181. The adhesion molecules responsible for intercellular adhesion relate to the family of:",
     "choices": {
@@ -18879,7 +18895,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1181,
+    "id": 1182,
     "original_num": 1182,
     "question": "1182. One of the following is not FDA- approved indication for treatment of the following clinical diseases by interferones:",
     "choices": {
@@ -18895,7 +18911,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1182,
+    "id": 1183,
     "original_num": 1183,
     "question": "1183. A young woman with acne taking an oral medication developed polyarthritis and raised liver enzymes test. The most likely drug she was taking is:",
     "choices": {
@@ -18911,7 +18927,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1183,
+    "id": 1184,
     "original_num": 1184,
     "question": "1184. Which of the following types of acute porphyria is characterized by high urinary porphobilinogen and high fecal protoporphyrin:",
     "choices": {
@@ -18927,7 +18943,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1184,
+    "id": 1185,
     "original_num": 1185,
     "question": "1185. One of the following is surface suture for face:",
     "choices": {
@@ -18943,7 +18959,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1185,
+    "id": 1186,
     "original_num": 1186,
     "question": "1186. One of the following CYTOKINES is not released by Th0:",
     "choices": {
@@ -18959,7 +18975,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1186,
+    "id": 1187,
     "original_num": 1187,
     "question": "1187. Squalene epoxides enzyme is inhibited by:",
     "choices": {
@@ -18975,7 +18991,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1187,
+    "id": 1188,
     "original_num": 1188,
     "question": "1188. One of the following is mainly composed of collagen VII:",
     "choices": {
@@ -18991,7 +19007,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1188,
+    "id": 1189,
     "original_num": 1189,
     "question": "1189. One of the following Lasers is ablative:",
     "choices": {
@@ -19007,7 +19023,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1189,
+    "id": 1190,
     "original_num": 1190,
     "question": "1190. The genotype HLA-DQ2 has associated with:",
     "choices": {
@@ -19023,7 +19039,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1190,
+    "id": 1191,
     "original_num": 1191,
     "question": "1191. Moccasin type fungal infection is most commonly caused by:",
     "choices": {
@@ -19039,7 +19055,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1191,
+    "id": 1192,
     "original_num": 1192,
     "question": "1192. One of the following is most likely to cause FDE?",
     "choices": {
@@ -19055,7 +19071,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1192,
+    "id": 1193,
     "original_num": 1193,
     "question": "1193. One of the following is not a common Phototoxic agent:",
     "choices": {
@@ -19071,7 +19087,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1193,
+    "id": 1194,
     "original_num": 1194,
     "question": "1194. Large vessel vasculitis is",
     "choices": {
@@ -19087,7 +19103,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1194,
+    "id": 1195,
     "original_num": 1195,
     "question": "1195. One of the following is not responsible for systemic corticosteroid-induced osteoporosis:",
     "choices": {
@@ -19103,7 +19119,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1195,
+    "id": 1196,
     "original_num": 1196,
     "question": "1196. Erythema multiform, Erythema nodosum, and epidermolysis bullosa acquisita, together can be caused by:",
     "choices": {
@@ -19119,7 +19135,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1196,
+    "id": 1197,
     "original_num": 1197,
     "question": "1197. Pseudo-aneurysm as cutaneous sign of drug abuse is associated with:",
     "choices": {
@@ -19135,7 +19151,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1197,
+    "id": 1198,
     "original_num": 1198,
     "question": "1198. The highest risk of fetal varicella in pregnant women would be associated with one of the following scenarios?",
     "choices": {
@@ -19151,7 +19167,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1198,
+    "id": 1199,
     "original_num": 1199,
     "question": "1199. In lipoid proteinosis the genetic defect is in:",
     "choices": {
@@ -19167,7 +19183,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1199,
+    "id": 1200,
     "original_num": 1200,
     "question": "1200. Which one of the following is not true about drug interactions of systemic antiviral agents:",
     "choices": {
@@ -19183,7 +19199,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1200,
+    "id": 1201,
     "original_num": 1201,
     "question": "1201. During cryotherapy, what minimum temperature is required for melanocyte destruction?",
     "choices": {
@@ -19199,7 +19215,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1201,
+    "id": 1202,
     "original_num": 1202,
     "question": "1202. One of the following is photomechanical destruction method for hair removal:",
     "choices": {
@@ -19215,7 +19231,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1202,
+    "id": 1203,
     "original_num": 1203,
     "question": "1203. Which of the following Lasers are not used in hair removal:",
     "choices": {
@@ -19231,7 +19247,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1203,
+    "id": 1204,
     "original_num": 1204,
     "question": "1204. The structural assembly of WHICH one of the following collagen is transmembrane?",
     "choices": {
@@ -19247,7 +19263,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1204,
+    "id": 1205,
     "original_num": 1205,
     "question": "1205. P –acnes can induce monocytes that activate:",
     "choices": {
@@ -19263,7 +19279,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1205,
+    "id": 1206,
     "original_num": 1206,
     "question": "1206. Which of the following is implicated in the pathogenesis of keratinocytes formation?",
     "choices": {
@@ -19279,7 +19295,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1206,
+    "id": 1207,
     "original_num": 1207,
     "question": "1207. WHICH One of the following is not a mediator for itch?",
     "choices": {
@@ -19295,7 +19311,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1207,
+    "id": 1208,
     "original_num": 1208,
     "question": "1208. In which of the following sites, the apocrine gland is not present:",
     "choices": {
@@ -19311,7 +19327,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1208,
+    "id": 1209,
     "original_num": 1209,
     "question": "1209. One of the following is not correct about stains most cells red:",
     "choices": {
@@ -19327,7 +19343,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1209,
+    "id": 1210,
     "original_num": 1210,
     "question": "1210. The labeling index equals the proportion of cells in which phase:",
     "choices": {
@@ -19343,7 +19359,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1210,
+    "id": 1211,
     "original_num": 1211,
     "question": "1211. The gene responsible for Goltz syndrome is:",
     "choices": {
@@ -19359,7 +19375,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1211,
+    "id": 1212,
     "original_num": 1212,
     "question": "1212. Which one is not a manifestation of Epstein – Bar virus:",
     "choices": {
@@ -19375,7 +19391,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1212,
+    "id": 1213,
     "original_num": 1213,
     "question": "1213. The essential factor for cells to move out of the basal layer is:",
     "choices": {
@@ -19391,7 +19407,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1213,
+    "id": 1214,
     "original_num": 1214,
     "question": "1214. Which one of the following options is microfilaments of 7-10 nm diameter?",
     "choices": {
@@ -19407,7 +19423,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1214,
+    "id": 1215,
     "original_num": 1215,
     "question": "1215. Epstein – Barr virus utilizes Which cell surface receptor to gain access to cell:",
     "choices": {
@@ -19423,7 +19439,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1215,
+    "id": 1216,
     "original_num": 1216,
     "question": "1216. Which cell surface component of T cell leads to T cell activation as part of “signal 2” component?",
     "choices": {
@@ -19439,7 +19455,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1216,
+    "id": 1217,
     "original_num": 1217,
     "question": "1217. Which of the following B cell receptors is involved in immunoglobin isotype switching:",
     "choices": {
@@ -19455,7 +19471,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1217,
+    "id": 1218,
     "original_num": 1218,
     "question": "1218. One of the following is not correct about special stain in dermatology?",
     "choices": {
@@ -19471,7 +19487,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1218,
+    "id": 1219,
     "original_num": 1219,
     "question": "1219. In which one of the following glycosaminoglycans there is no core protein?",
     "choices": {
@@ -19487,7 +19503,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1219,
+    "id": 1220,
     "original_num": 1220,
     "question": "1220. In which of the following filaggrin break-down amino acids are involved?",
     "choices": {
@@ -19503,7 +19519,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1220,
+    "id": 1221,
     "original_num": 1221,
     "question": "1221. The best suture technique for closing dead space and decreasing wound diameter is:",
     "choices": {
@@ -19519,7 +19535,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1221,
+    "id": 1222,
     "original_num": 1222,
     "question": "1222. Q – switched ruby laser is not a suitable modality of treatment for one of the following pigmented lesions:",
     "choices": {
@@ -19535,7 +19551,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1222,
+    "id": 1223,
     "original_num": 1223,
     "question": "1223. The most sensitive marker for melanoma is:",
     "choices": {
@@ -19551,7 +19567,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1223,
+    "id": 1224,
     "original_num": 1224,
     "question": "1224. The nail bed differs from normal skin histologically in:",
     "choices": {
@@ -19567,7 +19583,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1224,
+    "id": 1225,
     "original_num": 1225,
     "question": "1225. Which of the following cytokines is produced by Th -1 cells:",
     "choices": {
@@ -19583,7 +19599,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1225,
+    "id": 1226,
     "original_num": 1226,
     "question": "1226. Which of the following may be used to specifically identify Tuberculosis infection:",
     "choices": {
@@ -19599,7 +19615,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1226,
+    "id": 1227,
     "original_num": 1227,
     "question": "1227. Granular nuclear or cytoplasmic staining with IgG is seen in DIF in which of the following:",
     "choices": {
@@ -19615,7 +19631,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1227,
+    "id": 1228,
     "original_num": 1228,
     "question": "1228. In the complement system, which one of the following is not true?",
     "choices": {
@@ -19631,7 +19647,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1228,
+    "id": 1229,
     "original_num": 1229,
     "question": "1229. One of the following is not a feature of leukocyte adhesion with transmigration:",
     "choices": {
@@ -19647,7 +19663,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1229,
+    "id": 1230,
     "original_num": 1230,
     "question": "1230. One possible complication in a 3-year-old child with measles is:",
     "choices": {
@@ -19663,7 +19679,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1230,
+    "id": 1231,
     "original_num": 1231,
     "question": "1231. Patient presented with 6 months history of a large abscess in his mouth that spread to the mandible. The area has been surgically debrided. What treatment would you recommend:",
     "choices": {
@@ -19679,7 +19695,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1231,
+    "id": 1232,
     "original_num": 1232,
     "question": "1232. Susceptibility of patients with atopic dermatitis to colonization and infections with staphylococcus aureus is best explained by which of the following:",
     "choices": {
@@ -19695,7 +19711,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1232,
+    "id": 1233,
     "original_num": 1233,
     "question": "1233. Porphyria cutanea tarda can be a marker for:",
     "choices": {
@@ -19711,7 +19727,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1233,
+    "id": 1234,
     "original_num": 1234,
     "question": "1234. The cytokine which predominate in chronic atopic dermatitis lesions is:",
     "choices": {
@@ -19727,7 +19743,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1234,
+    "id": 1235,
     "original_num": 1235,
     "question": "1235. Reduction of Langerhans’ cells in the epidermis results by which of the following?",
     "choices": {
@@ -19743,7 +19759,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1235,
+    "id": 1236,
     "original_num": 1236,
     "question": "1236. Induction of adaptive immune response is not dependent on the following cytokine:",
     "choices": {
@@ -19759,7 +19775,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1236,
+    "id": 1237,
     "original_num": 1237,
     "question": "1237. Barrier function abnormalities in childhood Atopic Dermatitis do not include:",
     "choices": {
@@ -19775,7 +19791,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1237,
+    "id": 1238,
     "original_num": 1238,
     "question": "1238. One of the following is not a member of IL-10 family:",
     "choices": {
@@ -19791,7 +19807,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1238,
+    "id": 1239,
     "original_num": 1239,
     "question": "1239. Silk is preferable to nylon as the suture material for the ocular area because it:",
     "choices": {
@@ -19807,7 +19823,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1239,
+    "id": 1240,
     "original_num": 1240,
     "question": "1240. Which one of the following cytokines is a macrophage activator:",
     "choices": {
@@ -19823,7 +19839,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1240,
+    "id": 1241,
     "original_num": 1241,
     "question": "1241. Which of the following Toll-like receptors is involved in recognizing flagellin:",
     "choices": {
@@ -19839,7 +19855,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1241,
+    "id": 1242,
     "original_num": 1242,
     "question": "1242. The treatment of Atopic Dermatitis in children often requires the use of topical corticosteroids. Which of the following choices represents an appropriate choice for use in the face and intertriginous areas of a child affected by Atopic Dermatitis in order to reduce the possibility of adverse effects?",
     "choices": {
@@ -19855,7 +19871,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1242,
+    "id": 1243,
     "original_num": 1243,
     "question": "1243. Basal keratins are expressed in the embryo by:",
     "choices": {
@@ -19871,7 +19887,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1243,
+    "id": 1244,
     "original_num": 1244,
     "question": "1244. One of the following diseases is a TH2 response:",
     "choices": {
@@ -19887,7 +19903,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1244,
+    "id": 1245,
     "original_num": 1245,
     "question": "1245. In the embryo when the periderm is lost it is replaced by:",
     "choices": {
@@ -19903,7 +19919,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1245,
+    "id": 1246,
     "original_num": 1246,
     "question": "1246. The most likely cause of loss of shoulder abduction with wasting, paresthesia and weakness after excision of an epidermal inclusion cyst of the side of neck is due to injury to the?",
     "choices": {
@@ -19919,7 +19935,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1246,
+    "id": 1247,
     "original_num": 1247,
     "question": "1247. For the color (green), select the associated tattoo substance:",
     "choices": {
@@ -19935,7 +19951,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1247,
+    "id": 1248,
     "original_num": 1248,
     "question": "1248. The first embryonic hair follicles appear in the:",
     "choices": {
@@ -19951,7 +19967,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1248,
+    "id": 1249,
     "original_num": 1249,
     "question": "1249. Melanocytes first appear in:",
     "choices": {
@@ -19967,7 +19983,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1249,
+    "id": 1250,
     "original_num": 1250,
     "question": "1250. Histamine exerts its effect during inflammation by:",
     "choices": {
@@ -19983,7 +19999,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1250,
+    "id": 1251,
     "original_num": 1251,
     "question": "1251. Dermoscopically, a globular pattern with hyphae-like structures is characteristic for:",
     "choices": {
@@ -19999,7 +20015,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1251,
+    "id": 1252,
     "original_num": 1252,
     "question": "1252. The arterial supply for a paramedian forehead flap is the?",
     "choices": {
@@ -20015,7 +20031,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1252,
+    "id": 1253,
     "original_num": 1253,
     "question": "1253. Free Radicals:",
     "choices": {
@@ -20031,7 +20047,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1253,
+    "id": 1254,
     "original_num": 1254,
     "question": "1254. One of the following is non- acute porphyria:",
     "choices": {
@@ -20047,7 +20063,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1254,
+    "id": 1255,
     "original_num": 1255,
     "question": "1255. Irreversible cellular injury does not cause:",
     "choices": {
@@ -20063,7 +20079,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1255,
+    "id": 1256,
     "original_num": 1256,
     "question": "1256. In cases of shock, which of the following compensatory factors is responsible for increasing blood pressure:",
     "choices": {
@@ -20079,7 +20095,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1256,
+    "id": 1257,
     "original_num": 1257,
     "question": "1257. Dopamine:",
     "choices": {
@@ -20095,7 +20111,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1257,
+    "id": 1258,
     "original_num": 1258,
     "question": "1258. Regarding calcium homeostasis:",
     "choices": {
@@ -20111,7 +20127,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1258,
+    "id": 1259,
     "original_num": 1259,
     "question": "1259. Which of the following types of laser does not have water as a target chromophore?",
     "choices": {
@@ -20127,7 +20143,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1259,
+    "id": 1260,
     "original_num": 1260,
     "question": "1260. Which of the following muscles is not innervated by the temporal branch of the facial nerve:",
     "choices": {
@@ -20143,7 +20159,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1260,
+    "id": 1261,
     "original_num": 1261,
     "question": "1261. One of the following markers is ( – ) in blood vessels:",
     "choices": {
@@ -20159,7 +20175,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1261,
+    "id": 1262,
     "original_num": 1262,
     "question": "1262. Which of the following substances has the greatest permeability across the basement membrane:",
     "choices": {
@@ -20175,7 +20191,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1262,
+    "id": 1263,
     "original_num": 1263,
     "question": "1263. Cyanosis:",
     "choices": {
@@ -20191,7 +20207,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1263,
+    "id": 1264,
     "original_num": 1264,
     "question": "1264. Which of the following antifungals is category D in pregnancy?",
     "choices": {
@@ -20207,7 +20223,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1264,
+    "id": 1265,
     "original_num": 1265,
     "question": "1265. Wood’s lamp filter is made of:",
     "choices": {
@@ -20223,7 +20239,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1265,
+    "id": 1266,
     "original_num": 1266,
     "question": "1266. Itching migrating in distribution and time and without lesions is most likely secondary to?",
     "choices": {
@@ -20239,7 +20255,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1266,
+    "id": 1267,
     "original_num": 1267,
     "question": "1267. Superantigen T – cell interaction leads to activation of:",
     "choices": {
@@ -20255,7 +20271,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1267,
+    "id": 1268,
     "original_num": 1268,
     "question": "1268. By dermoscopy, melanin located at the papillary dermis appears as:",
     "choices": {
@@ -20271,7 +20287,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1268,
+    "id": 1269,
     "original_num": 1269,
     "question": "1269. Stage II melanosome includes:",
     "choices": {
@@ -20287,7 +20303,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1269,
+    "id": 1270,
     "original_num": 1270,
     "question": "1270. Melanocortin MC-4 receptor is found in:",
     "choices": {
@@ -20303,7 +20319,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1270,
+    "id": 1271,
     "original_num": 1271,
     "question": "1271. Which one of the following accelerates nail growth:",
     "choices": {
@@ -20319,7 +20335,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1271,
+    "id": 1272,
     "original_num": 1272,
     "question": "1272. One of the following is not correct about stem cell:",
     "choices": {
@@ -20335,7 +20351,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1272,
+    "id": 1273,
     "original_num": 1273,
     "question": "1273. The major reservoir of Leishmania major is:",
     "choices": {
@@ -20351,7 +20367,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1273,
+    "id": 1274,
     "original_num": 1274,
     "question": "1274. The mode of inheritance in which both parents are not affected is:",
     "choices": {
@@ -20367,7 +20383,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1274,
+    "id": 1275,
     "original_num": 1275,
     "question": "1275. Which of the following is not a feature of Nisseria gonorrhoae:",
     "choices": {
@@ -20383,7 +20399,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1275,
+    "id": 1276,
     "original_num": 1276,
     "question": "1276. One of the following is affected by loss- of – function mutations within the filaggrin gene:",
     "choices": {
@@ -20399,7 +20415,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1276,
+    "id": 1277,
     "original_num": 1277,
     "question": "1277. The main permeability barrier in the lamina densa is:",
     "choices": {
@@ -20415,7 +20431,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1277,
+    "id": 1278,
     "original_num": 1278,
     "question": "1278. The development of HIV-1 antibodies is determined by:",
     "choices": {
@@ -20431,7 +20447,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1278,
+    "id": 1279,
     "original_num": 1279,
     "question": "1279. A patient of herpes zoster developed granuloma annulare at the same site. What is this phenomenon/sign?",
     "choices": {
@@ -20447,7 +20463,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1279,
+    "id": 1280,
     "original_num": 1280,
     "question": "1280. One of the following is not correct about Favus:",
     "choices": {
@@ -20463,7 +20479,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1280,
+    "id": 1281,
     "original_num": 1281,
     "question": "1281. What refer to Cheiroarthropathy?",
     "choices": {
@@ -20479,7 +20495,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1281,
+    "id": 1282,
     "original_num": 1282,
     "question": "1282. Which disease is transmitted by affected males to their daugters but not to their sons?",
     "choices": {
@@ -20495,7 +20511,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1282,
+    "id": 1283,
     "original_num": 1283,
     "question": "1283. One of the following is a zoophilic dermatophyte:",
     "choices": {
@@ -20511,7 +20527,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1283,
+    "id": 1284,
     "original_num": 1284,
     "question": "1284. The typical laser pulse duration for terminal hair follicle is:",
     "choices": {
@@ -20527,7 +20543,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1284,
+    "id": 1285,
     "original_num": 1285,
     "question": "1285. Dermoscopically, a lattice-like pattern is characteristic for:",
     "choices": {
@@ -20543,7 +20559,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1285,
+    "id": 1286,
     "original_num": 1286,
     "question": "1286. Which of the following is not a tick-born disease:",
     "choices": {
@@ -20559,7 +20575,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1286,
+    "id": 1287,
     "original_num": 1287,
     "question": "1287. Heck’s disease is caused by:",
     "choices": {
@@ -20575,7 +20591,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1287,
+    "id": 1288,
     "original_num": 1288,
     "question": "1288. Sphingosine is thought to play a role in the regulation of basal cells division. It is produced by:",
     "choices": {
@@ -20591,7 +20607,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1288,
+    "id": 1289,
     "original_num": 1289,
     "question": "1289. Which of the following is an important sweat component?",
     "choices": {
@@ -20607,7 +20623,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1289,
+    "id": 1290,
     "original_num": 1290,
     "question": "1290. Positive hair perforation test is caused by:",
     "choices": {
@@ -20623,7 +20639,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1290,
+    "id": 1291,
     "original_num": 1291,
     "question": "1291. One of the following is not bactericidal:",
     "choices": {
@@ -20638,7 +20654,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1291,
+    "id": 1292,
     "original_num": 1292,
     "question": "1292. Which of the following lasers is not used for treatment of nevi?",
     "choices": {
@@ -20654,7 +20670,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1292,
+    "id": 1293,
     "original_num": 1293,
     "question": "1293. Which of the following lasers, the target chromophor is vascular:",
     "choices": {
@@ -20670,7 +20686,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1293,
+    "id": 1294,
     "original_num": 1294,
     "question": "1294. One of the following drugs is not an inducer of psoriasis:",
     "choices": {
@@ -20686,7 +20702,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1294,
+    "id": 1295,
     "original_num": 1295,
     "question": "1295. One of the following drugs do not cause exanthematous eruption:",
     "choices": {
@@ -20702,7 +20718,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1295,
+    "id": 1296,
     "original_num": 1296,
     "question": "1296. One of the following is not a contraindication for topical Tazarotene:",
     "choices": {
@@ -20718,7 +20734,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1296,
+    "id": 1297,
     "original_num": 1297,
     "question": "1297. Alertnate morning glucocorticosteriod therapy is not useful in reduce risk in which of the following:",
     "choices": {
@@ -20734,7 +20750,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1297,
+    "id": 1298,
     "original_num": 1298,
     "question": "1298. Which of the following is the action of Glutathione?",
     "choices": {
@@ -20750,7 +20766,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1298,
+    "id": 1299,
     "original_num": 1299,
     "question": "1299. One of the following is not correct about colchicine:",
     "choices": {
@@ -20766,7 +20782,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1299,
+    "id": 1300,
     "original_num": 1300,
     "question": "1300. The longest peak effect of interferons is seen in:",
     "choices": {
@@ -20782,7 +20798,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1300,
+    "id": 1301,
     "original_num": 1301,
     "question": "1301. One of the following is not a feature of sweat secreted by apocrine glands:",
     "choices": {
@@ -20798,7 +20814,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1301,
+    "id": 1302,
     "original_num": 1302,
     "question": "1302. One of the following is not a clinical feature of secondary syphilis:",
     "choices": {
@@ -20814,7 +20830,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1302,
+    "id": 1303,
     "original_num": 1303,
     "question": "1303. The best drug for treatment of cytomegalovirus (CMV) infection is:",
     "choices": {
@@ -20830,7 +20846,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1303,
+    "id": 1304,
     "original_num": 1304,
     "question": "1304. Which of these dermatophytes causes Tinea capitis without hair loss?",
     "choices": {
@@ -20846,7 +20862,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1304,
+    "id": 1305,
     "original_num": 1305,
     "question": "1305. The perception of the color of the skin is related to which wavelength region of the following?",
     "choices": {
@@ -20862,7 +20878,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1305,
+    "id": 1306,
     "original_num": 1306,
     "question": "1306. Cyclobutane pyrimidine dimers are produced by which of the following processes?",
     "choices": {
@@ -20878,7 +20894,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1306,
+    "id": 1307,
     "original_num": 1307,
     "question": "1307. One of the following cytokines has a beneficial effect on wound healing:",
     "choices": {
@@ -20894,7 +20910,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1307,
+    "id": 1308,
     "original_num": 1308,
     "question": "1308. Which of the following is true regarding Anthrax?",
     "choices": {
@@ -20910,7 +20926,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1308,
+    "id": 1309,
     "original_num": 1309,
     "question": "1309. Main inflammatory mediator in the inflammatory phase of wound healing is:",
     "choices": {
@@ -20926,7 +20942,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1309,
+    "id": 1310,
     "original_num": 1310,
     "question": "1310. One of the following is medium- sized vasculitis",
     "choices": {
@@ -20942,7 +20958,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1310,
+    "id": 1311,
     "original_num": 1311,
     "question": "1311. Hertoghe sign is thinning or loss of the outer third of the eyebrow and is seen in:",
     "choices": {
@@ -20958,7 +20974,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1311,
+    "id": 1312,
     "original_num": 1312,
     "question": "1312. Hertoghe sign is not seen in:",
     "choices": {
@@ -20974,7 +20990,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1312,
+    "id": 1313,
     "original_num": 1313,
     "question": "1313. Regarding intrauterine HSV infection, which of the following findings would least likely be present in the affected newborn during the neonatal period?",
     "choices": {
@@ -20990,7 +21006,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1313,
+    "id": 1314,
     "original_num": 1314,
     "question": "1314. The toxin produced in SSSS cleaves the epidermis by reacting with the following molecule:",
     "choices": {
@@ -21006,7 +21022,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1314,
+    "id": 1315,
     "original_num": 1315,
     "question": "1315. Which of the following is true regarding scarlet fever?",
     "choices": {
@@ -21022,7 +21038,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1315,
+    "id": 1316,
     "original_num": 1316,
     "question": "1316. Geophilic superficial dermatophytes:",
     "choices": {
@@ -21038,7 +21054,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1316,
+    "id": 1317,
     "original_num": 1317,
     "question": "1317. Which of the following is false regarding impetigo?",
     "choices": {
@@ -21054,7 +21070,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1317,
+    "id": 1318,
     "original_num": 1318,
     "question": "1318. Which of the following regarding hair growth during fetal and neonatal development is false:",
     "choices": {
@@ -21070,7 +21086,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1318,
+    "id": 1319,
     "original_num": 1319,
     "question": "1319. Which of the following neonatal conditions does not require treatment?",
     "choices": {
@@ -21086,7 +21102,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1319,
+    "id": 1320,
     "original_num": 1320,
     "question": "1320. The prominent cell type infected by HHV7 is:",
     "choices": {
@@ -21102,7 +21118,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1320,
+    "id": 1321,
     "original_num": 1321,
     "question": "1321. Which of the following is a characteristic symptom of hypomania:",
     "choices": {
@@ -21118,7 +21134,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1321,
+    "id": 1322,
     "original_num": 1322,
     "question": "1322. Which of the following listed facts is incorrect during patient education of Herpes Zoster?",
     "choices": {
@@ -21134,7 +21150,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1322,
+    "id": 1323,
     "original_num": 1323,
     "question": "1323. The most potent cytokine involved in cidal activity against leishmaniasis is:",
     "choices": {
@@ -21150,7 +21166,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1323,
+    "id": 1324,
     "original_num": 1324,
     "question": "1324. Which of the following is true about hepatitis B virus infection:",
     "choices": {
@@ -21166,7 +21182,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1324,
+    "id": 1325,
     "original_num": 1325,
     "question": "1325. Which of the following is not a feature of anxiety neurosis:",
     "choices": {
@@ -21182,7 +21198,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1325,
+    "id": 1326,
     "original_num": 1326,
     "question": "1326. For experimental studies, the best growth culture for treponema palladium is:",
     "choices": {
@@ -21198,7 +21214,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1326,
+    "id": 1327,
     "original_num": 1327,
     "question": "1327. Infantile kala - azar is most commonly caused by:",
     "choices": {
@@ -21214,7 +21230,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1327,
+    "id": 1328,
     "original_num": 1328,
     "question": "1328. One of the following metal salts may cause persistent folliculitis:",
     "choices": {
@@ -21230,7 +21246,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1328,
+    "id": 1329,
     "original_num": 1329,
     "question": "1329. Latent desquamation phenomenon means:",
     "choices": {
@@ -21246,7 +21262,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1329,
+    "id": 1330,
     "original_num": 1330,
     "question": "1330. Palamo-plantar keratoderma is associated with the following type of pityriasis rubra pilaries (PRP):",
     "choices": {
@@ -21262,7 +21278,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1330,
+    "id": 1331,
     "original_num": 1331,
     "question": "1331. Raynaud Disease Characteristically:",
     "choices": {
@@ -21278,7 +21294,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1331,
+    "id": 1332,
     "original_num": 1332,
     "question": "1332. Which one of the following signs belongs to neurofibromatosis?",
     "choices": {
@@ -21294,7 +21310,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1332,
+    "id": 1333,
     "original_num": 1333,
     "question": "1333. A patient develops polyarteritis nodosa with orchitis. What is the likely etiology?",
     "choices": {
@@ -21310,7 +21326,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1333,
+    "id": 1334,
     "original_num": 1334,
     "question": "1334. Which of the following laser therapy targets has the longest thermal relaxation time?",
     "choices": {
@@ -21326,7 +21342,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1334,
+    "id": 1335,
     "original_num": 1335,
     "question": "1335. An 18-year old male presents to the emergency room with palpable purpura on the legs, arthritis and abdominal pain following upper respiratory tract infection. Which of the following is most likely to be found in this patient?",
     "choices": {
@@ -21342,7 +21358,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1335,
+    "id": 1336,
     "original_num": 1336,
     "question": "1336. Two antibodies that have the same antigenic recognition sequence are called:",
     "choices": {
@@ -21358,7 +21374,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1336,
+    "id": 1337,
     "original_num": 1337,
     "question": "1337. A pregnant lady was referred from the antenatal care to a dermatology clinic with the diagnosis of severe pruritus gravidarum. What are the type of lesions that consolidate the diagnosis?",
     "choices": {
@@ -21374,7 +21390,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1337,
+    "id": 1338,
     "original_num": 1338,
     "question": "1338. Which of the following causes primary infection of lymphatics?",
     "choices": {
@@ -21390,7 +21406,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1338,
+    "id": 1339,
     "original_num": 1339,
     "question": "1339. The virus causing hand, foot and mouth dis belongs to what family of viruses?",
     "choices": {
@@ -21406,7 +21422,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1339,
+    "id": 1340,
     "original_num": 1340,
     "question": "1340. There are 5 types of human Ig antibodies, IgA, IgD, IgE, IgG, IgM. Each of them has a typical physical conformation. What type of physical conformation does the IgM usually have?",
     "choices": {
@@ -21422,7 +21438,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1340,
+    "id": 1341,
     "original_num": 1341,
     "question": "1341. The synonym tuberculosis luposa is characteristic for the following type of tuberculosis:",
     "choices": {
@@ -21438,7 +21454,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1341,
+    "id": 1342,
     "original_num": 1342,
     "question": "1342. The classical and alternative pathways meet at the complement component:",
     "choices": {
@@ -21454,7 +21470,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1342,
+    "id": 1343,
     "original_num": 1343,
     "question": "1343. When performing a salt – split DIF of a skin biopsy from a patient with BP, WHAT IS the expected result?",
     "choices": {
@@ -21470,7 +21486,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1343,
+    "id": 1344,
     "original_num": 1344,
     "question": "1344. A complement component which is strongly chemotactic for neutrophils is:",
     "choices": {
@@ -21486,7 +21502,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1344,
+    "id": 1345,
     "original_num": 1345,
     "question": "1345. In HPV, the gene which activates telomerase is:",
     "choices": {
@@ -21502,7 +21518,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1345,
+    "id": 1346,
     "original_num": 1346,
     "question": "1346. One of the following is not true about IgG:",
     "choices": {
@@ -21518,7 +21534,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1346,
+    "id": 1347,
     "original_num": 1347,
     "question": "1347. Dermoscopically, circle in a circle is characteristic for:",
     "choices": {
@@ -21534,7 +21550,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1347,
+    "id": 1348,
     "original_num": 1348,
     "question": "1348. Sweat ducts are not affected in:",
     "choices": {
@@ -21550,7 +21566,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1348,
+    "id": 1349,
     "original_num": 1349,
     "question": "1349. Ptychotropism the affinity of lesions to develop on:",
     "choices": {
@@ -21566,7 +21582,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1349,
+    "id": 1350,
     "original_num": 1350,
     "question": "1350. Complete replacement of toenail requires:",
     "choices": {
@@ -21582,7 +21598,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1350,
+    "id": 1351,
     "original_num": 1351,
     "question": "1351. Which one of the following melanocortin receptors is majorly distributed in cortex?",
     "choices": {
@@ -21598,7 +21614,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1351,
+    "id": 1352,
     "original_num": 1352,
     "question": "1352. Dermoscopically, a uniform pigment network is characteristic for:",
     "choices": {
@@ -21614,7 +21630,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1352,
+    "id": 1353,
     "original_num": 1353,
     "question": "1353. One of the following is not true about CD1a:",
     "choices": {
@@ -21630,7 +21646,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1353,
+    "id": 1354,
     "original_num": 1354,
     "question": "1354. Which of the following is the most single characteristic finding in child abuse:",
     "choices": {
@@ -21646,7 +21662,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1354,
+    "id": 1355,
     "original_num": 1355,
     "question": "1355. Regarding features of premature skin, One of the following is not true:",
     "choices": {
@@ -21662,7 +21678,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1355,
+    "id": 1356,
     "original_num": 1356,
     "question": "1356. In patients with acute measles, one of the following is recommended to prevent significant morbidity and mortality?",
     "choices": {
@@ -21678,7 +21694,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1356,
+    "id": 1357,
     "original_num": 1357,
     "question": "1357. Which of the following is not true:",
     "choices": {
@@ -21694,7 +21710,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1357,
+    "id": 1358,
     "original_num": 1358,
     "question": "1358. Calcium absorption:",
     "choices": {
@@ -21710,7 +21726,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1358,
+    "id": 1359,
     "original_num": 1359,
     "question": "1359. Retinoid topical preparation pass into the keratinocytes through the process of:",
     "choices": {
@@ -21726,7 +21742,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1359,
+    "id": 1360,
     "original_num": 1360,
     "question": "1360. The hypodermis is considered amongst functions to be an endocrine organ. The hormonal it release is:",
     "choices": {
@@ -21742,7 +21758,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1360,
+    "id": 1361,
     "original_num": 1361,
     "question": "1361. Raindrops on a dusty road appearance is seen in a toxicity to:",
     "choices": {
@@ -21758,7 +21774,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1361,
+    "id": 1362,
     "original_num": 1362,
     "question": "1362. IVIG is not used in:",
     "choices": {
@@ -21774,7 +21790,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1362,
+    "id": 1363,
     "original_num": 1363,
     "question": "1363. Which of the following adverse effects is most likely to limit the maximum dosage of foscarnet?",
     "choices": {
@@ -21790,7 +21806,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1363,
+    "id": 1364,
     "original_num": 1364,
     "question": "1364. Kallikrein:",
     "choices": {
@@ -21806,7 +21822,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1364,
+    "id": 1365,
     "original_num": 1365,
     "question": "1365. fat embolism:",
     "choices": {
@@ -21822,7 +21838,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1365,
+    "id": 1366,
     "original_num": 1366,
     "question": "1366. The quantity of ointment required to treat 3 – 5 year child leg and foot is:",
     "choices": {
@@ -21838,7 +21854,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1366,
+    "id": 1367,
     "original_num": 1367,
     "question": "1367. Regarding the pathogenesis of TB, one of the following factors is not involved:",
     "choices": {
@@ -21854,7 +21870,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1367,
+    "id": 1368,
     "original_num": 1368,
     "question": "1368. One of the following is not true about PCR:",
     "choices": {
@@ -21870,7 +21886,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1368,
+    "id": 1369,
     "original_num": 1369,
     "question": "1369. Higher risk for toxicity from glucocorticoid therapy does not occur in Which of the following?",
     "choices": {
@@ -21886,7 +21902,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1369,
+    "id": 1370,
     "original_num": 1370,
     "question": "1370. Epstein- barr virus:",
     "choices": {
@@ -21902,7 +21918,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1370,
+    "id": 1371,
     "original_num": 1371,
     "question": "1371. One of the following is a Third-generation antihistamine:",
     "choices": {
@@ -21918,7 +21934,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1371,
+    "id": 1372,
     "original_num": 1372,
     "question": "1372. A 42 y old housekeeper has a chronic hand dermatitis and is complaining of severe pruritus. Which of the following is not a class I corticosteroid?",
     "choices": {
@@ -21934,7 +21950,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1372,
+    "id": 1373,
     "original_num": 1373,
     "question": "1373. A 5 y old boy, followed for molluscum contagiosum, presents with an accidental 1st degree burn. His only medication is cimetidine. He received a prescription for silver sulfadiazine cream. Which of the following is true?",
     "choices": {
@@ -21950,7 +21966,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1373,
+    "id": 1374,
     "original_num": 1374,
     "question": "1374. Which of the following is RNA – double-stranded?",
     "choices": {
@@ -21966,7 +21982,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1374,
+    "id": 1375,
     "original_num": 1375,
     "question": "1375. Which of the following acts on CD20:",
     "choices": {
@@ -21982,7 +21998,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1375,
+    "id": 1376,
     "original_num": 1376,
     "question": "1376. Body louse is a vector for:",
     "choices": {
@@ -21998,7 +22014,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1376,
+    "id": 1377,
     "original_num": 1377,
     "question": "1377. Desmoplakin disruption is not seen in:",
     "choices": {
@@ -22014,7 +22030,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1377,
+    "id": 1378,
     "original_num": 1378,
     "question": "1378. Tinea manuum:",
     "choices": {
@@ -22030,7 +22046,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1378,
+    "id": 1379,
     "original_num": 1379,
     "question": "1379. Regarding BPAg2, which of the following is incorrect:",
     "choices": {
@@ -22045,7 +22061,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1379,
+    "id": 1380,
     "original_num": 1380,
     "question": "1380. The epidermal basement membrane proteins derived from keratinocytes do not include:",
     "choices": {
@@ -22061,7 +22077,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1380,
+    "id": 1381,
     "original_num": 1381,
     "question": "1381. The skin is thicker in palms and soles because of:",
     "choices": {
@@ -22077,7 +22093,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1381,
+    "id": 1382,
     "original_num": 1382,
     "question": "1382. Hepatitis B:",
     "choices": {
@@ -22093,7 +22109,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1382,
+    "id": 1383,
     "original_num": 1383,
     "question": "1383. Which of the following topical antimicrobials is used in the treatment of decubitus ulcer:",
     "choices": {
@@ -22109,7 +22125,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1383,
+    "id": 1384,
     "original_num": 1384,
     "question": "1384. One of the following statements regarding bullous Impetigo is true?",
     "choices": {
@@ -22125,7 +22141,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1384,
+    "id": 1385,
     "original_num": 1385,
     "question": "1385. Generalized pigmentation occurs in:",
     "choices": {
@@ -22141,7 +22157,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1385,
+    "id": 1386,
     "original_num": 1386,
     "question": "1386. The number of Melanocyte in the genital region:",
     "choices": {
@@ -22157,7 +22173,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1386,
+    "id": 1387,
     "original_num": 1387,
     "question": "1387. Which of the following is a site of expression of the POMC gene?",
     "choices": {
@@ -22173,7 +22189,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1387,
+    "id": 1388,
     "original_num": 1388,
     "question": "1388. Intraepidermal blister at the granular layer is not seen in:",
     "choices": {
@@ -22189,7 +22205,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1388,
+    "id": 1389,
     "original_num": 1389,
     "question": "1389. Which of the following is Fibril-forming collagen??",
     "choices": {
@@ -22205,7 +22221,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1389,
+    "id": 1390,
     "original_num": 1390,
     "question": "1390. Which of the following is microfibrillar collagen?",
     "choices": {
@@ -22221,7 +22237,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1390,
+    "id": 1391,
     "original_num": 1391,
     "question": "1391. Which of the following is false, about catagen:",
     "choices": {
@@ -22237,7 +22253,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1391,
+    "id": 1392,
     "original_num": 1392,
     "question": "1392. Lamina densa does not have the following adhesion proteins:",
     "choices": {
@@ -22253,7 +22269,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1392,
+    "id": 1393,
     "original_num": 1393,
     "question": "1393. One of the following is not correct about nail plate:",
     "choices": {
@@ -22269,7 +22285,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1393,
+    "id": 1394,
     "original_num": 1394,
     "question": "1394. The most important proteoglycan in the dermis:",
     "choices": {
@@ -22285,7 +22301,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1394,
+    "id": 1395,
     "original_num": 1395,
     "question": "1395. Complete replacement of toe nail requires:",
     "choices": {
@@ -22301,7 +22317,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1395,
+    "id": 1396,
     "original_num": 1396,
     "question": "1396. One of the following is true about dermal collagens:",
     "choices": {
@@ -22317,7 +22333,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1396,
+    "id": 1397,
     "original_num": 1397,
     "question": "1397. One of the following is false regarding the use of anti-TNFa biological agents?",
     "choices": {
@@ -22333,7 +22349,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1397,
+    "id": 1398,
     "original_num": 1398,
     "question": "1398. The Janus kinase inhibitor is:",
     "choices": {
@@ -22349,7 +22365,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1398,
+    "id": 1399,
     "original_num": 1399,
     "question": "1399. The elastic tissue of the dermis is associated in:",
     "choices": {
@@ -22365,7 +22381,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1399,
+    "id": 1400,
     "original_num": 1400,
     "question": "1400. One of the following is true about corpuscular skin receptors:",
     "choices": {
@@ -22381,7 +22397,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1400,
+    "id": 1401,
     "original_num": 1401,
     "question": "1401. One of the following proteoglycans is a component of the dermo-epidermal junction?",
     "choices": {
@@ -22397,7 +22413,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1401,
+    "id": 1402,
     "original_num": 1402,
     "question": "1402. In HIV-positive patient, which of the following feature might not indicate seroconversion?",
     "choices": {
@@ -22413,7 +22429,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1402,
+    "id": 1403,
     "original_num": 1403,
     "question": "1403. A 36-year-old female presents with a generalized, morbilliform rash associated with fever, malaise, myalgia, and sore throat and was given antibiotics by her primary care physician. She has since developed a morbilliform rash. What infection did she most likely suffer from and what antibiotic did she most likely received?",
     "choices": {
@@ -22429,7 +22445,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1403,
+    "id": 1404,
     "original_num": 1404,
     "question": "1404. The elastic fibres of the dermis are characteristic by:",
     "choices": {
@@ -22445,7 +22461,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1404,
+    "id": 1405,
     "original_num": 1405,
     "question": "1405. The following is true about the dermis:",
     "choices": {
@@ -22461,7 +22477,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1405,
+    "id": 1406,
     "original_num": 1406,
     "question": "1406. One of the following histopathologic findings is characteristic for dg of BCC:",
     "choices": {
@@ -22477,7 +22493,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1406,
+    "id": 1407,
     "original_num": 1407,
     "question": "1407. Which type of wound dressings is indicated for clean, non-infected, recalcitrant chronic wounds:",
     "choices": {
@@ -22493,7 +22509,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1407,
+    "id": 1408,
     "original_num": 1408,
     "question": "1408. Which of the following Graft types has no contraindication:",
     "choices": {
@@ -22509,7 +22525,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1408,
+    "id": 1409,
     "original_num": 1409,
     "question": "1409. Which of the following vitamin deficiencies has no mucocutaneous findings:",
     "choices": {
@@ -22525,7 +22541,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1409,
+    "id": 1410,
     "original_num": 1410,
     "question": "1410. Which of the following suturing types for wound healing closure has the highest tensile strength?",
     "choices": {
@@ -22541,7 +22557,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1410,
+    "id": 1411,
     "original_num": 1411,
     "question": "1411. Regarding skin Prick test, one of the following is not true:",
     "choices": {
@@ -22557,7 +22573,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1411,
+    "id": 1412,
     "original_num": 1412,
     "question": "1412. A 65 y old man with atypical pneumonia caused by mycoplasma pneumonia will most likely be treated with:",
     "choices": {
@@ -22573,7 +22589,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1412,
+    "id": 1413,
     "original_num": 1413,
     "question": "1413. Which of the following is not correct about laboratory diagnosis of neurosyphilis:",
     "choices": {
@@ -22589,7 +22605,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1413,
+    "id": 1414,
     "original_num": 1414,
     "question": "1414. Psoriasis has many features involving the nails. Which one is most frequently seen:",
     "choices": {
@@ -22605,7 +22621,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1414,
+    "id": 1415,
     "original_num": 1415,
     "question": "1415. The maximum dose (in mg for a 70kg man) of Mepivacaine for local anesthetics is:",
     "choices": {
@@ -22621,7 +22637,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1415,
+    "id": 1416,
     "original_num": 1416,
     "question": "1416. What is the initial mainstay therapy for severe Pemphigus Vulgaris:",
     "choices": {
@@ -22637,7 +22653,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1416,
+    "id": 1417,
     "original_num": 1417,
     "question": "1417. The primary focus of pulmonary tuberculosis is characterized by:",
     "choices": {
@@ -22653,7 +22669,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1417,
+    "id": 1418,
     "original_num": 1418,
     "question": "1418. In One of the following conditions, ANA is usually negative?",
     "choices": {
@@ -22669,7 +22685,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1418,
+    "id": 1419,
     "original_num": 1419,
     "question": "1419. When examining a pathology slide with subepidermal blisters with eosinophils, Which of the following is the most probable diagnosis:",
     "choices": {
@@ -22685,7 +22701,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1419,
+    "id": 1420,
     "original_num": 1420,
     "question": "1420. A 45-year-old woman wants to remove her tattoo, which laser would be most appropriate for the treatment of her red tattoo?",
     "choices": {
@@ -22701,7 +22717,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1420,
+    "id": 1421,
     "original_num": 1421,
     "question": "1421. One of the following is a common cause of Erythroderma in adults:",
     "choices": {
@@ -22717,7 +22733,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1421,
+    "id": 1422,
     "original_num": 1422,
     "question": "1422. Paraphenylene diamine (PPD) allergen is present in:",
     "choices": {
@@ -22733,7 +22749,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1422,
+    "id": 1423,
     "original_num": 1423,
     "question": "1423. One of the following would exacerbate perioral dermatitis:",
     "choices": {
@@ -22749,7 +22765,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1423,
+    "id": 1424,
     "original_num": 1424,
     "question": "1424. When considering the mechanism of action, which treatment used for onychomycosis inhibits the epoxidation, an early step in the formation of ergosterol in the fungal cell:",
     "choices": {
@@ -22765,7 +22781,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1424,
+    "id": 1425,
     "original_num": 1425,
     "question": "1425. Electrocoagulation:",
     "choices": {
@@ -22781,7 +22797,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1425,
+    "id": 1426,
     "original_num": 1426,
     "question": "1426. Which of the following stains is most helpful for diagnosing Cryptococcus?",
     "choices": {
@@ -22797,7 +22813,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1426,
+    "id": 1427,
     "original_num": 1427,
     "question": "1427. The most important function of postoperative wound dressing:",
     "choices": {
@@ -22813,7 +22829,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1427,
+    "id": 1428,
     "original_num": 1428,
     "question": "1428. The number of keratinocytes associated with melanocytes to form the Epidermal melanin unit is:",
     "choices": {
@@ -22829,7 +22845,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1428,
+    "id": 1429,
     "original_num": 1429,
     "question": "1429. Tumor suppressor gene located in the mitochondria is:",
     "choices": {
@@ -22845,7 +22861,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1429,
+    "id": 1430,
     "original_num": 1430,
     "question": "1430. One of the following is correct in Atopic Dermatitis Inheritance:",
     "choices": {
@@ -22861,7 +22877,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1430,
+    "id": 1431,
     "original_num": 1431,
     "question": "1431. Major skin Angiogenesis factor is:",
     "choices": {
@@ -22877,7 +22893,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1431,
+    "id": 1432,
     "original_num": 1432,
     "question": "1432. The stratum corneum is composed of a Few layers of cornified cells by:",
     "choices": {
@@ -22893,7 +22909,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1432,
+    "id": 1433,
     "original_num": 1433,
     "question": "1433. One of the following is least likely to cause blue – Grey discoloration of the nails:",
     "choices": {
@@ -22909,7 +22925,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1433,
+    "id": 1434,
     "original_num": 1435,
     "question": "1435. Oxidative DNA damage is mediated by:",
     "choices": {
@@ -22925,7 +22941,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1434,
+    "id": 1435,
     "original_num": 1436,
     "question": "1436. Target chromophore for PDL:",
     "choices": {
@@ -22941,7 +22957,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1435,
+    "id": 1436,
     "original_num": 1437,
     "question": "1437. All of the following choices determine the rate of the growth of the nails. Which one represents a factor of Slower growth rate?",
     "choices": {
@@ -22957,7 +22973,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1436,
+    "id": 1437,
     "original_num": 1438,
     "question": "1438. One of the following is not correct about growth factors involved in Wound healing:",
     "choices": {
@@ -22973,7 +22989,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1437,
+    "id": 1438,
     "original_num": 1439,
     "question": "1439. Which of the following lasers do not have crystal medium?",
     "choices": {
@@ -22989,7 +23005,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1438,
+    "id": 1439,
     "original_num": 1440,
     "question": "1440. Human sebum is distinguished from lipids of internal organs by the presence of:",
     "choices": {
@@ -23005,7 +23021,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1439,
+    "id": 1440,
     "original_num": 1441,
     "question": "1441. PUVA differs from photodynamic therapy in that:",
     "choices": {
@@ -23021,7 +23037,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1440,
+    "id": 1441,
     "original_num": 1442,
     "question": "1442. Which of the following occlusive ingredients is present in topical moisturizers:",
     "choices": {
@@ -23037,7 +23053,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1441,
+    "id": 1442,
     "original_num": 1443,
     "question": "1443. The so called veil cells are located around:",
     "choices": {
@@ -23053,7 +23069,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1442,
+    "id": 1443,
     "original_num": 1444,
     "question": "1444. IL- 1α predominates at:",
     "choices": {
@@ -23069,7 +23085,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1443,
+    "id": 1444,
     "original_num": 1445,
     "question": "1445. Which of the following is Gamma herpes virinae:",
     "choices": {
@@ -23085,7 +23101,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1444,
+    "id": 1445,
     "original_num": 1446,
     "question": "1446. Which of the following types of laser is not Ablative:",
     "choices": {
@@ -23101,7 +23117,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1445,
+    "id": 1446,
     "original_num": 1447,
     "question": "1447. One of the following is not correct about staphylococcal infection in newborn:",
     "choices": {
@@ -23117,7 +23133,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1446,
+    "id": 1447,
     "original_num": 1448,
     "question": "1448. Which of the following antimicrobial peptides is expressed in sebaceous gland:",
     "choices": {
@@ -23133,7 +23149,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1447,
+    "id": 1448,
     "original_num": 1449,
     "question": "1449. One of the following is not correct regarding treatment of Hidradenitis suppurativa:?",
     "choices": {
@@ -23149,7 +23165,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1448,
+    "id": 1449,
     "original_num": 1450,
     "question": "1450. One of the following is not a cause of hypothalamic hyperhidrosis:",
     "choices": {
@@ -23165,7 +23181,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1449,
+    "id": 1450,
     "original_num": 1451,
     "question": "1451. In cutaneous Mastocytosis, many of the symptoms are caused by mast cell mediators. Some of them are preformed and others are newly formed. Out of the listed mediators below, Which mediator is not preformed (newly formed)?",
     "choices": {
@@ -23181,7 +23197,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1450,
+    "id": 1451,
     "original_num": 1452,
     "question": "1452. When a genodermatosis is said to have an incomplete degree of penetrance, what does that mean?",
     "choices": {
@@ -23197,7 +23213,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1451,
+    "id": 1452,
     "original_num": 1453,
     "question": "1453. Glomus cells are primarily found:",
     "choices": {
@@ -23213,7 +23229,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1452,
+    "id": 1453,
     "original_num": 1454,
     "question": "1454. What percentage of the dry weight of skin in elastin?",
     "choices": {
@@ -23229,7 +23245,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1453,
+    "id": 1454,
     "original_num": 1455,
     "question": "1455. Glomus cells are:",
     "choices": {
@@ -23245,7 +23261,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1454,
+    "id": 1455,
     "original_num": 1456,
     "question": "1456. Granulation tissue primarily contains:",
     "choices": {
@@ -23261,7 +23277,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1455,
+    "id": 1456,
     "original_num": 1457,
     "question": "1457. In which of the following locations would you be least likely to identify melanocytes?",
     "choices": {
@@ -23277,7 +23293,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1456,
+    "id": 1457,
     "original_num": 1458,
     "question": "1458. Which cadherin is responsible for adhesion of Langerhan cells to the epidermis?",
     "choices": {
@@ -23293,7 +23309,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1457,
+    "id": 1458,
     "original_num": 1459,
     "question": "1459. Regarding sebaceous glands:",
     "choices": {
@@ -23309,7 +23325,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1458,
+    "id": 1459,
     "original_num": 1460,
     "question": "1460. What is the location of the unbound corticosteroid receptor?",
     "choices": {
@@ -23325,7 +23341,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1459,
+    "id": 1460,
     "original_num": 1461,
     "question": "1461. Elaunin fibers:",
     "choices": {
@@ -23341,7 +23357,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1460,
+    "id": 1461,
     "original_num": 1462,
     "question": "1462. Which hormone is homologous to alpha-MSH (melanocyte stimulating hormone)?",
     "choices": {
@@ -23357,7 +23373,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1461,
+    "id": 1462,
     "original_num": 1463,
     "question": "1463. Which keratins are expressed in the stratum germinativum and are present but not made de novo in the stratum spinosum?",
     "choices": {
@@ -23373,7 +23389,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1462,
+    "id": 1463,
     "original_num": 1464,
     "question": "1464. Which of the following statements about darkly pigmented races versus lighter pigmented races is correct?",
     "choices": {
@@ -23389,7 +23405,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1463,
+    "id": 1464,
     "original_num": 1465,
     "question": "1465. Sebaceous glands:",
     "choices": {
@@ -23405,7 +23421,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1464,
+    "id": 1465,
     "original_num": 1466,
     "question": "1466. How soon does epithelialization begin after a skin wound occurs?",
     "choices": {
@@ -23421,7 +23437,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1465,
+    "id": 1466,
     "original_num": 1467,
     "question": "1467. A 78 year-old man is diagnosed with cicatricial pemphigoid. Which of the following antigens being implicated in his disease should trigger a work-up for malignancy?",
     "choices": {
@@ -23437,7 +23453,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1466,
+    "id": 1467,
     "original_num": 1468,
     "question": "1468. Tyrosinase is the enzyme that catalyzes the conversion of tyrosine to DOPA and DOPA to DOPAquinone. The enzyme contains which of the following ions?",
     "choices": {
@@ -23453,7 +23469,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1467,
+    "id": 1468,
     "original_num": 1469,
     "question": "1469. Keratinocytes have been shown to secrete all of the following cytokines except:",
     "choices": {
@@ -23469,7 +23485,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1468,
+    "id": 1469,
     "original_num": 1470,
     "question": "1470. Telogen effluvium:",
     "choices": {
@@ -23485,7 +23501,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1469,
+    "id": 1470,
     "original_num": 1471,
     "question": "1471. BP230 is a member of of which of the following families?",
     "choices": {
@@ -23501,7 +23517,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1470,
+    "id": 1471,
     "original_num": 1472,
     "question": "1472. Which of the following enzymes does not require copper for functioning?",
     "choices": {
@@ -23517,7 +23533,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1471,
+    "id": 1472,
     "original_num": 1473,
     "question": "1473. When do melanocytes begin to synthesize melanin?",
     "choices": {
@@ -23533,7 +23549,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1472,
+    "id": 1473,
     "original_num": 1474,
     "question": "1474. Which of the following is true regarding BPAg1?",
     "choices": {
@@ -23549,7 +23565,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1473,
+    "id": 1474,
     "original_num": 1475,
     "question": "1475. Moving from internally to externally choose the correct description of the hair follicle:",
     "choices": {
@@ -23565,7 +23581,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1474,
+    "id": 1475,
     "original_num": 1476,
     "question": "1476. Mast cells are derived from bone marrow",
     "choices": {
@@ -23581,7 +23597,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1475,
+    "id": 1476,
     "original_num": 1477,
     "question": "1477. Krause end bulbs are:",
     "choices": {
@@ -23597,7 +23613,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1476,
+    "id": 1477,
     "original_num": 1478,
     "question": "1478. Choose the correct answer regarding melanin and skin color:",
     "choices": {
@@ -23613,7 +23629,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1477,
+    "id": 1478,
     "original_num": 1479,
     "question": "1479. Which of the following cells are required for wound healing?",
     "choices": {
@@ -23629,7 +23645,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1478,
+    "id": 1479,
     "original_num": 1480,
     "question": "1480. Which of the following markers are specific and reliable for Merkel cells?",
     "choices": {
@@ -23645,7 +23661,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1479,
+    "id": 1480,
     "original_num": 1481,
     "question": "1481. Elastic fibers contain the specific amino acids:",
     "choices": {
@@ -23661,7 +23677,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1480,
+    "id": 1481,
     "original_num": 1482,
     "question": "1482. Regarding the stratum germinativum (basale):",
     "choices": {
@@ -23677,7 +23693,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1481,
+    "id": 1482,
     "original_num": 1483,
     "question": "1483. Dystrophic epidermolysis bullosa results from mutations in:",
     "choices": {
@@ -23693,7 +23709,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1482,
+    "id": 1483,
     "original_num": 1484,
     "question": "1484. Which eponym describes vestigial lines of pigmentary demarcation?",
     "choices": {
@@ -23709,7 +23725,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1483,
+    "id": 1484,
     "original_num": 1485,
     "question": "1485. Apocrine glands are found in all of the following areas of the body except:",
     "choices": {
@@ -23725,7 +23741,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1484,
+    "id": 1485,
     "original_num": 1486,
     "question": "1486. What is the average duration of the telogen cycle in terminal scalp hair?",
     "choices": {
@@ -23741,7 +23757,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1485,
+    "id": 1486,
     "original_num": 1487,
     "question": "1487. Sebaceous glands are located in each of the following locations except:",
     "choices": {
@@ -23757,7 +23773,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1486,
+    "id": 1487,
     "original_num": 1488,
     "question": "1488. Which one of the following is responsible for maintaining a barrier to water loss in the stratum corneum?",
     "choices": {
@@ -23773,7 +23789,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1487,
+    "id": 1488,
     "original_num": 1489,
     "question": "1489. Surgery, Parturition, Fever, Kwashiokor and Hypervitaminosis A are all causes of:",
     "choices": {
@@ -23789,7 +23805,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1488,
+    "id": 1489,
     "original_num": 1490,
     "question": "1490. Which of the following is a member of the armadillo family of linking proteins?",
     "choices": {
@@ -23805,7 +23821,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1489,
+    "id": 1490,
     "original_num": 1491,
     "question": "1491. Which cell type is required for wound healing?",
     "choices": {
@@ -23821,7 +23837,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1490,
+    "id": 1491,
     "original_num": 1492,
     "question": "1492. Defects in what kind of structural protein lead to pyloric atresia associated with junctional epidermolysis bullosa:",
     "choices": {
@@ -23837,7 +23853,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1491,
+    "id": 1492,
     "original_num": 1493,
     "question": "1493. In the epidermis, the cell most responsible for antigen detection and processing is the:",
     "choices": {
@@ -23853,7 +23869,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1492,
+    "id": 1493,
     "original_num": 1494,
     "question": "1494. Keratinocytes are derived from which of the following:",
     "choices": {
@@ -23869,7 +23885,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1493,
+    "id": 1494,
     "original_num": 1495,
     "question": "1495. Which of the following amino acids are typically found in elastic fibers?",
     "choices": {
@@ -23885,7 +23901,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1494,
+    "id": 1495,
     "original_num": 1496,
     "question": "1496. Itch is most commonly transmitted by:",
     "choices": {
@@ -23901,7 +23917,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1495,
+    "id": 1496,
     "original_num": 1497,
     "question": "1497. At any one time, the approximate proportion of hair follicles in anagen is:",
     "choices": {
@@ -23917,7 +23933,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1496,
+    "id": 1497,
     "original_num": 1498,
     "question": "1498. What is the major component of the anchoring fibril?",
     "choices": {
@@ -23933,7 +23949,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1497,
+    "id": 1498,
     "original_num": 1499,
     "question": "1499. The microflora of pilosebaceous unit consist of which of the following:",
     "choices": {
@@ -23949,7 +23965,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1498,
+    "id": 1499,
     "original_num": 1500,
     "question": "1500. Which mechanoreceptor found in hair-bearing areas senses deep touch and vibration?",
     "choices": {
@@ -23965,7 +23981,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1499,
+    "id": 1500,
     "original_num": 1501,
     "question": "1501. Retinoids upregulate transcription of which types of collagen?",
     "choices": {
@@ -23981,7 +23997,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1500,
+    "id": 1501,
     "original_num": 1502,
     "question": "1502. Which of the following options is characteristic of integrins?",
     "choices": {
@@ -23997,7 +24013,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1501,
+    "id": 1502,
     "original_num": 1503,
     "question": "1503. What component is the major barrier in the stratum corneum?",
     "choices": {
@@ -24013,7 +24029,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1502,
+    "id": 1503,
     "original_num": 1504,
     "question": "1504. Which of the following dermal cells always express CD11c and CD6?",
     "choices": {
@@ -24029,7 +24045,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1503,
+    "id": 1504,
     "original_num": 1505,
     "question": "1505. The formation of granulation tissue depends on the presence of:",
     "choices": {
@@ -24045,7 +24061,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1504,
+    "id": 1505,
     "original_num": 1506,
     "question": "1506. The major protein component of the cornified envelope is:",
     "choices": {
@@ -24061,7 +24077,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1505,
+    "id": 1506,
     "original_num": 1507,
     "question": "1507. The epidermis is comprised of what type of cells?",
     "choices": {
@@ -24077,7 +24093,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1506,
+    "id": 1507,
     "original_num": 1508,
     "question": "1508. The major component of the anchoring filaments is:",
     "choices": {
@@ -24093,7 +24109,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1507,
+    "id": 1508,
     "original_num": 1509,
     "question": "1509. Which of the following is not a specialized type of sebaceous gland?",
     "choices": {
@@ -24109,7 +24125,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1508,
+    "id": 1509,
     "original_num": 1510,
     "question": "1510. Homocystinuria has abnormal crosslinking of collagen because of a mutation in:",
     "choices": {
@@ -24125,7 +24141,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1509,
+    "id": 1510,
     "original_num": 1511,
     "question": "1511. Keratohyalin granules contain:",
     "choices": {
@@ -24141,7 +24157,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1510,
+    "id": 1511,
     "original_num": 1512,
     "question": "1512. Which of the following statements about elastic fibers is true?",
     "choices": {
@@ -24157,7 +24173,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1511,
+    "id": 1512,
     "original_num": 1513,
     "question": "1513. The proteins that make up the cornified cell envelope are synthesized in the:",
     "choices": {
@@ -24173,7 +24189,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1512,
+    "id": 1513,
     "original_num": 1514,
     "question": "1514. Sebaceous glands secrete sebum through which of the following secretory mechanisms?",
     "choices": {
@@ -24189,7 +24205,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1513,
+    "id": 1514,
     "original_num": 1515,
     "question": "1515. What is the significance of the critical line of Auber?",
     "choices": {
@@ -24205,7 +24221,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1514,
+    "id": 1515,
     "original_num": 1516,
     "question": "1516. Which of the following statements is true about eccrine glands?",
     "choices": {
@@ -24221,7 +24237,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1515,
+    "id": 1516,
     "original_num": 1517,
     "question": "1517. Apocrine chromhidrosis results from which of the following contents of apocrine sweat?",
     "choices": {
@@ -24237,7 +24253,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1516,
+    "id": 1517,
     "original_num": 1518,
     "question": "1518. The main collagen component of the basement membrane is:",
     "choices": {
@@ -24253,7 +24269,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1517,
+    "id": 1518,
     "original_num": 1519,
     "question": "1519. Each of the following is true about the basement membrane zone except:",
     "choices": {
@@ -24269,7 +24285,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1518,
+    "id": 1519,
     "original_num": 1520,
     "question": "1520. Eccrine glands are found in all the following areas of the body except:",
     "choices": {
@@ -24285,7 +24301,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1519,
+    "id": 1520,
     "original_num": 1521,
     "question": "1521. Which element is necessary for function of matrix metalloproteinases?",
     "choices": {
@@ -24301,7 +24317,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1520,
+    "id": 1521,
     "original_num": 1522,
     "question": "1522. Regarding the stratum spinosum, which of the following is correct?",
     "choices": {
@@ -24317,7 +24333,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1521,
+    "id": 1522,
     "original_num": 1523,
     "question": "1523. Which of the following statements about Laminins is correct?",
     "choices": {
@@ -24333,7 +24349,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1522,
+    "id": 1523,
     "original_num": 1524,
     "question": "1524. Which of the following protein plays a major role in wound healing?",
     "choices": {
@@ -24349,7 +24365,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1523,
+    "id": 1524,
     "original_num": 1525,
     "question": "1525. Acid keratins are expressed on which of the following chromosomes?",
     "choices": {
@@ -24365,7 +24381,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1524,
+    "id": 1525,
     "original_num": 1526,
     "question": "1526. Which of the following diseases has decreased or absent lamellar granules?",
     "choices": {
@@ -24381,7 +24397,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1525,
+    "id": 1526,
     "original_num": 1527,
     "question": "1527. During embryogenesis, periderm cells of the fetus contain which of the following substances?",
     "choices": {
@@ -24397,7 +24413,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1526,
+    "id": 1527,
     "original_num": 1528,
     "question": "1528. The first cell type to migrate into a new wound in great numbers is the:",
     "choices": {
@@ -24413,7 +24429,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1527,
+    "id": 1528,
     "original_num": 1529,
     "question": "1529. Pick the correctly paired keratin with its structure:",
     "choices": {
@@ -24429,7 +24445,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1528,
+    "id": 1529,
     "original_num": 1530,
     "question": "1530. About atopic dermatitis, which of the following is NOT TRUE?",
     "choices": {
@@ -24445,7 +24461,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1529,
+    "id": 1530,
     "original_num": 1531,
     "question": "1531. Which of the following is NOT TRUE about pruritus ani?",
     "choices": {
@@ -24461,7 +24477,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1530,
+    "id": 1531,
     "original_num": 1532,
     "question": "1532. What next text should be performed on Neurofibromatosis type I patient?",
     "choices": {
@@ -24477,7 +24493,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1531,
+    "id": 1532,
     "original_num": 1533,
     "question": "1533. Griseofulvin reaches the outermost layer of the skin by:",
     "choices": {
@@ -24493,7 +24509,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1532,
+    "id": 1533,
     "original_num": 1534,
     "question": "1534. Embryologically, epidermal stratification occurs at approximately what estimated gestational age?",
     "choices": {
@@ -24509,7 +24525,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1533,
+    "id": 1534,
     "original_num": 1535,
     "question": "1535. Type VII collagen is found in anchoring fibrils and also in:",
     "choices": {
@@ -24525,7 +24541,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1534,
+    "id": 1535,
     "original_num": 1536,
     "question": "1536. Acid keratins (K10-20) are expressed on which of the following chromosomes?",
     "choices": {
@@ -24541,7 +24557,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1535,
+    "id": 1536,
     "original_num": 1537,
     "question": "1537. Dermal dendrocytes:",
     "choices": {
@@ -24557,7 +24573,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1536,
+    "id": 1537,
     "original_num": 1538,
     "question": "1538. Which of the following skin conditions involves elastin?",
     "choices": {
@@ -24573,7 +24589,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1537,
+    "id": 1538,
     "original_num": 1539,
     "question": "1539. Fragmentation and/or loss of elastic fibers in not seen in:",
     "choices": {
@@ -24589,7 +24605,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1538,
+    "id": 1539,
     "original_num": 1540,
     "question": "1540. Which of the following glands is not under neural control?",
     "choices": {
@@ -24605,7 +24621,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1539,
+    "id": 1540,
     "original_num": 1541,
     "question": "1541. Which of the following statements about glomus cells is correct?",
     "choices": {
@@ -24621,7 +24637,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1540,
+    "id": 1541,
     "original_num": 1542,
     "question": "1542. Which of the following statements about plectin is correct?",
     "choices": {
@@ -24637,7 +24653,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1541,
+    "id": 1542,
     "original_num": 1543,
     "question": "1543. Anchoring fibrils are primarily composed of:",
     "choices": {
@@ -24653,7 +24669,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1542,
+    "id": 1543,
     "original_num": 1544,
     "question": "1544. Anagen effluvium is",
     "choices": {
@@ -24669,7 +24685,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1543,
+    "id": 1544,
     "original_num": 1545,
     "question": "1545. On electron microscopy, which cell demonstrates cytoplasmic projections and secretory granules?",
     "choices": {
@@ -24685,7 +24701,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1544,
+    "id": 1545,
     "original_num": 1546,
     "question": "1546. The function of glycosaminoglycans/proteoglycans in the dermis is:",
     "choices": {
@@ -24701,7 +24717,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1545,
+    "id": 1546,
     "original_num": 1547,
     "question": "1547. The first primordial hair follicles form on the eyebrows, upper lip and chin at which gestational age?",
     "choices": {
@@ -24717,7 +24733,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1546,
+    "id": 1547,
     "original_num": 1548,
     "question": "1548. Once a keratinocyte leaves the basal cell layer, the normal transit time to stratum corneum is at least:",
     "choices": {
@@ -24733,7 +24749,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1547,
+    "id": 1548,
     "original_num": 1549,
     "question": "1549. Mutations in which of the following proteins results in epidermolysis bullosa simplex associated with muscular dystrophy:",
     "choices": {
@@ -24749,7 +24765,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1548,
+    "id": 1549,
     "original_num": 1550,
     "question": "1550. Which of the following keratins would most likely be expressed in the nail bed?",
     "choices": {
@@ -24765,7 +24781,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1549,
+    "id": 1550,
     "original_num": 1551,
     "question": "1551. All of the following pertain to Odland bodies EXCEPT:",
     "choices": {
@@ -24781,7 +24797,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1550,
+    "id": 1551,
     "original_num": 1552,
     "question": "1552. Red or blonde hair pigmentation primarily results from:",
     "choices": {
@@ -24797,7 +24813,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1551,
+    "id": 1552,
     "original_num": 1553,
     "question": "1553. Which of the following polypeptides is found in the lamina lucida?",
     "choices": {
@@ -24813,7 +24829,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1552,
+    "id": 1553,
     "original_num": 1554,
     "question": "1554. Regarding dermal-epidermal junction, which of the following statements is true:",
     "choices": {
@@ -24829,7 +24845,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1553,
+    "id": 1554,
     "original_num": 1555,
     "question": "1555. The desmosomal connections of the epidermis are dependent on which of the following ions?",
     "choices": {
@@ -24845,7 +24861,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1554,
+    "id": 1555,
     "original_num": 1556,
     "question": "1556. The strength of a scar:",
     "choices": {
@@ -24861,7 +24877,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1555,
+    "id": 1556,
     "original_num": 1557,
     "question": "1557. Which type of collagen in mutated in osteogenesis imperfecta?",
     "choices": {
@@ -24877,7 +24893,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1556,
+    "id": 1557,
     "original_num": 1558,
     "question": "1558. Apocrine glands:",
     "choices": {
@@ -24893,7 +24909,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1557,
+    "id": 1558,
     "original_num": 1559,
     "question": "1559. People with darker skin show:",
     "choices": {
@@ -24909,7 +24925,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1558,
+    "id": 1559,
     "original_num": 1560,
     "question": "1560. melanocyte has contact with:",
     "choices": {
@@ -24925,7 +24941,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1559,
+    "id": 1560,
     "original_num": 1561,
     "question": "1561. Which of the following stains would you expect to be positive in a normal eccrine unit?",
     "choices": {
@@ -24941,7 +24957,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1560,
+    "id": 1561,
     "original_num": 1562,
     "question": "1562. Apocrine glands:",
     "choices": {
@@ -24957,7 +24973,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1561,
+    "id": 1562,
     "original_num": 1563,
     "question": "1563. A defect in alpha-6-beta-4 integrin is seen in which of the following conditions?",
     "choices": {
@@ -24973,7 +24989,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1562,
+    "id": 1563,
     "original_num": 1564,
     "question": "1564. Anchoring filaments originate at the hemidesmosomes and insert into the:",
     "choices": {
@@ -24989,7 +25005,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1563,
+    "id": 1564,
     "original_num": 1565,
     "question": "1565. Which protein is the largest component of the cornified cell envelope?",
     "choices": {
@@ -25005,7 +25021,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1564,
+    "id": 1565,
     "original_num": 1566,
     "question": "1566. Keratin filaments in basal cells insert into:",
     "choices": {
@@ -25021,7 +25037,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1565,
+    "id": 1566,
     "original_num": 1567,
     "question": "1567. What is the most abundant collagen found on fetal skin?",
     "choices": {
@@ -25037,7 +25053,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1566,
+    "id": 1567,
     "original_num": 1568,
     "question": "1568. At what estimated gestational age are all layers of the keratinized epidermis identifiable?",
     "choices": {
@@ -25053,7 +25069,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1567,
+    "id": 1568,
     "original_num": 1569,
     "question": "1569. Which signaling molecule mediates the transition of hair cycling from telogen to anagen phase?",
     "choices": {
@@ -25069,7 +25085,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1568,
+    "id": 1569,
     "original_num": 1570,
     "question": "1570. Upon presentation of an antigen in the skin surface, a hapten forms. The first cell to take up the hapten is:",
     "choices": {
@@ -25085,7 +25101,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1569,
+    "id": 1570,
     "original_num": 1571,
     "question": "1571. Which of the following domains is targeted by the autoantibodies in bullous pemphigoid?",
     "choices": {
@@ -25101,7 +25117,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1570,
+    "id": 1571,
     "original_num": 1572,
     "question": "1572. The finding on DIF that reflects binding of the Ro and La antigens in subacute cutaneous lupus erythematosus is:",
     "choices": {
@@ -25117,7 +25133,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1571,
+    "id": 1572,
     "original_num": 1573,
     "question": "1573. Odland bodies:",
     "choices": {
@@ -25133,7 +25149,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1572,
+    "id": 1573,
     "original_num": 1574,
     "question": "1574. Desmosine and isodesmosine are typical amino acids found in:",
     "choices": {
@@ -25149,7 +25165,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1573,
+    "id": 1574,
     "original_num": 1575,
     "question": "1575. Meibomian glands are:",
     "choices": {
@@ -25165,7 +25181,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1574,
+    "id": 1575,
     "original_num": 1576,
     "question": "1576. Meibomian glands are:",
     "choices": {
@@ -25181,7 +25197,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1575,
+    "id": 1576,
     "original_num": 1577,
     "question": "1577. Direct immunofluorescence staining of intercellular spaces and the basement membrane zone, in combination, is seen in:",
     "choices": {
@@ -25197,7 +25213,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1576,
+    "id": 1577,
     "original_num": 1578,
     "question": "1578. Which cytokeratin would you expect to be preferentially expressed in the keratinocytes of a psoriatic plaque:",
     "choices": {
@@ -25213,7 +25229,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1577,
+    "id": 1578,
     "original_num": 1579,
     "question": "1579. Anagen effluvium is best described as:",
     "choices": {
@@ -25229,7 +25245,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1578,
+    "id": 1579,
     "original_num": 1580,
     "question": "1580. Platelets release which of the following factors to promote new tissue growth?",
     "choices": {
@@ -25245,7 +25261,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1579,
+    "id": 1580,
     "original_num": 1581,
     "question": "1581. Cutaneous warts in renal transplant recipients show increased expression of which keratin?",
     "choices": {
@@ -25261,7 +25277,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1580,
+    "id": 1581,
     "original_num": 1582,
     "question": "1582. Homocystinuria is an autosomal recessive condition with findings including a marfanoid habitus, downward dislocation of the lens, cardiovascular disease and mental retardation. It is caused by a mutation in cystathionine beta-synthetase. What does this mutation in cystathionine beta-synthetase cause other than an accumulation of homocystine?",
     "choices": {
@@ -25277,7 +25293,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1581,
+    "id": 1582,
     "original_num": 1583,
     "question": "1583. Which of the following is true regarding the development of hair follicles?",
     "choices": {
@@ -25293,7 +25309,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1582,
+    "id": 1583,
     "original_num": 1584,
     "question": "1584. A salt split skin DIF is performed on a biopsy taken adjacent to the skin lesions shown. Where would you expect staining to be seen?",
     "choices": {
@@ -25309,7 +25325,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1583,
+    "id": 1584,
     "original_num": 1585,
     "question": "1585. Which of the following make up the major protein of the cornified cell envelope?",
     "choices": {
@@ -25325,7 +25341,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1584,
+    "id": 1585,
     "original_num": 1586,
     "question": "1586. Mutations in which of the following genes will produce red hair?",
     "choices": {
@@ -25341,7 +25357,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1585,
+    "id": 1586,
     "original_num": 1587,
     "question": "1587. Hair grows at:",
     "choices": {
@@ -25357,7 +25373,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1586,
+    "id": 1587,
     "original_num": 1588,
     "question": "1588. The hair follicle is the site of production or conversion of which of the following hormones?",
     "choices": {
@@ -25373,7 +25389,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1587,
+    "id": 1588,
     "original_num": 1589,
     "question": "1589. Direct immunofluorescence is of no value in the diagnosis of:",
     "choices": {
@@ -25389,7 +25405,7 @@
     "source": "Makki Questions"
   },
   {
-    "id": 1588,
+    "id": 1589,
     "original_num": 1590,
     "question": "1590. Each of the following is true about melanosomes except:",
     "choices": {
