@@ -4,8 +4,32 @@ body {
   margin: 0;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
+  /* Force pure black text in light mode for maximum readability */
+  color: #000000;
+}
+
+/* Restore softer light text only in dark mode (Tailwind 'dark' class) */
+html.dark body {
+  color: #f3f4f6; /* gray-100 — original dark-mode text */
 }
 
 #root {
   min-height: 100vh;
+}
+
+/* Light-mode override: anywhere Tailwind would render gray text on a light bg,
+   make it pure black for readability. Dark mode overrides reapply (handled by
+   the more-specific html.dark selectors that Tailwind already generates). */
+html:not(.dark) .text-gray-900,
+html:not(.dark) .text-gray-800,
+html:not(.dark) .text-gray-700,
+html:not(.dark) .text-gray-600,
+html:not(.dark) .text-gray-500 {
+  color: #000000 !important;
+}
+
+/* User text selection (used by the highlighter) */
+::selection {
+  background: #fef08a;
+  color: #000;
 }

@@ -1,6 +1,14 @@
-import { useState, useEffect, useCallback } from 'react'
-import { Sun, Moon, Flag, Pause, Play, ChevronLeft, ChevronRight, X } from 'lucide-react'
+import { useState, useEffect, useCallback, useRef } from 'react'
+import { Sun, Moon, Flag, Pause, Play, ChevronLeft, ChevronRight, X, Highlighter, Eraser } from 'lucide-react'
 import ExplanationPanel from './ExplanationPanel'
+
+const HIGHLIGHTS_KEY = 'last11-quiz-highlights'
+
+function loadHighlights() {
+  try { return JSON.parse(localStorage.getItem(HIGHLIGHTS_KEY)) || {} }
+  catch { return {} }
+}
+function saveHighlights(h) { localStorage.setItem(HIGHLIGHTS_KEY, JSON.stringify(h)) }
 
 export default function QuizScreen({ state, questions, dispatch }) {
   const { questionOrder, currentIndex, answers, flagged, mode, timerSetting, darkMode } = state
@@ -13,8 +21,79 @@ export default function QuizScreen({ state, questions, dispatch }) {
   const [paused, setPaused] = useState(false)
   const [showNav, setShowNav] = useState(false)
 
+  // Highlighter state
+  const [highlightMode, setHighlightMode] = useState(false)
+  const [allHighlights, setAllHighlights] = useState(loadHighlights())
+  const stemRef = useRef(null)
+
   const answered = answers[q?.id]
   const isSubmitted = answered?.submitted
+
+  // Persist highlights
+  useEffect(() => { saveHighlights(allHighlights) }, [allHighlights])
+
+  // Get highlights for current question (array of {start, end})
+  const qHighlights = (q?.id && allHighlights[q.id]) || []
+
+  // Apply highlight on selection
+  const handleHighlight = useCallback(() => {
+    if (!highlightMode || !q?.id) return
+    const sel = window.getSelection()
+    if (!sel || sel.isCollapsed) return
+    const range = sel.getRangeAt(0)
+    if (!stemRef.current || !stemRef.current.contains(range.commonAncestorContainer)) return
+
+    // Compute character offsets within the question text
+    const fullText = q.question || ''
+    const selectedText = sel.toString()
+    if (!selectedText.trim()) return
+    const start = fullText.indexOf(selectedText)
+    if (start < 0) return
+    const end = start + selectedText.length
+
+    setAllHighlights(prev => {
+      const cur = prev[q.id] || []
+      // Merge overlapping ranges
+      const merged = [...cur, { start, end }].sort((a, b) => a.start - b.start)
+      const out = []
+      for (const r of merged) {
+        if (out.length && r.start <= out[out.length - 1].end) {
+          out[out.length - 1].end = Math.max(out[out.length - 1].end, r.end)
+        } else out.push({ ...r })
+      }
+      return { ...prev, [q.id]: out }
+    })
+    sel.removeAllRanges()
+  }, [highlightMode, q?.id, q?.question])
+
+  // Render question stem with highlights applied
+  const renderHighlightedStem = (text) => {
+    if (!qHighlights.length) return text
+    const parts = []
+    let cursor = 0
+    for (const { start, end } of qHighlights) {
+      if (start > cursor) parts.push(<span key={`p${cursor}`}>{text.slice(cursor, start)}</span>)
+      parts.push(
+        <mark
+          key={`h${start}`}
+          className="rounded px-0.5"
+          style={{ backgroundColor: '#fef08a', color: 'inherit' }}
+        >{text.slice(start, end)}</mark>
+      )
+      cursor = end
+    }
+    if (cursor < text.length) parts.push(<span key={`p${cursor}-end`}>{text.slice(cursor)}</span>)
+    return parts
+  }
+
+  const clearHighlights = () => {
+    if (!q?.id) return
+    setAllHighlights(prev => {
+      const next = { ...prev }
+      delete next[q.id]
+      return next
+    })
+  }
 
   // Reset selection when navigating
   useEffect(() => {
@@ -101,6 +180,24 @@ export default function QuizScreen({ state, questions, dispatch }) {
               </button>
             )}
 
+            {/* Highlighter toggle */}
+            <button
+              onClick={() => setHighlightMode(prev => !prev)}
+              title={highlightMode ? 'Highlighter ON — select text in the question to highlight it' : 'Enable highlighter'}
+              className={`p-1.5 rounded-lg transition ${highlightMode ? 'text-yellow-700 bg-yellow-100 dark:bg-yellow-900/40 dark:text-yellow-300' : 'hover:bg-gray-100 dark:hover:bg-gray-700'}`}
+            >
+              <Highlighter size={16} />
+            </button>
+            {qHighlights.length > 0 && (
+              <button
+                onClick={clearHighlights}
+                title="Clear highlights on this question"
+                className="p-1.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500"
+              >
+                <Eraser size={16} />
+              </button>
+            )}
+
             <button
               onClick={() => dispatch({ type: 'FLAG', questionId: q.id })}
               className={`p-1.5 rounded-lg transition ${isFlagged ? 'text-orange-500 bg-orange-50 dark:bg-orange-900/30' : 'hover:bg-gray-100 dark:hover:bg-gray-700'}`}
@@ -180,8 +277,21 @@ export default function QuizScreen({ state, questions, dispatch }) {
               </span>
             )}
 
-            {/* Question stem */}
-            <p className="text-base leading-relaxed mb-6 font-medium">{q.question}</p>
+            {/* Question stem (with highlighter support) */}
+            <p
+              ref={stemRef}
+              onMouseUp={handleHighlight}
+              onTouchEnd={handleHighlight}
+              className={`text-base leading-relaxed mb-6 font-medium text-gray-900 dark:text-gray-100 ${highlightMode ? 'cursor-text' : ''}`}
+              style={highlightMode ? { backgroundColor: 'rgba(254, 240, 138, 0.06)' } : {}}
+            >
+              {renderHighlightedStem(q.question)}
+            </p>
+            {highlightMode && (
+              <p className="text-[10px] uppercase tracking-wider text-yellow-700 dark:text-yellow-300 mb-3">
+                Highlighter ON — select any text in the question above to highlight it
+              </p>
+            )}
 
             {/* Blurred overlay when paused */}
             <div className={paused ? 'blur-md select-none pointer-events-none' : ''}>
