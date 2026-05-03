@@ -805,7 +805,7 @@
       "C": "Not affected",
       "D": "Variable Change"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "correct_text": "Decrease",
     "explanation": ""
   },
@@ -14878,7 +14878,7 @@
       "D": "Atypical mitosis",
       "E": "Low nucleolus nuclear ratio"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "correct_text": "(Metastasis is a hallmark of malignancy, but not all malignant tumors",
     "explanation": "metastasize) (However all are correct except E, if except choose E)"
   },
