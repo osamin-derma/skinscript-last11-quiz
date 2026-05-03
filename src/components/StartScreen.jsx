@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react'
-import { Sun, Moon, BookOpen, Clock, Eye, Flag, XCircle, Sparkles, History, Trash2, ChevronDown, ChevronUp, Trophy, BarChart3 } from 'lucide-react'
+import React, { useState, useEffect, useMemo } from 'react'
+import { Sun, Moon, BookOpen, Clock, Eye, Flag, XCircle, Sparkles, History, Trash2, ChevronDown, ChevronUp, Trophy, BarChart3, Search, X as XIcon } from 'lucide-react'
 
 export default function StartScreen({ totalQuestions, topics, darkMode, state, onToggleDark, onStart, dispatch, banks }) {
   const [mode, setMode] = useState('tutor')
@@ -15,6 +15,81 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
   const setActiveBank = (bank) => {
     setActiveBankLocal(bank)
     dispatch({ type: 'SET_BANK', bank })
+  }
+
+  // ───────── Global Search ─────────
+  const [searchQuery, setSearchQuery] = useState('')
+  const [searchScope, setSearchScope] = useState('all')   // 'all' | 'last11' | 'makki' | 'etasHairNails' | 'bvHairNail'
+  const [searchScopeFilter, setSearchScopeFilter] = useState('any') // 'any' | 'question' | 'choices' | 'explanation'
+
+  // Compute search results (debounced via useMemo on inputs)
+  const searchResults = useMemo(() => {
+    const q = searchQuery.trim().toLowerCase()
+    if (q.length < 2 || !banks) return []
+    const pool = banks[searchScope]?.questions || banks.all?.questions || []
+    const matches = []
+    for (const item of pool) {
+      const qText = (item.question || '').toLowerCase()
+      const choicesText = item.choices ? Object.values(item.choices).join(' ').toLowerCase() : ''
+      const explText = (item.explanation || '').toLowerCase()
+
+      let hit = false
+      if (searchScopeFilter === 'question') hit = qText.includes(q)
+      else if (searchScopeFilter === 'choices') hit = choicesText.includes(q)
+      else if (searchScopeFilter === 'explanation') hit = explText.includes(q)
+      else hit = qText.includes(q) || choicesText.includes(q) || explText.includes(q)
+
+      if (hit) {
+        matches.push(item)
+        if (matches.length >= 100) break  // cap for performance
+      }
+    }
+    return matches
+  }, [searchQuery, searchScope, searchScopeFilter, banks])
+
+  // Helper to highlight matched substring in a piece of text
+  const highlightMatch = (text, query) => {
+    if (!text || !query) return text
+    const i = text.toLowerCase().indexOf(query.toLowerCase())
+    if (i < 0) return text
+    return (
+      <>
+        {text.slice(0, i)}
+        <mark className="bg-yellow-200 dark:bg-yellow-700/60 rounded px-0.5">
+          {text.slice(i, i + query.length)}
+        </mark>
+        {text.slice(i + query.length)}
+      </>
+    )
+  }
+
+  // Determine which bank a question belongs to (for search results)
+  const findQuestionBank = (qid) => {
+    if (!banks) return 'all'
+    for (const key of ['last11', 'makki', 'etasHairNails', 'bvHairNail']) {
+      if (banks[key]?.questions?.some(q => q.id === qid)) return key
+    }
+    return 'all'
+  }
+
+  const openSearchResult = (result) => {
+    const realQuestionId = result.id > 100000 ? null : result.id
+    // Search results from "all" bank have offset IDs (+100k, +200k, +300k)
+    // We need the ORIGINAL bank's id. Use a more reliable method:
+    // try to find by matching on the question text in each individual bank
+    let bankKey = 'all'
+    let originalId = result.id
+    for (const key of ['last11', 'makki', 'etasHairNails', 'bvHairNail']) {
+      const found = banks[key]?.questions?.find(q =>
+        q.question === result.question && q.correct_answer === result.correct_answer
+      )
+      if (found) {
+        bankKey = key
+        originalId = found.id
+        break
+      }
+    }
+    dispatch({ type: 'OPEN_SINGLE_QUESTION', bank: bankKey, questionId: originalId })
   }
 
   const { history = [], globalFlagged = [], globalWrong = [], globalUsed = [] } = state
@@ -129,6 +204,149 @@ export default function StartScreen({ totalQuestions, topics, darkMode, state, o
               <Trash2 size={12} />
               Start Fresh (Reset All)
             </button>
+          </div>
+        )}
+
+        {/* ═══════════════════════════════════════════════ */}
+        {/* GLOBAL SEARCH BOX                               */}
+        {/* ═══════════════════════════════════════════════ */}
+        {banks && (
+          <div className="mb-5">
+            <div className="flex items-center gap-2 mb-3">
+              <div className="w-1 h-5 rounded-full" style={{ backgroundColor: brand }} />
+              <label className="text-sm font-bold uppercase tracking-wide" style={{ color: brand }}>
+                Search Questions
+              </label>
+            </div>
+
+            {/* Search input */}
+            <div className={`relative rounded-xl border-2 transition-all ${
+              searchQuery
+                ? 'border-teal-700 shadow-md'
+                : 'border-gray-200 dark:border-gray-600 hover:border-gray-300'
+            }`}>
+              <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" />
+              <input
+                type="text"
+                value={searchQuery}
+                onChange={e => setSearchQuery(e.target.value)}
+                placeholder="Search any word in questions, choices, or explanations…"
+                className={`w-full py-3 pl-10 pr-9 rounded-xl bg-transparent text-sm focus:outline-none ${darkMode ? 'placeholder-gray-500' : 'placeholder-gray-400'}`}
+              />
+              {searchQuery && (
+                <button
+                  onClick={() => setSearchQuery('')}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 p-1 rounded-md hover:bg-gray-100 dark:hover:bg-gray-700"
+                  title="Clear search"
+                >
+                  <XIcon size={16} className="text-gray-400" />
+                </button>
+              )}
+            </div>
+
+            {/* Scope filters: in-bank + field */}
+            {searchQuery.trim().length >= 2 && (
+              <div className="mt-3 space-y-2">
+                {/* Bank scope */}
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <span className="text-[10px] uppercase tracking-wider font-semibold text-gray-500 mr-1">In:</span>
+                  {[
+                    { key: 'all',           label: `All (${banks.all.count})` },
+                    { key: 'last11',        label: `Last 11 (${banks.last11.count})` },
+                    { key: 'makki',         label: `Makki (${banks.makki.count})` },
+                    { key: 'etasHairNails', label: `ETAS H&N (${banks.etasHairNails.count})` },
+                    { key: 'bvHairNail',    label: `BV H&N (${banks.bvHairNail.count})` },
+                  ].map(s => (
+                    <button
+                      key={s.key}
+                      onClick={() => setSearchScope(s.key)}
+                      className={`px-2.5 py-1 rounded-lg text-[11px] font-medium border transition ${
+                        searchScope === s.key
+                          ? 'border-blue-500 bg-blue-50 text-blue-700 dark:bg-blue-900/30'
+                          : 'border-gray-200 hover:border-gray-300 dark:border-gray-600'
+                      }`}
+                    >
+                      {s.label}
+                    </button>
+                  ))}
+                </div>
+                {/* Field scope */}
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <span className="text-[10px] uppercase tracking-wider font-semibold text-gray-500 mr-1">Where:</span>
+                  {[
+                    { key: 'any',         label: 'Anywhere' },
+                    { key: 'question',    label: 'Question stem' },
+                    { key: 'choices',     label: 'Answer choices' },
+                    { key: 'explanation', label: 'Explanation' },
+                  ].map(s => (
+                    <button
+                      key={s.key}
+                      onClick={() => setSearchScopeFilter(s.key)}
+                      className={`px-2.5 py-1 rounded-lg text-[11px] font-medium border transition ${
+                        searchScopeFilter === s.key
+                          ? 'border-purple-500 bg-purple-50 text-purple-700 dark:bg-purple-900/30'
+                          : 'border-gray-200 hover:border-gray-300 dark:border-gray-600'
+                      }`}
+                    >
+                      {s.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Results panel */}
+            {searchQuery.trim().length >= 2 && (
+              <div className={`mt-3 rounded-xl border ${darkMode ? 'border-gray-700 bg-gray-800/40' : 'border-gray-200 bg-gray-50/60'}`}>
+                <div className="px-3 py-2 border-b dark:border-gray-700 flex items-center justify-between">
+                  <span className="text-xs font-semibold text-gray-600 dark:text-gray-300">
+                    {searchResults.length === 0
+                      ? 'No matches'
+                      : `${searchResults.length}${searchResults.length >= 100 ? '+' : ''} match${searchResults.length === 1 ? '' : 'es'}`}
+                  </span>
+                  {searchResults.length >= 100 && (
+                    <span className="text-[10px] text-gray-400">Showing first 100 — refine your search</span>
+                  )}
+                </div>
+                {searchResults.length > 0 && (
+                  <div className="max-h-72 overflow-y-auto divide-y dark:divide-gray-700">
+                    {searchResults.map((r, idx) => {
+                      const bankOfQ = findQuestionBank(r.id) // fallback
+                      const bankLabel = banks[bankOfQ]?.label || 'All'
+                      const correctChoiceText = r.choices?.[r.correct_answer] || r.correct_text || ''
+                      return (
+                        <button
+                          key={`${r.id}-${idx}`}
+                          onClick={() => openSearchResult(r)}
+                          className={`w-full text-left p-3 transition ${darkMode ? 'hover:bg-gray-700/40' : 'hover:bg-white'}`}
+                        >
+                          <div className="flex items-center gap-2 mb-1">
+                            <span className="text-[10px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded" style={{ backgroundColor: '#e8f0f0', color: brand }}>
+                              {r.source || bankLabel}
+                            </span>
+                            {r.exam && (
+                              <span className="text-[10px] text-gray-400">📅 {r.exam}</span>
+                            )}
+                            <span className="text-[10px] text-gray-400 ml-auto">Q{r.original_num || r.id}</span>
+                          </div>
+                          <p className="text-sm leading-snug line-clamp-2">
+                            {highlightMatch(r.question, searchQuery.trim())}
+                          </p>
+                          <p className="text-[11px] text-green-600 dark:text-green-400 mt-1">
+                            ✓ {r.correct_answer}. {highlightMatch(correctChoiceText.slice(0, 120), searchQuery.trim())}
+                          </p>
+                        </button>
+                      )
+                    })}
+                  </div>
+                )}
+                {searchResults.length === 0 && (
+                  <div className="p-6 text-center text-xs text-gray-400">
+                    Try different keywords or change the scope above.
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         )}
 

@@ -231,6 +231,24 @@ function reducer(state, action) {
       if (flaggedOrder.length === 0) return state
       return { ...state, screen: 'quiz', mode: 'tutor', questionOrder: flaggedOrder, currentIndex: 0, answers: {}, flagged: [], quizSource: 'flagged' }
     }
+    case 'OPEN_SINGLE_QUESTION': {
+      // Jump directly to a single question (from search results)
+      const bankKey = action.bank || state.activeBank
+      const bankQs = getBankQuestions(bankKey)
+      const idx = bankQs.findIndex(q => q.id === action.questionId)
+      if (idx < 0) return state
+      return {
+        ...state,
+        screen: 'quiz',
+        mode: 'review',           // review mode = show answer/explanation immediately
+        questionOrder: [idx],
+        currentIndex: 0,
+        answers: {},
+        flagged: [],
+        quizSource: 'search',
+        activeBank: bankKey,
+      }
+    }
     case 'REVIEW_WRONG': {
       const bankQs = getBankQuestions(state.activeBank)
       const wrongOrder = bankQs.map((_, i) => i).filter(i => state.globalWrong.includes(bankQs[i]?.id))
@@ -315,11 +333,11 @@ export default function App() {
           onStart={(opts) => dispatch({ type: 'START_QUIZ', ...opts })}
           dispatch={dispatch}
           banks={{
-            all: { label: 'All Questions', count: allBanks.all.count },
-            last11: { label: 'Last 11 Board Exams', count: allBanks.last11.count },
-            makki: { label: 'Makki Questions', count: allBanks.makki.count },
-            etasHairNails: { label: 'ETAS Hair & Nails', count: allBanks.etasHairNails.count },
-            bvHairNail: { label: 'Board Vitals — Hair & Nail', count: allBanks.bvHairNail.count },
+            all: { label: 'All Questions', count: allBanks.all.count, questions: allBanks.all.questions },
+            last11: { label: 'Last 11 Board Exams', count: allBanks.last11.count, questions: allBanks.last11.questions },
+            makki: { label: 'Makki Questions', count: allBanks.makki.count, questions: allBanks.makki.questions },
+            etasHairNails: { label: 'ETAS Hair & Nails', count: allBanks.etasHairNails.count, questions: allBanks.etasHairNails.questions },
+            bvHairNail: { label: 'Board Vitals — Hair & Nail', count: allBanks.bvHairNail.count, questions: allBanks.bvHairNail.questions },
           }}
           activeBank={state.activeBank}
           setActiveBank={(bank) => dispatch({ type: 'SET_BANK', bank })}
